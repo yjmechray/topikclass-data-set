@@ -1,0 +1,84 @@
+{
+  "Week 1": {
+    "Lecture 1": {
+      "시험 및 학습 관련 (Test & Study Related)": [
+        {"front": "급수 기준", "back": "Level criteria"},
+        {"front": "출제 유형", "back": "Question types"},
+        {"front": "기출 문항", "back": "Past exam questions"},
+        {"front": "듣기", "back": "Listening"},
+        {"front": "쓰기", "back": "Writing"},
+        {"front": "읽기", "back": "Reading"},
+        {"front": "객관식", "back": "Multiple choice"},
+        {"front": "주관식", "back": "Subjective / Written answer"},
+        {"front": "배점", "back": "Point allocation / Score"},
+        {"front": "총점", "back": "Total score"},
+        {"front": "만점", "back": "Perfect score"},
+        {"front": "이어질 수 있는 말", "back": "Words that can follow / Next logical phrase"}
+      ],
+      "그래프 및 설문 관련 (Graph & Survey Related)": [
+        {"front": "그래프", "back": "Graph"},
+        {"front": "방문 목적", "back": "Purpose of visit"},
+        {"front": "휴가", "back": "Vacation / Holiday"},
+        {"front": "사업", "back": "Business"},
+        {"front": "친척 방문", "back": "Visiting relatives"},
+        {"front": "뒤를 잇다", "back": "To follow after"},
+        {"front": "함께 방문하는 사람", "back": "Person visiting with"},
+        {"front": "가족", "back": "Family"},
+        {"front": "친구", "back": "Friend"},
+        {"front": "혼자", "back": "Alone"},
+        {"front": "동료", "back": "Colleague / Coworker"},
+        {"front": "~(으)로 나타나다", "back": "To appear as; to turn out to be"}
+      ],
+      "일상 대화 및 행동 관련 (Everyday Dialogue & Action Related)": [
+        {"front": "전시장", "back": "Exhibition hall"},
+        {"front": "들어가다", "back": "To enter; to go in"},
+        {"front": "잠시만", "back": "Just a moment"},
+        {"front": "기다리다", "back": "To wait"},
+        {"front": "곧", "back": "Soon"},
+        {"front": "입장", "back": "Entrance / Admission"},
+        {"front": "입장료", "back": "Entrance fee"},
+        {"front": "시작하다", "back": "To start"},
+        {"front": "화분", "back": "Flowerpot"},
+        {"front": "놓다 / 두다", "back": "To put / to place"},
+        {"front": "창문", "back": "Window"},
+        {"front": "빌려주다", "back": "To lend"},
+        {"front": "돌려주다", "back": "To return (an item)"},
+        {"front": "아르바이트를 구하다/찾다", "back": "To get / look for a part-time job"},
+        {"front": "식당", "back": "Restaurant"},
+        {"front": "운동화", "back": "Sneakers / Athletic shoes"},
+        {"front": "마음에 들다", "back": "To like; to be to one's liking"},
+        {"front": "괜찮다", "back": "To be okay / fine"},
+        {"front": "잘 어울리다", "back": "To suit well / look good on"},
+        {"front": "주말", "back": "Weekend"},
+        {"front": "장마", "back": "Rainy season / monsoon"},
+        {"front": "작년", "back": "Last year"},
+        {"front": "고객 센터", "back": "Customer service center"},
+        {"front": "주문하다 / 시키다", "back": "To order"},
+        {"front": "의자", "back": "Chair"},
+        {"front": "주문량", "back": "Volume of orders"},
+        {"front": "배송이 늦어지다", "back": "For delivery to be delayed"}
+      ]
+    },
+    "Lecture 2": {
+      "행동 관련 어휘 (Action-related Vocabulary)": [
+        {"front": "씻다", "back": "To wash"},
+        {"front": "자르다", "back": "To cut"},
+        {"front": "보관하다", "back": "To store / keep"},
+        {"front": "벗다", "back": "To take off (clothes, hat)"},
+        {"front": "바꾸다", "back": "To exchange / change"},
+        {"front": "치우다", "back": "To tidy up / remove"}
+      ]
+    }
+  },
+  "Week 2": {
+    "Lecture 1": {
+       "상황 관련 어휘 (Situation-related Vocabulary)": [
+        {"front": "생년월일", "back": "Date of birth"},
+        {"front": "설거지", "back": "Washing dishes"},
+        {"front": "노트북 화면", "back": "Laptop screen"},
+        {"front": "구입하다", "back": "To purchase"},
+        {"front": "공을 굴리다", "back": "To roll a ball"}
+      ]
+    }
+  }
+}
