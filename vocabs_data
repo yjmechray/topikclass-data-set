@@ -376,6 +376,54 @@
                 {"front": "-(ㄴ/는)다는 겁니다", "back": "It means that... / The point is that...", "sentence_ko": "건강하기를 원한다면 웃으라는 겁니다.", "sentence_en": "The point is that if you want to be healthy, you should laugh."}
             ]
         }
+    },
+
+    "Week 7": {
+        "Lecture 1": {
+            "중심 생각 표현 (Main Idea Expressions)": [
+                {"front": "-는 게 좋다", "back": "It's better to...", "sentence_ko": "꽃은 금방 시드니까 오래 볼 수 있는 나무가 있는 화분으로 사는 게 좋아요.", "sentence_en": "Flowers wither quickly, so it's better to buy a pot with a tree that you can see for a long time."},
+                {"front": "-는 게 낫다", "back": "It's better to... (implies comparison)", "sentence_ko": "병원에 가는 게 나을 것 같은데요.", "sentence_en": "I think it would be better to go to the hospital."},
+                {"front": "-아야/어야 하다", "back": "Must / Have to", "sentence_ko": "어른을 존경해야 한다.", "sentence_en": "You must respect your elders."},
+                {"front": "-(으)면 좋겠다", "back": "I wish... / It would be nice if...", "sentence_ko": "사람들의 생각을 함께 이야기할 수 있는 기회가 더 많아졌으면 좋겠어요.", "sentence_en": "It would be nice if there were more opportunities to talk about people's thoughts together."},
+                {"front": "-(으)ㄹ 필요가 있다", "back": "There is a need to...", "sentence_ko": "이 문제는 다시 생각할 필요가 있습니다.", "sentence_en": "This problem needs to be reconsidered."}
+            ],
+            "장소 및 상황 어휘 (Place & Situation Vocabulary)": [
+                {"front": "화분", "back": "Flowerpot", "sentence_ko": "이거 어때요? 화분 크기도 적당하고 나무 모양도 예쁘고.", "sentence_en": "How about this one? The pot size is suitable and the tree shape is pretty."},
+                {"front": "적당하다", "back": "To be suitable / appropriate", "sentence_ko": "화분 크기도 적당하고...", "sentence_en": "The pot size is also suitable..."},
+                {"front": "꽃이 피다", "back": "A flower blooms", "sentence_ko": "꽃이 활짝 핀 화분은 선물하기에 좋지 않아요.", "sentence_en": "A flower pot with fully bloomed flowers is not good for a gift."},
+                {"front": "시들다", "back": "To wither / wilt", "sentence_ko": "꽃은 금방 시드니까 오래 볼 수 있는 나무가 좋아요.", "sentence_en": "Flowers wither quickly, so a tree that you can see for a long time is good."},
+                {"front": "오래가다", "back": "To last long", "sentence_ko": "오래가는 선물이 더 의미가 있다고 생각해요.", "sentence_en": "I think a gift that lasts a long time is more meaningful."},
+                {"front": "의미가 있다", "back": "To be meaningful", "sentence_ko": "오래가는 선물이 더 의미가 있다고 생각해요.", "sentence_en": "I think a gift that lasts a long time is more meaningful."},
+                {"front": "기숙사", "back": "Dormitory", "sentence_ko": "기숙사 방이 남아 있나요?", "sentence_en": "Are there any dormitory rooms left?"},
+                {"front": "대출하다", "back": "To check out / borrow (a book)", "sentence_ko": "도서관에서 책을 대출하려면 학생증이 필요해요.", "sentence_en": "You need a student ID to check out books from the library."},
+                {"front": "썰다", "back": "To chop / slice", "sentence_ko": "요리하려면 먼저 채소를 썰어야 해요.", "sentence_en": "To cook, you first need to chop the vegetables."},
+                {"front": "삶다", "back": "To boil (something in water)", "sentence_ko": "달걀을 삶는 데 10분이 걸립니다.", "sentence_en": "It takes 10 minutes to boil an egg."},
+                {"front": "창가 쪽", "back": "Window side / By the window", "sentence_ko": "창가 쪽 자리가 인기가 많아요.", "sentence_en": "The seats by the window are very popular."}
+            ]
+        },
+        "Lecture 2": {
+            "감정 및 관계 어휘 (Emotion & Relationship Vocabulary)": [
+                {"front": "얼굴이 안 좋아 보이다", "back": "To not look well", "sentence_ko": "무슨 일 있어? 얼굴이 안 좋아 보이네.", "sentence_en": "What's wrong? You don't look well."},
+                {"front": "싸우다", "back": "To fight / argue", "sentence_ko": "아침에 같은 방 쓰는 친구하고 싸웠거든.", "sentence_en": "I had an argument this morning with the friend I share a room with."},
+                {"front": "화가 나다", "back": "To get angry", "sentence_ko": "아직도 화가 나서 참을 수가 없어.", "sentence_en": "I'm still so angry I can't stand it."},
+                {"front": "참을 수가 없다", "back": "To be unable to stand/endure it", "sentence_ko": "아직도 화가 나서 참을 수가 없어.", "sentence_en": "I'm still so angry I can't stand it."},
+                {"front": "화가 풀리다", "back": "Anger is relieved / to cool down", "sentence_ko": "그러다 보면 화가 좀 풀릴 거야.", "sentence_en": "If you do that, your anger will probably subside a bit."},
+                {"front": "화해하다", "back": "To reconcile / make up", "sentence_ko": "싸우고 나면 되도록 빨리 화해하는 것이 좋다.", "sentence_en": "After fighting, it's good to make up as quickly as possible."},
+                {"front": "아쉽다", "back": "To be a pity / a shame", "sentence_ko": "의견을 말할 수 있는 시간이 적은 게 좀 아쉬워요.", "sentence_en": "It's a bit of a shame that there's little time to express opinions."},
+                {"front": "의견을 말하다", "back": "To express an opinion", "sentence_ko": "회의 중에 자유롭게 의견을 말할 수 있어야 해요.", "sentence_en": "You should be able to freely express your opinion during a meeting."}
+            ],
+            "일상 및 회사 어휘 (Daily Life & Company Vocabulary)": [
+                {"front": "이불", "back": "Blanket / Comforter", "sentence_ko": "여름용 이불을 사려고 인터넷 쇼핑몰 검색 중이에요.", "sentence_en": "I'm searching online shopping malls to buy a summer blanket."},
+                {"front": "인터넷 쇼핑몰", "back": "Internet shopping mall", "sentence_ko": "여름용 이불을 사려고 인터넷 쇼핑몰 검색 중이에요.", "sentence_en": "I'm searching online shopping malls to buy a summer blanket."},
+                {"front": "직접 만져 보다", "back": "To feel / touch directly", "sentence_ko": "직접 만져 보는 게 중요하거든요.", "sentence_en": "Because it's important to feel it directly."},
+                {"front": "거칠다", "back": "To be rough / coarse", "sentence_ko": "너무 부드러운 것 보다는 약간 거친 것을 선택하는 게 좋아요.", "sentence_en": "It's better to choose something slightly rough rather than too soft."},
+                {"front": "피부에 붙다", "back": "To stick to the skin", "sentence_ko": "이불이 너무 부드러우면 피부에 붙어서 덥게 느껴지거든요.", "sentence_en": "Because if the blanket is too soft, it sticks to the skin and feels hot."},
+                {"front": "팀장님", "back": "Team leader", "sentence_ko": "이번에 새로 오신 우리 팀장님은 회의할 때가 최고인 것 같아요.", "sentence_en": "I think our new team leader is at his best during meetings."},
+                {"front": "회의", "back": "Meeting", "sentence_ko": "회의할 때가 최고인 것 같아요.", "sentence_en": "I think he is at his best during meetings."},
+                {"front": "지시 사항", "back": "Instructions / Directives", "sentence_ko": "중요한 지시 사항만 말씀하시니까 좋지 않아요?", "sentence_en": "Isn't it good that he only tells us the important instructions?"},
+                {"front": "아이디어", "back": "Idea", "sentence_ko": "그래야 좋은 아이디어도 나올 거 아니에요?", "sentence_en": "That's the only way good ideas will come out, isn't it?"}
+            ]
+        }
     }
 
 } 
