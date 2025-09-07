@@ -424,6 +424,57 @@
                 {"front": "아이디어", "back": "Idea", "sentence_ko": "그래야 좋은 아이디어도 나올 거 아니에요?", "sentence_en": "That's the only way good ideas will come out, isn't it?"}
             ]
         }
+    },
+    "Week 8": {
+        "Midterm Review Lecture": {
+            "공공장소 및 활동 어휘 (Public Places & Activities Vocabulary)": [
+                {"front": "일정", "back": "Schedule", "sentence_ko": "오늘 일정에 대해 간단히 말씀드리겠습니다.", "sentence_en": "I will briefly tell you about today's schedule."},
+                {"front": "강당", "back": "Auditorium", "sentence_ko": "먼저 강당에서 약 20분 동안 학교 소개 동영상을 보신 후에...", "sentence_en": "First, after watching the school introduction video for about 20 minutes in the auditorium..."},
+                {"front": "체육관", "back": "Gymnasium", "sentence_ko": "도서관과 체육관 그리고 기숙사 순으로 둘러보실 예정입니다.", "sentence_en": "You are scheduled to look around in the order of the library, gymnasium, and then the dormitory."},
+                {"front": "둘러보다", "back": "To look around / to tour", "sentence_ko": "기숙사 순으로 둘러보실 예정입니다.", "sentence_en": "You are scheduled to look around in the order of the dormitory."},
+                {"front": "기념품", "back": "Souvenir", "sentence_ko": "돌아가실 때에는 저희가 준비한 기념품을 꼭 받아 가시기 바랍니다.", "sentence_en": "When you leave, please be sure to receive the souvenir we have prepared."},
+                {"front": "마음대로", "back": "As one pleases / At will", "sentence_ko": "원하는 곳에서 마음대로 내렸다가 다시 탈 수 있습니다.", "sentence_en": "You can get off and on as you please wherever you want."},
+                {"front": "갈아타다", "back": "To transfer (transportation)", "sentence_ko": "다음 버스로 갈아타려면 어디에서 내려야 해요?", "sentence_en": "Where should I get off to transfer to the next bus?"},
+                {"front": "연극", "back": "A play (theater)", "sentence_ko": "어제 본 연극 정말 재미있었지?", "sentence_en": "The play we saw yesterday was really fun, wasn't it?"},
+                {"front": "주인공", "back": "Main character", "sentence_ko": "특히 남자 주인공이 연기를 참 잘하더라.", "sentence_en": "The male protagonist, in particular, was a very good actor."},
+                {"front": "배우", "back": "Actor / Actress", "sentence_ko": "저 배우는 연기를 참 잘해요.", "sentence_en": "That actor is very good at acting."},
+                {"front": "연기", "back": "Acting / Performance", "sentence_ko": "특히 남자 주인공이 연기를 참 잘하더라.", "sentence_en": "The male protagonist, in particular, was a very good actor."},
+                {"front": "해설", "back": "Explanation / Commentary", "sentence_ko": "문화와 역사, 그리고 생태에 대한 해설을 들으면서...", "sentence_en": "While listening to the commentary on culture, history, and ecology..."},
+                {"front": "체험하다", "back": "To experience", "sentence_ko": "자연을 체험하는 프로그램입니다.", "sentence_en": "It is a program for experiencing nature."},
+                {"front": "김치 박물관", "back": "Kimchi Museum", "sentence_ko": "은혜 시청에 위치한 김치 박물관은 외국인들에게 아주 인기가 많은 곳인데요.", "sentence_en": "The Kimchi Museum, located at Eunhye City Hall, is a very popular place for foreigners."},
+                {"front": "맛보다", "back": "To taste", "sentence_ko": "이곳에서는 여러 가지 종류의 김치를 맛볼 수 있고...", "sentence_en": "Here, you can taste various kinds of kimchi and..."},
+                {"front": "실습", "back": "Hands-on practice / lab", "sentence_ko": "실습을 원하는 경우 일주일 전에 신청을 해야 됩니다.", "sentence_en": "If you want to do the hands-on practice, you must apply a week in advance."},
+                {"front": "신청하다", "back": "To apply / register for", "sentence_ko": "실습을 원하는 경우 일주일 전에 신청을 해야 됩니다.", "sentence_en": "If you want to do the hands-on practice, you must apply a week in advance."}
+            ],
+            "뉴스 및 조사 관련 어휘 (News & Survey Vocabulary)": [
+                {"front": "조사", "back": "Survey / Investigation", "sentence_ko": "최근 한 조사에 따르면 성인 독서율이 계속 감소하고 있는 것으로 나타났습니다.", "sentence_en": "According to a recent survey, the adult reading rate has been continuously decreasing."},
+                {"front": "성인", "back": "Adult", "sentence_ko": "성인 독서율이 계속 감소하고 있습니다.", "sentence_en": "The adult reading rate is continuously decreasing."},
+                {"front": "독서율", "back": "Reading rate", "sentence_ko": "성인 독서율이 계속 감소하고 있습니다.", "sentence_en": "The adult reading rate is continuously decreasing."},
+                {"front": "발명가", "back": "Inventor", "sentence_ko": "세계적인 발명가들을 보면 공통점이 있는데요.", "sentence_en": "If you look at world-renowned inventors, there is a common point."},
+                {"front": "상상력", "back": "Imagination", "sentence_ko": "어렸을 때부터 상상력이 풍부했다는 겁니다.", "sentence_en": "It's that they had rich imaginations from a young age."},
+                {"front": "관찰하다", "back": "To observe", "sentence_ko": "주변의 사물을 그냥 보지 않고 자세히 관찰하는 습관이 있었습니다.", "sentence_en": "They had a habit of observing surrounding objects in detail instead of just looking at them."},
+                {"front": "자연 다큐멘터리", "back": "Nature documentary", "sentence_ko": "자연 다큐멘터리를 찍는 감독으로 알고 있습니다.", "sentence_en": "I know you as a director who films nature documentaries."},
+                {"front": "감독", "back": "Director", "sentence_ko": "자연 다큐멘터리를 찍는 감독으로 알고 있습니다.", "sentence_en": "I know you as a director who films nature documentaries."},
+                {"front": "촬영하다", "back": "To film / shoot", "sentence_ko": "지금까지 여러 동물을 촬영해 오셨는데요.", "sentence_en": "You have been filming various animals until now."},
+                {"front": "폭포", "back": "Waterfall", "sentence_ko": "얼어붙은 폭포의 모습이 정말 아름다웠거든요.", "sentence_en": "Because the appearance of the frozen waterfall was truly beautiful."}
+            ],
+            "일상 행동 및 상태 어휘 (Daily Actions & States Vocabulary)": [
+                {"front": "키우다", "back": "To raise (a pet or child)", "sentence_ko": "이 고양이, 우리가 키우면 안 될까?", "sentence_en": "This cat, can't we raise it?"},
+                {"front": "허락을 받다", "back": "To get permission", "sentence_ko": "먼저 부모님께 허락을 받아야지.", "sentence_en": "First, you have to get permission from your parents."},
+                {"front": "주인", "back": "Owner", "sentence_ko": "주인이 있는지 알아보고...", "sentence_en": "Find out if it has an owner and..."},
+                {"front": "돌보다", "back": "To take care of / look after", "sentence_ko": "고양이를 돌보는 것은 쉽지 않아.", "sentence_en": "Taking care of a cat is not easy."},
+                {"front": "실감 나다", "back": "To be realistic / lifelike", "sentence_ko": "싸우는 장면은 진짜 같아서 좀 무서웠어.", "sentence_en": "The fighting scene was so realistic it was a bit scary."},
+                {"front": "불편하다", "back": "To be uncomfortable / inconvenient", "sentence_ko": "우리가 생활 속에서 불편하다고 느끼는 것들을 그냥 지나치지 않았다는 거죠.", "sentence_en": "It means they didn't just pass by the things we feel are inconvenient in our daily lives."},
+                {"front": "새롭게 보다", "back": "To see in a new light", "sentence_ko": "그것을 새롭게 보려는 노력이 발명의 시작이었습니다.", "sentence_en": "The effort to see it in a new light was the beginning of invention."},
+                {"front": "기억에 남다", "back": "To be memorable", "sentence_ko": "가장 기억에 남는 것은 무엇이었나요?", "sentence_en": "What was the most memorable thing?"},
+                {"front": "얼다", "back": "To freeze", "sentence_ko": "얼어붙은 폭포의 모습이 정말 아름다웠거든요.", "sentence_en": "Because the appearance of the frozen waterfall was truly beautiful."},
+                {"front": "위험하다", "back": "To be dangerous", "sentence_ko": "촬영 중에 위험한 순간은 없었나요?", "sentence_en": "Were there any dangerous moments during filming?"}
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {"front": "-(는) 순으로", "back": "In the order of...", "sentence_ko": "도서관과 체육관 그리고 기숙사 순으로 둘러보실 예정입니다.", "sentence_en": "You are scheduled to look around in the order of the library, gymnasium, and then the dormitory."},
+                {"front": "-(으)ㄹ 만하다", "back": "To be worth doing", "sentence_ko": "이곳은 꼭 한번 가 볼 만한 곳입니다.", "sentence_en": "This is a place worth visiting at least once."}
+            ]
+        }
     }
 
 } 
