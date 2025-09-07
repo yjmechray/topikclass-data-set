@@ -92,6 +92,51 @@
                 {"front": "-는 대로", "back": "As soon as...", "sentence_ko": "개회식이 끝나는 대로 예선 경기가 시작되오니...", "sentence_en": "As soon as the opening ceremony is over, the preliminary matches will begin, so..."}
             ]
         }
+    },
+    "Week 2": {
+        "Lecture 1": {
+            "상황 및 행동 관련 어휘 (Situation & Action Vocabulary)": [
+                {"front": "지갑", "back": "Wallet", "sentence_ko": "이 지갑, 누가 잃어버린 것 같아요.", "sentence_en": "This wallet, I think someone lost it."},
+                {"front": "잃어버리다", "back": "To lose (an item)", "sentence_ko": "누가 잃어버린 것 같아요.", "sentence_en": "I think someone lost it."},
+                {"front": "습득하다", "back": "To pick up / acquire (a lost item)", "sentence_ko": "유실물을 습득하면 분실물 센터에 갖다 주세요.", "sentence_en": "If you acquire a lost item, please take it to the Lost and Found Center."},
+                {"front": "넘어지다", "back": "To fall down", "sentence_ko": "길이 미끄러워서 넘어졌어요.", "sentence_en": "I fell because the road was slippery."},
+                {"front": "일어나다", "back": "To get up / stand up", "sentence_ko": "다리가 아파서 못 일어나겠어.", "sentence_en": "My leg hurts so I can't get up."},
+                {"front": "도와주다", "back": "To help", "sentence_ko": "내가 도와줄 테니까 천천히 일어나 봐.", "sentence_en": "I'll help you, so try to get up slowly."},
+                {"front": "청소하다", "back": "To clean", "sentence_ko": "청소 다 했는데 설거지 좀 도와줄까요?", "sentence_en": "I've finished cleaning, shall I help with the dishes?"},
+                {"front": "설거지하다", "back": "To wash the dishes", "sentence_ko": "설거지 끝나면 차 한 잔 같이 마셔요.", "sentence_en": "When the dishes are done, let's have a cup of tea together."},
+                {"front": "쉬다", "back": "To rest", "sentence_ko": "거의 다 했으니까 앉아서 좀 쉬어요.", "sentence_en": "I'm almost done, so please sit and rest a bit."},
+                {"front": "화면이 안 나오다", "back": "The screen isn't working", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
+                {"front": "구입하다", "back": "To purchase", "sentence_ko": "네, 언제 구입하셨지요?", "sentence_en": "Yes, when did you purchase it?"},
+                {"front": "공을 굴리다", "back": "To roll a ball", "sentence_ko": "천천히 걸어가면서 공을 굴려 봐.", "sentence_en": "Try rolling the ball as you walk slowly."},
+                {"front": "마음에 들다", "back": "To like / be to one's liking", "sentence_ko": "손님, 마음에 드는 넥타이 있으세요?", "sentence_en": "Sir, are there any ties that you like?"},
+                {"front": "꺼내다", "back": "To take out", "sentence_ko": "그럼 이걸로 꺼내서 보여 드릴까요?", "sentence_en": "Then shall I take this one out and show you?"},
+                {"front": "깎다", "back": "To peel / to cut (fruit)", "sentence_ko": "그러네요. 하나 더 깎을까요?", "sentence_en": "You're right. Shall I peel one more?"}
+            ],
+            "장소 및 사물 관련 어휘 (Place & Object Vocabulary)": [
+                {"front": "분실물 센터 / 유실물 센터", "back": "Lost and Found Center", "sentence_ko": "지갑은 분실물 센터에 맡겨 주세요.", "sentence_en": "Please leave the wallet at the Lost and Found Center."},
+                {"front": "이쪽", "back": "This way / This side", "sentence_ko": "네, 이쪽으로 주세요.", "sentence_en": "Yes, please give it to me this way."},
+                {"front": "병원", "back": "Hospital / Clinic", "sentence_ko": "어디가 아파서 오셨어요?", "sentence_en": "Where does it hurt? (lit. Why did you come because you are sick?)"},
+                {"front": "생년월일", "back": "Date of birth", "sentence_ko": "여기 이름과 생년월일을 쓰시고 잠깐 기다리세요.", "sentence_en": "Please write your name and date of birth here and wait a moment."},
+                {"front": "노트북", "back": "Laptop", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
+                {"front": "줄무늬", "back": "Striped pattern", "sentence_ko": "제일 오른쪽에 있는 줄무늬 넥타이가 괜찮아 보이네요.", "sentence_en": "The striped tie on the far right looks good."},
+                {"front": "넥타이", "back": "Necktie", "sentence_ko": "마음에 드는 넥타이 있으세요?", "sentence_en": "Are there any neckties you like?"}
+            ],
+            "그래프 및 표현 (Graphs & Expressions)": [
+                {"front": "직장인", "back": "Office worker", "sentence_ko": "직장인들은 점심시간을 어떻게 보낼까요?", "sentence_en": "How do office workers spend their lunch time?"},
+                {"front": "미만", "back": "Less than (but not including)", "sentence_ko": "한 시간 미만은 10%였습니다.", "sentence_en": "Less than one hour was 10%."},
+                {"front": "이상 / 이하", "back": "More than or equal to / Less than or equal to", "sentence_ko": "18세 이상만 입장 가능합니다.", "sentence_en": "Only those 18 years of age or older can enter."},
+                {"front": "증가하다 / 늘어나다", "back": "To increase / to grow", "sentence_ko": "2021년 이후 계속해서 증가하고 있다.", "sentence_en": "It has been continuously increasing since 2021."},
+                {"front": "감소하다 / 줄어들다", "back": "To decrease / to shrink", "sentence_ko": "2022년 이후 계속해서 감소하고 있다.", "sentence_en": "It has been continuously decreasing since 2022."},
+                {"front": "꾸준히", "back": "Steadily / Consistently", "sentence_ko": "2021년부터 꾸준히 늘어나고 있다.", "sentence_en": "It has been steadily increasing since 2021."},
+                {"front": "-다가", "back": "(Grammar) while doing A, B happens", "sentence_ko": "2022년부터 2023년까지 증가하다가 다시 감소하고 있다.", "sentence_en": "It was increasing from 2022 to 2023, and then decreased again."},
+                {"front": "최고점 / 최저점", "back": "Highest point / Lowest point", "sentence_ko": "2023년에 최고점을 기록했다.", "sentence_en": "It recorded its highest point in 2023."},
+                {"front": "상승하다 / 하락하다", "back": "To rise / to fall", "sentence_ko": "2021년까지 하락하다가 상승하고 있다.", "sentence_en": "It was falling until 2021 and then rose."},
+                {"front": "점차", "back": "Gradually / Slowly", "sentence_ko": "2021년에 가장 낮았다가 점차 늘어나고 있다.", "sentence_en": "It was lowest in 2021 and has been gradually increasing."}
+            ]
+        }
     }
+
+
+
 }
 
