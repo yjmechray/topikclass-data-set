@@ -204,6 +204,41 @@
                 {"front": "-(으)나 봐요", "back": "(Grammar) It seems/looks like...", "sentence_ko": "저 식당은 음식이 맛있나 봐요. 사람이 많네요.", "sentence_en": "It seems like the food at that restaurant is delicious. There are a lot of people."}
             ]
         }
+    },
+    "Week 4": {
+        "Lecture 1 & 2": {
+            "회사 및 업무 관련 어휘 (Company & Work Vocabulary)": [
+                {"front": "회의 자료", "back": "Meeting materials/documents", "sentence_ko": "김 대리님, 회의 자료 복사 다 됐어요?", "sentence_en": "Assistant Manager Kim, are the meeting materials all copied?"},
+                {"front": "복사하다", "back": "To copy", "sentence_ko": "지금 바로 복사해 드릴게요.", "sentence_en": "I'll copy them for you right now."},
+                {"front": "결재를 받다", "back": "To get approval (from a superior)", "sentence_ko": "부장님께 결재부터 받아야 하니까요.", "sentence_en": "Because I need to get approval from the department head first."},
+                {"front": "퇴근하다", "back": "To leave work", "sentence_ko": "퇴근하기 전에 잠깐 볼 수 있을까요?", "sentence_en": "Can I see you for a moment before you leave work?"},
+                {"front": "보고서", "back": "Report", "sentence_ko": "보고서를 빨리 써야 해서요.", "sentence_en": "Because I have to write a report quickly."},
+                {"front": "수정하다", "back": "To correct / modify / revise", "sentence_ko": "보고서에 수정할 게 좀 있어서요.", "sentence_en": "Because there are some things to revise in the report."},
+                {"front": "새로", "back": "Newly / Anew", "sentence_ko": "새로 오신 김민수 씨입니다.", "sentence_en": "This is Mr. Minsu Kim, who has newly arrived."},
+                {"front": "인사 나누다", "back": "To greet each other", "sentence_ko": "서로 인사 나누세요.", "sentence_en": "Please greet each other."}
+            ],
+            "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
+                {"front": "콘서트 표", "back": "Concert ticket", "sentence_ko": "인터넷으로 산 콘서트 표를 어떻게 받아요?", "sentence_en": "How do I receive the concert tickets I bought online?"},
+                {"front": "찾다", "back": "To pick up / find", "sentence_ko": "콘서트 당일에 현장에서 찾으시면 됩니다.", "sentence_en": "You can pick them up on-site on the day of the concert."},
+                {"front": "신분증", "back": "ID card", "sentence_ko": "신분증은 꼭 가지고 가야 하고요.", "sentence_en": "You must bring your ID card."},
+                {"front": "예매하다", "back": "To book in advance / reserve", "sentence_ko": "오늘 기차표를 예매하려고요.", "sentence_en": "I'm planning to book a train ticket today."},
+                {"front": "간식을 싸 주다", "back": "To pack snacks", "sentence_ko": "간식 좀 싸 줄 테니까 가지고 가서 이따가 먹어.", "sentence_en": "I'll pack you some snacks, so take them and eat them later."},
+                {"front": "혜택", "back": "Benefits / Perks", "sentence_ko": "회원 카드요? 어떤 혜택이 있나요?", "sentence_en": "A membership card? What kind of benefits are there?"},
+                {"front": "주유하다", "back": "To refuel / get gas", "sentence_ko": "주유하실 때마다 점수가 적립되는데요.", "sentence_en": "Points are accumulated every time you refuel."},
+                {"front": "적립되다", "back": "To be accumulated (points/miles)", "sentence_ko": "주유하실 때마다 점수가 적립되는데요.", "sentence_en": "Points are accumulated every time you refuel."},
+                {"front": "그릇", "back": "Bowl / Dish", "sentence_ko": "전시되어 있는 그릇들이 참 특이하고 멋지네요.", "sentence_en": "The bowls on display are very unique and cool."},
+                {"front": "특이하다", "back": "To be unique / unusual", "sentence_ko": "그릇들이 참 특이하고 멋지네요.", "sentence_en": "The bowls are very unique and cool."},
+                {"front": "멋지다", "back": "To be cool / stylish", "sentence_ko": "그릇들이 참 특이하고 멋지네요.", "sentence_en": "The bowls are very unique and cool."},
+                {"front": "판매하다", "back": "To sell", "sentence_ko": "판매도 한다니까 우리 하나 사 가요.", "sentence_en": "They said they sell them too, so let's buy one."}
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {"front": "-는 길에", "back": "On the way to...", "sentence_ko": "회사에 들어오는 길에 커피 좀 사다 줄까?", "sentence_en": "On my way to the office, shall I buy you some coffee?"},
+                {"front": "-자마자", "back": "As soon as...", "sentence_ko": "집에 도착하자마자 저녁을 먹었어요.", "sentence_en": "I had dinner as soon as I got home."},
+                {"front": "-(으)ㄹ 테니까", "back": "I will..., so... (speaker's intention)", "sentence_ko": "간식 좀 싸 줄 테니까 가지고 가서 이따가 먹어.", "sentence_en": "I'll pack some snacks for you, so take them and eat them later."},
+                {"front": "-(으)려면", "back": "If one intends to...", "sentence_ko": "보고서를 완성하려면 시간이 더 필요해요.", "sentence_en": "I need more time if I am to complete the report."}
+            ]
+        }
     }
+
 } 
  
