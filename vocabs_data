@@ -660,6 +660,61 @@
                 {"front": "의존하다", "back": "To depend on / rely on", "sentence_ko": "스마트폰에 의존하는 것을 줄여야 합니다.", "sentence_en": "We need to reduce our dependence on smartphones."}
             ]
         }
+    },
+
+    "Week 12": {
+        "Lecture 1": {
+            "일상 생활 어휘 (Daily Life Vocabulary)": [
+                {"front": "노트북", "back": "Laptop", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
+                {"front": "구입하다", "back": "To purchase", "sentence_ko": "네, 언제 구입하셨지요?", "sentence_en": "Yes, when did you purchase it?"},
+                {"front": "볼링", "back": "Bowling", "sentence_ko": "볼링은 처음인데, 잘 가르쳐 주세요.", "sentence_en": "This is my first time bowling, please teach me well."},
+                {"front": "공을 굴리다", "back": "To roll a ball", "sentence_ko": "천천히 걸어가면서 공을 굴려 봐.", "sentence_en": "Try rolling the ball as you walk slowly."},
+                {"front": "영화관", "back": "Movie theater", "sentence_ko": "2015년 이후 영화관을 찾는 관객 수가 계속해서 감소하고 있습니다.", "sentence_en": "The number of moviegoers visiting theaters has been continuously decreasing since 2015."},
+                {"front": "관객 수", "back": "Number of audience members", "sentence_ko": "영화관을 찾는 관객 수가 계속해서 감소하고 있습니다.", "sentence_en": "The number of moviegoers visiting theaters has been continuously decreasing."},
+                {"front": "여가 활동", "back": "Leisure activities", "sentence_ko": "관객 수가 줄고 있는 이유로는 '여가 활동이 다양해져서'가 가장 많았고...", "sentence_en": "As for the reason the audience numbers are decreasing, 'diversification of leisure activities' was the most common..."},
+                {"front": "관람료가 오르다", "back": "Admission fees go up", "sentence_ko": "'관람료가 올라서'가 그 뒤를 이었습니다.", "sentence_en": "'Rise in admission fees' followed after that."},
+                {"front": "생일 파티", "back": "Birthday party", "sentence_ko": "지연이 생일 파티 준비 다 돼 가?", "sentence_en": "Are the preparations for Jiyeon's birthday party almost done?"},
+                {"front": "풍선", "back": "Balloon", "sentence_ko": "나는 케이크 위에 놓을 초랑 풍선만 사 가면 돼.", "sentence_en": "I just need to buy the candles to put on the cake and some balloons."},
+                {"front": "진료 예약", "back": "Medical appointment reservation", "sentence_ko": "오늘 두 시에 진료 예약했는데요.", "sentence_en": "I made a medical appointment for two o'clock today."},
+                {"front": "탈의실", "back": "Locker room / Changing room", "sentence_ko": "오른쪽으로 가시면 탈의실이 있습니다.", "sentence_en": "If you go to the right, there is a changing room."},
+                {"front": "토마토를 심다", "back": "To plant tomatoes", "sentence_ko": "토마토 심은 날짜까지 붙였으니까 이제 다 끝났어.", "sentence_en": "I've even attached the date I planted the tomatoes, so now it's all done."},
+                {"front": "간단하다", "back": "To be simple / easy", "sentence_ko": "토마토 심는 게 생각보다 간단하다.", "sentence_en": "Planting tomatoes is simpler than I thought."},
+                {"front": "베란다", "back": "Veranda / Balcony", "sentence_ko": "이제 화분을 베란다로 옮겨 놓을 테니까 네가 물을 좀 줘.", "sentence_en": "Now I'll move the pot to the balcony, so you give it some water."}
+            ],
+            "뉴스 및 안내 방송 어휘 (News & Announcement Vocabulary)": [
+                {"front": "생활 체육", "back": "Sports for all / Recreational sports", "sentence_ko": "여러분은 운동을 자주 하십니까? 문화체육관광부 조사 결과에 따르면 우리 국민이 주 1회 이상 생활체육에 참여하는 비율이...", "sentence_en": "Do you exercise often? According to a survey by the Ministry of Culture, Sports and Tourism, the rate of our citizens participating in recreational sports more than once a week..."},
+                {"front": "참여율", "back": "Participation rate", "sentence_ko": "생활체육에 참여하는 비율이 2014년 이후 계속해서 증가한 것으로 나타났습니다.", "sentence_en": "The participation rate in sports for all has been shown to have continuously increased since 2014."},
+                {"front": "헬스", "back": "Fitness / Gym workout", "sentence_ko": "가장 많이 하는 운동은 '걷기'였으며 그 다음은 '등산', 그리고 '헬스'가 그 뒤를 이었습니다.", "sentence_en": "The most popular exercise was 'walking', followed by 'hiking', and then 'fitness'."}
+            ]
+        },
+        "Lecture 2": {
+            "학업 및 의견 어휘 (Academics & Opinion Vocabulary)": [
+                {"front": "심리학 개론", "back": "Introduction to Psychology", "sentence_ko": "너 작년에 심리학 개론 수업 들었지?", "sentence_en": "You took the Intro to Psychology class last year, right?"},
+                {"front": "수강 신청", "back": "Course registration", "sentence_ko": "수강 신청은 했는데 다른 학과 수업이라 걱정이 돼서.", "sentence_en": "I registered for the course, but I'm worried because it's a class from another department."},
+                {"front": "다른 학과", "back": "Another department", "sentence_ko": "다른 학과 수업이라 걱정이 돼서.", "sentence_en": "Because it's a class from another department."},
+                {"front": "만족도", "back": "Satisfaction level", "sentence_ko": "수업 만족도가 아주 높다고 들었어.", "sentence_en": "I heard the class satisfaction level is very high."},
+                {"front": "보고서", "back": "Report", "sentence_ko": "보고서를 일주일에 하나씩 써야 해서 좀 힘들 수도 있어.", "sentence_en": "It might be a bit tough because you have to write one report a week."},
+                {"front": "아무 말도 안 하다", "back": "To not say anything", "sentence_ko": "수미야, 왜 아무 말도 안 해?", "sentence_en": "Sumi, why aren't you saying anything?"},
+                {"front": "상관없다", "back": "To not matter / To be irrelevant", "sentence_ko": "난 어디든 상관없어.", "sentence_en": "It doesn't matter to me where we go."},
+                {"front": "만족하다", "back": "To be satisfied", "sentence_ko": "모두가 만족할 수 있는 결정을 하려면...", "sentence_en": "To make a decision that everyone can be satisfied with..."},
+                {"front": "정확하게", "back": "Accurately / Precisely", "sentence_ko": "네 생각도 정확하게 말해줘야 돼.", "sentence_en": "You need to tell me your thoughts accurately too."},
+                {"front": "분명하게", "back": "Clearly", "sentence_ko": "자신의 생각을 분명하게 말하면 좋겠다.", "sentence_en": "It would be good if you state your opinion clearly."},
+                {"front": "명함", "back": "Business card", "sentence_ko": "이거 조금 전에 받은 명함인데요.", "sentence_en": "This is the business card I just received."},
+                {"front": "인상적이다", "back": "To be impressive", "sentence_ko": "그림이 있는 것도 인상적이고요.", "sentence_en": "The fact that it has a picture is also impressive."},
+                {"front": "정보가 부족하다", "back": "To lack information", "sentence_ko": "명함이라고 하기에는 정보가 좀 부족한 것 같지 않아요?", "sentence_en": "Don't you think it lacks a bit of information to be called a business card?"}
+            ],
+            "일상 생활 어휘 (Daily Life Vocabulary)": [
+                {"front": "화분", "back": "Flowerpot", "sentence_ko": "어떤 화분을 선물할 거예요?", "sentence_en": "What kind of flowerpot are you going to gift?"},
+                {"front": "꽃집", "back": "Flower shop", "sentence_ko": "어제 동네 꽃집에 가 보니까 예쁜 화분들이 많더라고요.", "sentence_en": "When I went to the neighborhood flower shop yesterday, I saw many pretty flowerpots."},
+                {"front": "싱싱하다", "back": "To be fresh (for plants, food)", "sentence_ko": "꽃도 아주 싱싱해 보였고요.", "sentence_en": "The flowers also looked very fresh."},
+                {"front": "기르다", "back": "To grow / raise", "sentence_ko": "꽃은 기르기 어려우니까요.", "sentence_en": "Because flowers are difficult to grow."},
+                {"front": "요가", "back": "Yoga", "sentence_ko": "요즘 집에서 요가를 하고 있는데 동작을 따라 하기가 어렵네요.", "sentence_en": "I've been doing yoga at home these days, but it's difficult to follow the movements."},
+                {"front": "동작", "back": "Movement / Pose", "sentence_ko": "동작을 따라 하기가 어렵네요.", "sentence_en": "It's difficult to follow the movements."},
+                {"front": "거울", "back": "Mirror", "sentence_ko": "거울을 보면서 하면 어때요?", "sentence_en": "How about doing it while looking in the mirror?"},
+                {"front": "자세", "back": "Posture", "sentence_ko": "자세가 어떤지 알 수 있으니까요.", "sentence_en": "Because you can see what your posture is like."},
+                {"front": "정확하다", "back": "To be accurate / correct", "sentence_ko": "자세가 정확해야 운동 효과가 크잖아요.", "sentence_en": "The exercise is more effective when the posture is correct, you know."}
+            ]
+        }
     }
 
 } 
