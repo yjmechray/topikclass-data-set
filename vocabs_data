@@ -2,83 +2,84 @@
   "Week 1": {
     "Lecture 1": {
       "시험 및 학습 관련 (Test & Study Related)": [
-        {"front": "급수 기준", "back": "Level criteria"},
-        {"front": "출제 유형", "back": "Question types"},
-        {"front": "기출 문항", "back": "Past exam questions"},
-        {"front": "듣기", "back": "Listening"},
-        {"front": "쓰기", "back": "Writing"},
-        {"front": "읽기", "back": "Reading"},
-        {"front": "객관식", "back": "Multiple choice"},
-        {"front": "주관식", "back": "Subjective / Written answer"},
-        {"front": "배점", "back": "Point allocation / Score"},
-        {"front": "총점", "back": "Total score"},
-        {"front": "만점", "back": "Perfect score"},
-        {"front": "이어질 수 있는 말", "back": "Words that can follow / Next logical phrase"}
+        {"front": "급수 기준", "back": "Level criteria", "sentence_ko": "TOPIK II 급수 기준을 이해하고 설명할 수 있다.", "sentence_en": "You can understand and explain the TOPIK II level criteria."},
+        {"front": "출제 유형", "back": "Question types", "sentence_ko": "TOPIK II 듣기 출제 유형을 인지하고 답을 찾을 수 있다.", "sentence_en": "You can recognize the TOPIK II listening question types and find the answers."},
+        {"front": "기출 문항", "back": "Past exam questions", "sentence_ko": "이 문제는 제83회 TOPIK II 기출 문항입니다.", "sentence_en": "This problem is a past question from the 83rd TOPIK II."},
+        {"front": "듣기", "back": "Listening", "sentence_ko": "TOPIK II 듣기 시험 안내", "sentence_en": "TOPIK II Listening Test Guide"},
+        {"front": "쓰기", "back": "Writing", "sentence_ko": "쓰기는 주관식 4문항, 100점입니다.", "sentence_en": "Writing has 4 subjective questions for 100 points."},
+        {"front": "읽기", "back": "Reading", "sentence_ko": "2교시에는 읽기 시험을 봅니다.", "sentence_en": "In the 2nd period, you will take the reading test."},
+        {"front": "객관식", "back": "Multiple choice", "sentence_ko": "듣기는 객관식 50문항입니다.", "sentence_en": "Listening consists of 50 multiple-choice questions."},
+        {"front": "주관식", "back": "Subjective / Written answer", "sentence_ko": "쓰기는 주관식 4문항입니다.", "sentence_en": "Writing consists of 4 subjective questions."},
+        {"front": "배점", "back": "Point allocation / Score", "sentence_ko": "각 영역의 배점은 100점입니다.", "sentence_en": "The score allocation for each section is 100 points."},
+        {"front": "총점", "back": "Total score", "sentence_ko": "총점은 300점입니다.", "sentence_en": "The total score is 300 points."},
+        {"front": "만점", "back": "Perfect score", "sentence_ko": "TOPIK I은 200점 만점입니다.", "sentence_en": "TOPIK I has a perfect score of 200 points."},
+        {"front": "이어질 수 있는 말", "back": "Words that can follow / Next logical phrase", "sentence_ko": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.", "sentence_en": "Listen to the following and choose the words that can best follow."}
       ],
       "그래프 및 설문 관련 (Graph & Survey Related)": [
-        {"front": "그래프", "back": "Graph"},
-        {"front": "방문 목적", "back": "Purpose of visit"},
-        {"front": "휴가", "back": "Vacation / Holiday"},
-        {"front": "사업", "back": "Business"},
-        {"front": "친척 방문", "back": "Visiting relatives"},
-        {"front": "뒤를 잇다", "back": "To follow after"},
-        {"front": "함께 방문하는 사람", "back": "Person visiting with"},
-        {"front": "가족", "back": "Family"},
-        {"front": "친구", "back": "Friend"},
-        {"front": "혼자", "back": "Alone"},
-        {"front": "동료", "back": "Colleague / Coworker"},
-        {"front": "~(으)로 나타나다", "back": "To appear as; to turn out to be"}
+        {"front": "그래프", "back": "Graph", "sentence_ko": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.", "sentence_en": "Listen to the following and choose the most appropriate picture or graph."},
+        {"front": "방문 목적", "back": "Purpose of visit", "sentence_ko": "외국인 관광객들이 한국을 방문하는 목적은 '휴가'가 가장 많았습니다.", "sentence_en": "The most common purpose for foreign tourists visiting Korea was 'vacation'."},
+        {"front": "휴가", "back": "Vacation / Holiday", "sentence_ko": "한국 방문 목적은 휴가가 가장 많았습니다.", "sentence_en": "The main purpose for visiting Korea was vacation."},
+        {"front": "사업", "back": "Business", "sentence_ko": "다음으로 사업과 친척 방문이 뒤를 이었는데요.", "sentence_en": "Next, it was followed by business and visiting relatives."},
+        {"front": "친척 방문", "back": "Visiting relatives", "sentence_ko": "다음으로 '사업'과 '친척 방문'이 뒤를 이었는데요.", "sentence_en": "Next, it was followed by 'business' and 'visiting relatives'."},
+        {"front": "뒤를 잇다", "back": "To follow after", "sentence_ko": "'산책하기', '낮잠 자기'가 그 뒤를 이었습니다.", "sentence_en": "'Taking a walk' and 'taking a nap' followed after that."},
+        {"front": "함께 방문하는 사람", "back": "Person visiting with", "sentence_ko": "누구와 함께 한국에 올까요?", "sentence_en": "Who do they come to Korea with?"},
+        {"front": "가족", "back": "Family", "sentence_ko": "'가족이나 친구'가 54%로 가장 많았고...", "sentence_en": "'Family or friends' was the most common at 54%..."},
+        {"front": "친구", "back": "Friend", "sentence_ko": "'가족이나 친구'가 54%로 가장 많았고...", "sentence_en": "'Family or friends' was the most common at 54%..."},
+        {"front": "혼자", "back": "Alone", "sentence_ko": "'혼자'가 33%로 나타났습니다.", "sentence_en": "It was shown that 'alone' was 33%."},
+        {"front": "동료", "back": "Colleague / Coworker", "sentence_ko": "'동료'가 10%로 나타났습니다.", "sentence_en": "It was shown that 'colleague' was 10%."},
+        {"front": "~(으)로 나타나다", "back": "To appear as; to turn out to be", "sentence_ko": "'동료'가 10%로 나타났습니다.", "sentence_en": "It was shown that 'colleague' was 10%."}
       ],
       "일상 대화 및 행동 관련 (Everyday Dialogue & Action Related)": [
-        {"front": "전시장", "back": "Exhibition hall"},
-        {"front": "들어가다", "back": "To enter; to go in"},
-        {"front": "잠시만", "back": "Just a moment"},
-        {"front": "기다리다", "back": "To wait"},
-        {"front": "곧", "back": "Soon"},
-        {"front": "입장", "back": "Entrance / Admission"},
-        {"front": "입장료", "back": "Entrance fee"},
-        {"front": "시작하다", "back": "To start"},
-        {"front": "화분", "back": "Flowerpot"},
-        {"front": "놓다 / 두다", "back": "To put / to place"},
-        {"front": "창문", "back": "Window"},
-        {"front": "빌려주다", "back": "To lend"},
-        {"front": "돌려주다", "back": "To return (an item)"},
-        {"front": "아르바이트를 구하다/찾다", "back": "To get / look for a part-time job"},
-        {"front": "식당", "back": "Restaurant"},
-        {"front": "운동화", "back": "Sneakers / Athletic shoes"},
-        {"front": "마음에 들다", "back": "To like; to be to one's liking"},
-        {"front": "괜찮다", "back": "To be okay / fine"},
-        {"front": "잘 어울리다", "back": "To suit well / look good on"},
-        {"front": "주말", "back": "Weekend"},
-        {"front": "장마", "back": "Rainy season / monsoon"},
-        {"front": "작년", "back": "Last year"},
-        {"front": "고객 센터", "back": "Customer service center"},
-        {"front": "주문하다 / 시키다", "back": "To order"},
-        {"front": "의자", "back": "Chair"},
-        {"front": "주문량", "back": "Volume of orders"},
-        {"front": "배송이 늦어지다", "back": "For delivery to be delayed"}
+        {"front": "전시장", "back": "Exhibition hall", "sentence_ko": "지금 전시장에 들어갈 수 있어요?", "sentence_en": "Can I enter the exhibition hall now?"},
+        {"front": "들어가다", "back": "To enter; to go in", "sentence_ko": "지금 전시장에 들어갈 수 있어요?", "sentence_en": "Can I enter the exhibition hall now?"},
+        {"front": "잠시만", "back": "Just a moment", "sentence_ko": "잠시만 기다려 주세요.", "sentence_en": "Please wait just a moment."},
+        {"front": "기다리다", "back": "To wait", "sentence_ko": "잠시만 기다려 주세요.", "sentence_en": "Please wait just a moment."},
+        {"front": "곧", "back": "Soon", "sentence_ko": "곧 입장 시작합니다.", "sentence_en": "Admission will begin soon."},
+        {"front": "입장", "back": "Entrance / Admission", "sentence_ko": "곧 입장 시작합니다.", "sentence_en": "Admission will begin soon."},
+        {"front": "입장료", "back": "Entrance fee", "sentence_ko": "미술관 입장료는 얼마예요?", "sentence_en": "How much is the art museum's entrance fee?"},
+        {"front": "시작되다", "back": "To start / begin", "sentence_ko": "주말부터 장마가 시작된대요.", "sentence_en": "They say the rainy season starts from the weekend."},
+        {"front": "화분", "back": "Flowerpot", "sentence_ko": "이 화분은 어디에 놓을까?", "sentence_en": "Where should I put this flowerpot?"},
+        {"front": "놓다 / 두다", "back": "To put / to place", "sentence_ko": "이 화분은 어디에 놓을까?", "sentence_en": "Where should I put this flowerpot?"},
+        {"front": "창문", "back": "Window", "sentence_ko": "여기 창문 앞은 어때?", "sentence_en": "How about in front of the window here?"},
+        {"front": "빌려주다", "back": "To lend", "sentence_ko": "내가 빌려 준 책 읽고 있어?", "sentence_en": "Are you reading the book I lent you?"},
+        {"front": "돌려주다", "back": "To return (an item)", "sentence_ko": "언제까지 돌려주면 돼?", "sentence_en": "By when should I return it?"},
+        {"front": "아르바이트를 구하다/찾다", "back": "To get / look for a part-time job", "sentence_ko": "아직도 아르바이트를 못 구했어요.", "sentence_en": "I still haven't been able to get a part-time job."},
+        {"front": "식당", "back": "Restaurant", "sentence_ko": "학교 앞 식당에서 일할 사람을 찾던데요.", "sentence_en": "I heard the restaurant in front of school is looking for someone to work."},
+        {"front": "운동화", "back": "Sneakers / Athletic shoes", "sentence_ko": "나는 이 운동화로 할래.", "sentence_en": "I'll go with these sneakers."},
+        {"front": "마음에 들다", "back": "To like; to be to one's liking", "sentence_ko": "둘 다 마음에 드는데, 뭐가 더 괜찮아?", "sentence_en": "I like them both, which one is better?"},
+        {"front": "괜찮다", "back": "To be okay / fine", "sentence_ko": "뭐가 더 괜찮아?", "sentence_en": "Which one is better?"},
+        {"front": "잘 어울리다", "back": "To suit well / look good on", "sentence_ko": "파란색이 너한테 더 잘 어울려.", "sentence_en": "The blue one looks better on you."},
+        {"front": "주말", "back": "Weekend", "sentence_ko": "주말부터 장마가 시작된대요.", "sentence_en": "They say the rainy season starts from the weekend."},
+        {"front": "장마", "back": "Rainy season / monsoon", "sentence_ko": "주말부터 장마가 시작된대요.", "sentence_en": "They say the rainy season starts from the weekend."},
+        {"front": "작년", "back": "Last year", "sentence_ko": "올해도 작년만큼 비가 많이 올까요?", "sentence_en": "Will it rain as much this year as last year?"},
+        {"front": "고객 센터", "back": "Customer service center", "sentence_ko": "고객 센터죠?", "sentence_en": "Is this the customer service center?"},
+        {"front": "주문하다 / 시키다", "back": "To order", "sentence_ko": "일주일 전에 의자를 주문했는데 아직 안 와서요.", "sentence_en": "I ordered a chair a week ago, but it hasn't arrived yet."},
+        {"front": "의자", "back": "Chair", "sentence_ko": "일주일 전에 의자를 주문했는데 아직 안 와서요.", "sentence_en": "I ordered a chair a week ago, but it hasn't arrived yet."},
+        {"front": "주문량", "back": "Volume of orders", "sentence_ko": "주문량이 많아서 배송이 늦어지고 있습니다.", "sentence_en": "Due to a high volume of orders, delivery is being delayed."},
+        {"front": "배송이 늦어지다", "back": "For delivery to be delayed", "sentence_ko": "주문량이 많아서 배송이 늦어지고 있습니다.", "sentence_en": "Due to a high volume of orders, delivery is being delayed."}
       ]
     },
     "Lecture 2": {
       "행동 관련 어휘 (Action-related Vocabulary)": [
-        {"front": "씻다", "back": "To wash"},
-        {"front": "자르다", "back": "To cut"},
-        {"front": "보관하다", "back": "To store / keep"},
-        {"front": "벗다", "back": "To take off (clothes, hat)"},
-        {"front": "바꾸다", "back": "To exchange / change"},
-        {"front": "치우다", "back": "To tidy up / remove"}
+        {"front": "씻다", "back": "To wash", "sentence_ko": "사과는 다 씻었고, 이제 자르면 되겠다.", "sentence_en": "The apples are all washed, now I just need to cut them."},
+        {"front": "자르다", "back": "To cut", "sentence_ko": "자르는 건 내가 할 테니까 거기 있는 냄비 좀 줄래?", "sentence_en": "I'll do the cutting, so can you give me that pot over there?"},
+        {"front": "보관하다", "back": "To store / keep", "sentence_ko": "가방은 여기에 보관하시겠어요?", "sentence_en": "Would you like to store your bag here?"},
+        {"front": "벗다", "back": "To take off (clothes, hat)", "sentence_ko": "여자가 이어서 할 행동으로 알맞은 것은 모자를 벗는다 입니다.", "sentence_en": "The correct next action for the woman is 'takes off the hat'."},
+        {"front": "바꾸다", "back": "To exchange / change", "sentence_ko": "아, 저기 동전 교환기 있네. 바꿔 올게.", "sentence_en": "Ah, there's a coin exchanger over there. I'll go get change."},
+        {"front": "치우다", "back": "To tidy up / remove", "sentence_ko": "거울이 커서 그런지 사무실처럼 보이지가 않네요. 치울까요?", "sentence_en": "Maybe because the mirror is big, it doesn't look like an office. Shall I remove it?"}
       ]
     }
   },
   "Week 2": {
     "Lecture 1": {
        "상황 관련 어휘 (Situation-related Vocabulary)": [
-        {"front": "생년월일", "back": "Date of birth"},
-        {"front": "설거지", "back": "Washing dishes"},
-        {"front": "노트북 화면", "back": "Laptop screen"},
-        {"front": "구입하다", "back": "To purchase"},
-        {"front": "공을 굴리다", "back": "To roll a ball"}
+        {"front": "생년월일", "back": "Date of birth", "sentence_ko": "그럼 여기 이름과 생년월일을 쓰시고 잠깐 기다리세요.", "sentence_en": "Then please write your name and date of birth here and wait a moment."},
+        {"front": "설거지", "back": "Washing dishes", "sentence_ko": "청소 다 했는데 설거지 좀 도와줄까요?", "sentence_en": "I've finished cleaning, shall I help with the dishes?"},
+        {"front": "노트북 화면", "back": "Laptop screen", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
+        {"front": "구입하다", "back": "To purchase", "sentence_ko": "네, 언제 구입하셨지요?", "sentence_en": "Yes, when did you purchase it?"},
+        {"front": "공을 굴리다", "back": "To roll a ball", "sentence_ko": "천천히 걸어가면서 공을 굴려 봐.", "sentence_en": "Try rolling the ball as you walk slowly."}
       ]
     }
   }
 }
+
