@@ -816,6 +816,31 @@
                 {"front": "교육 환경", "back": "Educational environment", "sentence_ko": "교육 환경이 좋아질 수 있도록 노력하겠습니다.", "sentence_en": "I will work hard to improve the educational environment."}
             ]
         }
+    },
+
+    "Week 15": {
+        "Finals Preparation Lecture": {
+            "주요 문법 복습 (Key Grammar Review)": [
+                {"front": "-(으)러 가다/오다", "back": "To go/come (in order) to do something", "sentence_ko": "저는 한국어를 공부하러 한국에 왔어요.", "sentence_en": "I came to Korea to study Korean."},
+                {"front": "-고 있다", "back": "To be doing something (present progressive)", "sentence_ko": "수미 씨는 지금 도서관에서 책을 읽고 있어요.", "sentence_en": "Sumi is reading a book in the library right now."},
+                {"front": "-(으)ㄹ 거예요", "back": "Will / To be going to (future/intention)", "sentence_ko": "저는 주말에 친구를 만날 거예요.", "sentence_en": "I am going to meet my friend on the weekend."},
+                {"front": "-고 싶다", "back": "To want to do something", "sentence_ko": "저는 한국 영화를 보고 싶어요.", "sentence_en": "I want to watch a Korean movie."},
+                {"front": "-(으)세요", "back": "Please do... (polite command)", "sentence_ko": "이 책을 읽으세요.", "sentence_en": "Please read this book."},
+                {"front": "-ㅂ/읍시다", "back": "Let's... (formal suggestion)", "sentence_ko": "우리 같이 한국 식당에 갑시다.", "sentence_en": "Let's go to the Korean restaurant together."},
+                {"front": "-(으)ㄹ 수 있다/없다", "back": "Can / Cannot", "sentence_ko": "저는 김치를 먹을 수 있어요.", "sentence_en": "I can eat Kimchi."},
+                {"front": "-(으)ㄴ/는/(으)ㄹ (관형사형)", "back": "Noun modifying forms (past/present/future)", "sentence_ko": "어제 본 영화가 재미있었어요.", "sentence_en": "The movie I watched yesterday was fun."},
+                {"front": "-(으)니까", "back": "Because / So (reason)", "sentence_ko": "날씨가 좋으니까 공원에 갑시다.", "sentence_en": "Let's go to the park because the weather is nice."},
+                {"front": "-(으)면", "back": "If / When", "sentence_ko": "시간이 있으면 같이 영화 볼까요?", "sentence_en": "If you have time, shall we watch a movie together?"},
+                {"front": "-(으)ㄹ 때", "back": "When / At the time of...", "sentence_ko": "저는 공부할 때 음악을 들어요.", "sentence_en": "I listen to music when I study."},
+                {"front": "-(으)ㄹ게요", "back": "I will... (speaker's intention/promise)", "sentence_ko": "네, 일찍 들어갈게요.", "sentence_en": "Okay, I will come in early."}
+            ],
+            "주요 어휘 복습 (Key Vocabulary Review)": [
+                {"front": "직업 (의사, 회사원, 선생님, 학생)", "back": "Occupations (doctor, office worker, teacher, student)", "sentence_ko": "제 직업은 회사원입니다.", "sentence_en": "My occupation is an office worker."},
+                {"front": "장소 (은행, 학교, 식당, 도서관)", "back": "Places (bank, school, restaurant, library)", "sentence_ko": "점심을 먹으러 식당에 가요.", "sentence_en": "I am going to the restaurant to eat lunch."},
+                {"front": "기본 동사 (가다, 오다, 보다, 먹다)", "back": "Basic Verbs (to go, to come, to see, to eat)", "sentence_ko": "저는 매일 학교에 가요.", "sentence_en": "I go to school every day."},
+                {"front": "기본 형용사 (크다, 작다, 좋다, 맛있다)", "back": "Basic Adjectives (to be big, small, good, delicious)", "sentence_ko": "이 사과는 크고 맛있어요.", "sentence_en": "This apple is big and delicious."}
+            ]
+        }
     }
 
 } 
