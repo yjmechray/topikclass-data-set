@@ -313,6 +313,69 @@
                 {"front": "-(으)ㄴ/는 분", "back": "Person who...", "sentence_ko": "이 아이를 보신 분이나 보호하고 계신 분은 연락해 주십시오.", "sentence_en": "Anyone who has seen this child or is with him, please contact us."}
             ]
         }
+    },
+
+    "Week 6": {
+        "Lecture 1": {
+            "뉴스 - 사건사고 어휘 (News - Incident & Accident Vocabulary)": [
+                {"front": "사건", "back": "Incident / Event", "sentence_ko": "오늘의 주요 사건사고 소식입니다.", "sentence_en": "Here is today's main incident and accident news."},
+                {"front": "사고", "back": "Accident", "sentence_ko": "어젯밤 11시쯤 서울역에서 지하철 추돌 사고가 있었습니다.", "sentence_en": "Last night around 11 PM, there was a subway collision accident at Seoul Station."},
+                {"front": "화재", "back": "A fire", "sentence_ko": "오늘 새벽 부산의 한 신발 공장에서 큰불이 났습니다.", "sentence_en": "A large fire broke out at a shoe factory in Busan early this morning."},
+                {"front": "불이 나다", "back": "A fire breaks out", "sentence_ko": "오늘 새벽 부산의 한 신발 공장에서 큰불이 났습니다.", "sentence_en": "A large fire broke out at a shoe factory in Busan early this morning."},
+                {"front": "진화 작업", "back": "Firefighting operation", "sentence_ko": "소방 당국은 두 시간 만에 진화 작업을 마쳤습니다.", "sentence_en": "The fire department authorities completed the firefighting operation in two hours."},
+                {"front": "태풍", "back": "Typhoon", "sentence_ko": "현재 태풍은 제주도를 지나고 있습니다.", "sentence_en": "The typhoon is currently passing Jeju Island."},
+                {"front": "강한 바람", "back": "Strong wind", "sentence_ko": "제주도는 강한 바람과 함께 비가 내리고 있는데요.", "sentence_en": "In Jeju Island, it is raining with strong winds."},
+                {"front": "피해", "back": "Damage", "sentence_ko": "이번 태풍은 특히 바람으로 인한 피해가 큽니다.", "sentence_en": "This typhoon has caused significant damage, especially due to the wind."},
+                {"front": "간판이 떨어지다", "back": "A sign falls", "sentence_ko": "제주시에서는 간판이 떨어져 시민 두 명이 큰 부상을 입기도 했습니다.", "sentence_en": "In Jeju City, a sign fell, causing serious injuries to two citizens."},
+                {"front": "부상을 입다", "back": "To get injured", "sentence_ko": "시민 두 명이 큰 부상을 입기도 했습니다.", "sentence_en": "Two citizens also sustained serious injuries."},
+                {"front": "폭설", "back": "Heavy snow", "sentence_ko": "폭설로 인해 제주공항의 비행기 운항이 중단되었습니다.", "sentence_en": "Flight operations at Jeju Airport have been suspended due to heavy snow."},
+                {"front": "운항이 중단되다", "back": "Operations are suspended", "sentence_ko": "비행기 운항이 중단되었습니다.", "sentence_en": "Flight operations have been suspended."}
+            ],
+            "뉴스 - 일기예보 어휘 (News - Weather Forecast Vocabulary)": [
+                {"front": "일기예보", "back": "Weather forecast", "sentence_ko": "오늘의 일기예보입니다.", "sentence_en": "Here is today's weather forecast."},
+                {"front": "꽃샘추위", "back": "Late spring cold snap", "sentence_ko": "주말까지는 꽃샘추위가 계속될 것으로 보입니다.", "sentence_en": "The late spring cold snap is expected to continue until the weekend."},
+                {"front": "쌀쌀하다", "back": "To be chilly", "sentence_ko": "아침저녁으로는 쌀쌀하니까요.", "sentence_en": "Because it's chilly in the mornings and evenings."},
+                {"front": "기온이 올라가다", "back": "The temperature goes up", "sentence_ko": "다음 주부터는 기온이 크게 올라가겠습니다.", "sentence_en": "From next week, the temperature will rise significantly."},
+                {"front": "무더위", "back": "Scorching heat / Heatwave", "sentence_ko": "오늘도 무더위가 계속되겠습니다.", "sentence_en": "The heatwave will continue today."},
+                {"front": "찜통더위", "back": "Sweltering heat / Steamy weather", "sentence_ko": "한여름에는 찜통더위가 이어집니다.", "sentence_en": "Sweltering heat continues in the middle of summer."},
+                {"front": "단풍", "back": "Autumn leaves / foliage", "sentence_ko": "올해 단풍은 다음 주에 가장 아름다울 것으로 보입니다.", "sentence_en": "This year's autumn foliage is expected to be most beautiful next week."},
+                {"front": "습도가 높다/낮다", "back": "Humidity is high/low", "sentence_ko": "오늘은 습도가 높아서 불쾌지수가 높습니다.", "sentence_en": "Today, the humidity is high, so the discomfort index is high."},
+                {"front": "얼음이 얼다", "back": "Ice freezes", "sentence_ko": "기온이 영하로 떨어져 길이 얼음으로 얼어 미끄럽습니다.", "sentence_en": "The temperature dropped below zero, so the roads are frozen and slippery."}
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {"front": "-(으)로 인해", "back": "Due to / Because of", "sentence_ko": "폭설로 인해 제주공항의 비행기 운항이 중단되었습니다.", "sentence_en": "Flight operations at Jeju Airport have been suspended due to heavy snow."},
+                {"front": "-(으)ㄴ 채", "back": "In the state of doing...", "sentence_ko": "범인은 창문을 깨뜨리고 달아난 채 아직 잡히지 않고 있습니다.", "sentence_en": "The criminal broke the window and fled, and has not yet been caught."},
+                {"front": "-(으)ㄹ 것으로 보이다", "back": "It is expected to / It seems like it will", "sentence_ko": "주말까지는 꽃샘추위가 계속될 것으로 보입니다.", "sentence_en": "The late spring cold snap is expected to continue until the weekend."}
+            ]
+        },
+        "Lecture 2": {
+            "인터뷰 - 직업 및 성격 어휘 (Interview - Profession & Personality Vocabulary)": [
+                {"front": "불꽃 연출가", "back": "Fireworks director", "sentence_ko": "이번 불꽃 축제를 성공적으로 마치셨다죠?", "sentence_en": "I heard you successfully finished this fireworks festival, right?"},
+                {"front": "자격증", "back": "License / Certificate", "sentence_ko": "우선 자격증이 있어야 하고요.", "sentence_en": "First of all, you need a license."},
+                {"front": "위험물", "back": "Dangerous substance / Hazardous material", "sentence_ko": "위험물을 다루니까 꼼꼼하고 침착한 성격이 좋습니다.", "sentence_en": "Since we handle dangerous materials, a meticulous and calm personality is good."},
+                {"front": "다루다", "back": "To handle / deal with", "sentence_ko": "위험물을 다루니까 꼼꼼해야 합니다.", "sentence_en": "You have to be meticulous because you handle dangerous materials."},
+                {"front": "꼼꼼하다", "back": "To be meticulous / precise", "sentence_ko": "위험물을 다루니까 꼼꼼하고 침착한 성격이 좋습니다.", "sentence_en": "Since we handle dangerous materials, a meticulous and calm personality is good."},
+                {"front": "침착하다", "back": "To be calm / composed", "sentence_ko": "위험물을 다루니까 꼼꼼하고 침착한 성격이 좋습니다.", "sentence_en": "Since we handle dangerous materials, a meticulous and calm personality is good."},
+                {"front": "예술적 감각", "back": "Artistic sense", "sentence_ko": "요즘은 음악에 맞춰 불꽃을 터뜨리니까 예술적 감각이 있으면 더 좋고요.", "sentence_en": "These days, we set off fireworks to the music, so it's even better if you have an artistic sense."},
+                {"front": "소방관", "back": "Firefighter", "sentence_ko": "소방관은 위험한 상황에서도 침착해야 합니다.", "sentence_en": "A firefighter must remain calm even in dangerous situations."},
+                {"front": "요리사", "back": "Chef / Cook", "sentence_ko": "이 식당은 한 명의 요리사가 열 명의 손님을 담당한다.", "sentence_en": "In this restaurant, one chef is in charge of ten customers."},
+                {"front": "담당하다", "back": "To be in charge of", "sentence_ko": "이 식당은 한 명의 요리사가 열 명의 손님을 담당한다.", "sentence_en": "In this restaurant, one chef is in charge of ten customers."}
+            ],
+            "인터뷰 - 개념 및 효과 어휘 (Interview - Concept & Effect Vocabulary)": [
+                {"front": "웃음의 효과", "back": "The effect of laughter", "sentence_ko": "이번에 '웃음의 효과'라는 책을 내셨는데요.", "sentence_en": "You've published a book called 'The Effect of Laughter'."},
+                {"front": "환자", "back": "Patient", "sentence_ko": "제가 일하는 병원에서 환자들에게 재미있는 동영상을 보여주었는데요.", "sentence_en": "At the hospital where I work, I showed patients funny videos."},
+                {"front": "건강이 좋아지다", "back": "Health improves", "sentence_ko": "대부분의 환자가 전보다 건강이 훨씬 좋아졌습니다.", "sentence_en": "Most patients' health improved much more than before."},
+                {"front": "친밀도", "back": "Closeness / Intimacy", "sentence_ko": "웃음은 의사와 환자의 친밀도를 높인다.", "sentence_en": "Laughter increases the intimacy between doctors and patients."},
+                {"front": "치료에 도움이 되다", "back": "To be helpful for treatment", "sentence_ko": "웃는 행동은 환자의 치료에 도움이 된다.", "sentence_en": "Laughing is helpful for the patient's treatment."},
+                {"front": "분위기", "back": "Atmosphere / Mood", "sentence_ko": "이 카페는 1970년대를 그대로 옮겨온 것 같은 분위기인데요.", "sentence_en": "This cafe has an atmosphere that seems to have been moved directly from the 1970s."},
+                {"front": "인기 비결", "back": "Secret to popularity", "sentence_ko": "이 카페의 인기 비결은 무엇입니까?", "sentence_en": "What is the secret to this cafe's popularity?"}
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {"front": "-(ㄴ/는)다죠?", "back": "I heard that..., right?", "sentence_ko": "이번 불꽃 축제를 성공적으로 마치셨다죠?", "sentence_en": "I heard you successfully finished this fireworks festival, right?"},
+                {"front": "-(으)려면", "back": "If one intends to...", "sentence_ko": "불꽃 연출가가 되려면 무엇이 필요한가요?", "sentence_en": "What is required to become a fireworks director?"},
+                {"front": "-(ㄴ/는)다는 겁니다", "back": "It means that... / The point is that...", "sentence_ko": "건강하기를 원한다면 웃으라는 겁니다.", "sentence_en": "The point is that if you want to be healthy, you should laugh."}
+            ]
+        }
     }
 
 } 
