@@ -170,7 +170,7 @@
         }
     },
     "Week 3": {
-        "Lecture 1 & 2": {
+        "Lecture 1": {
             "회사 및 업무 관련 어휘 (Company & Work Vocabulary)": [
                 {"front": "직위", "back": "Position / Rank", "sentence_ko": "회사에는 사장, 부장, 과장, 대리, 신입 사원 등의 직위가 있습니다.", "sentence_en": "In a company, there are positions like president, department head, manager, assistant manager, and new employee."},
                 {"front": "신입 사원", "back": "New employee", "sentence_ko": "신입사원에게 업무를 전달합니다.", "sentence_en": "I am passing on the work to the new employee."},
@@ -186,6 +186,16 @@
             ],
             "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
                 {"front": "소포를 부치다", "back": "To send a parcel", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
+                {"front": "우체국", "back": "Post office", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
+                 {"front": "편지", "back": "Letter", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"}
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {"front": "-(으)ㄴ/는 김에", "back": "While one is at it / Since one is doing...", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
+                {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"}
+            ]
+        },
+        "Lecture 2": {
+            "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
                 {"front": "모임 장소", "back": "Meeting place", "sentence_ko": "이번 주 모임 장소가 바뀌었대요.", "sentence_en": "I heard the meeting place for this week has changed."},
                 {"front": "정문", "back": "Main gate / Main entrance", "sentence_ko": "정문 옆에 있는 식당이에요.", "sentence_en": "It's the restaurant next to the main gate."},
                 {"front": "쓰레기", "back": "Trash / Garbage", "sentence_ko": "쓰레기는 저쪽으로 버려 주시면 됩니다.", "sentence_en": "You can throw the trash away over there."},
@@ -196,10 +206,8 @@
                 {"front": "길이를 줄이다", "back": "To shorten the length", "sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?", "sentence_en": "I want to shorten my pants, can you do it by today?"}
             ],
             "문법 및 표현 (Grammar & Expressions)": [
-                {"front": "-(으)ㄴ/는 김에", "back": "While one is at it / Since one is doing...", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
-                {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"},
-                {"front": "-거든요", "back": "(Grammar) ...you see / because", "sentence_ko": "제가 지금 돈이 없거든요.", "sentence_en": "It's because I don't have any money right now, you see."},
-                {"front": "-(는)대요", "back": "(Grammar) I heard that...", "sentence_ko": "모임 장소가 바뀌었대요.", "sentence_en": "I heard the meeting place has changed."},
+                 {"front": "-거든요", "back": "(Grammar) ...you see / because", "sentence_ko": "제가 지금 돈이 없거든요.", "sentence_en": "It's because I don't have any money right now, you see."},
+                {"front": "-(는)대요", "back": "(Grammar) I heard that...", "sentence_ko": "이번 주 모임 장소가 바뀌었대요.", "sentence_en": "I heard the meeting place for this week has changed."},
                 {"front": "-(으)ㄹ걸 그랬어요", "back": "(Grammar) I should have...", "sentence_ko": "병원에 일찍 올걸 그랬어요.", "sentence_en": "I should have come to the hospital earlier."},
                 {"front": "-(으)나 봐요", "back": "(Grammar) It seems/looks like...", "sentence_ko": "저 식당은 음식이 맛있나 봐요. 사람이 많네요.", "sentence_en": "It seems like the food at that restaurant is delicious. There are a lot of people."}
             ]
