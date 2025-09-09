@@ -169,9 +169,9 @@
             ]
         }
     },
-    "Week 3": {
+     "Week 3": {
         "Lecture 1": {
-            "회사 및 업무 관련 어휘 (Company & Work Vocabulary)": [
+            "회사 관련 어휘 (Company-Related Vocabulary)": [
                 {"front": "직위", "back": "Position / Rank", "sentence_ko": "회사에는 사장, 부장, 과장, 대리, 신입 사원 등의 직위가 있습니다.", "sentence_en": "In a company, there are positions like president, department head, manager, assistant manager, and new employee."},
                 {"front": "신입 사원", "back": "New employee", "sentence_ko": "신입사원에게 업무를 전달합니다.", "sentence_en": "I am passing on the work to the new employee."},
                 {"front": "상사 / 부하 직원", "back": "Superior / Subordinate", "sentence_ko": "상사는 부하 직원에게 업무를 지시합니다.", "sentence_en": "The superior gives instructions to the subordinate."},
@@ -182,16 +182,26 @@
                 {"front": "서류", "back": "Documents / Papers", "sentence_ko": "이 서류들만 정리하고 퇴근합시다.", "sentence_en": "Let's just organize these documents and then leave work."},
                 {"front": "연기되다", "back": "To be postponed / delayed", "sentence_ko": "비행기 표는 어떻게 하지요? 출장이 연기됐는데...", "sentence_en": "What should I do about the plane ticket? The business trip was postponed..."},
                 {"front": "보고서", "back": "Report", "sentence_ko": "보고서는 다 써 갑니다.", "sentence_en": "I'm almost finished writing the report."},
-                {"front": "완성하다", "back": "To complete", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."}
+                {"front": "완성하다", "back": "To complete", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."},
+                {"front": "분실물", "back": "Lost item", "sentence_ko": "회사에서 분실물을 찾고 있어요.", "sentence_en": "I am looking for a lost item at the company."},
+                {"front": "복사하기", "back": "To copy / make a copy", "sentence_ko": "회의 전에 자료를 복사해야 해요.", "sentence_en": "I need to copy the materials before the meeting."},
+                {"front": "수리 요청", "back": "Repair request", "sentence_ko": "에어컨이 고장나서 사무실 수리 요청을 했어요.", "sentence_en": "The air conditioner broke down, so I made an office repair request."},
+                {"front": "물건을 옮기다", "back": "To move an object/things", "sentence_ko": "이 상자들을 다른 사무실로 옮겨야 해요.", "sentence_en": "I need to move these boxes to the other office."}
             ],
-            "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
+            "일상 생활 어휘 (Daily Life Vocabulary)": [
                 {"front": "소포를 부치다", "back": "To send a parcel", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
                 {"front": "우체국", "back": "Post office", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
-                 {"front": "편지", "back": "Letter", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"}
+                {"front": "편지", "back": "Letter", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
+                {"front": "화분", "back": "Flowerpot", "sentence_ko": "정원에 놓을 예쁜 화분을 샀어요.", "sentence_en": "I bought a pretty flowerpot to put in the garden."},
+                {"front": "치우다", "back": "To tidy up / clear away", "sentence_ko": "식사 후에 책상을 치워 주세요.", "sentence_en": "Please clear the desk after the meal."},
+                {"front": "세탁하다 / 빨래하다", "back": "To do laundry", "sentence_ko": "주말에는 보통 밀린 빨래를 해요.", "sentence_en": "On weekends, I usually do the piled-up laundry."},
+                {"front": "썰다", "back": "To chop / slice", "sentence_ko": "요리하려면 먼저 채소를 썰어야 해요.", "sentence_en": "To cook, you first need to chop the vegetables."},
+                {"front": "삶다", "back": "To boil (something in water)", "sentence_ko": "달걀을 삶는 데 10분이 걸립니다.", "sentence_en": "It takes 10 minutes to boil an egg."}
             ],
             "문법 및 표현 (Grammar & Expressions)": [
                 {"front": "-(으)ㄴ/는 김에", "back": "While one is at it / Since one is doing...", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
-                {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"}
+                {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"},
+                {"front": "-는 대로", "back": "As soon as...", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."}
             ]
         },
         "Lecture 2": {
@@ -203,7 +213,9 @@
                 {"front": "감기가 유행이다", "back": "The flu/cold is going around", "sentence_ko": "감기가 유행이라더니 병원에 사람이 많네요.", "sentence_en": "They said the flu is going around, and indeed there are a lot of people at the hospital."},
                 {"front": "예약하다", "back": "To make a reservation", "sentence_ko": "역시 예약하고 오길 잘했어요.", "sentence_en": "We were right to make a reservation before coming."},
                 {"front": "수선하다", "back": "To repair / alter (clothes)", "sentence_ko": "죄송하지만 오늘은 수선해야 할 게 많아서 안 되겠는데요.", "sentence_en": "I'm sorry, but I have too many things to repair today, so it won't be possible."},
-                {"front": "길이를 줄이다", "back": "To shorten the length", "sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?", "sentence_en": "I want to shorten my pants, can you do it by today?"}
+                {"front": "길이를 줄이다", "back": "To shorten the length", "sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?", "sentence_en": "I want to shorten my pants, can you do it by today?"},
+                {"front": "짜다", "back": "To be salty", "sentence_ko": "음식이 너무 짜요.", "sentence_en": "The food is too salty."},
+                {"front": "계산대", "back": "Counter / Cash register", "sentence_ko": "저쪽 계산대에서 하시면 됩니다.", "sentence_en": "You can do it at the counter over there."}
             ],
             "문법 및 표현 (Grammar & Expressions)": [
                  {"front": "-거든요", "back": "(Grammar) ...you see / because", "sentence_ko": "제가 지금 돈이 없거든요.", "sentence_en": "It's because I don't have any money right now, you see."},
