@@ -1194,44 +1194,706 @@
         }
     },
     "Week 2": {
-        "Lecture 1": {
-            "상황 및 행동 관련 어휘 (Situation & Action Vocabulary)": [
-                {"front": "지갑", "back": "Wallet", "sentence_ko": "이 지갑, 누가 잃어버린 것 같아요.", "sentence_en": "This wallet, I think someone lost it."},
-                {"front": "잃어버리다", "back": "To lose (an item)", "sentence_ko": "누가 잃어버린 것 같아요.", "sentence_en": "I think someone lost it."},
-                {"front": "습득하다", "back": "To pick up / acquire (a lost item)", "sentence_ko": "유실물을 습득하면 분실물 센터에 갖다 주세요.", "sentence_en": "If you acquire a lost item, please take it to the Lost and Found Center."},
-                {"front": "넘어지다", "back": "To fall down", "sentence_ko": "길이 미끄러워서 넘어졌어요.", "sentence_en": "I fell because the road was slippery."},
-                {"front": "일어나다", "back": "To get up / stand up", "sentence_ko": "다리가 아파서 못 일어나겠어.", "sentence_en": "My leg hurts so I can't get up."},
-                {"front": "도와주다", "back": "To help", "sentence_ko": "내가 도와줄 테니까 천천히 일어나 봐.", "sentence_en": "I'll help you, so try to get up slowly."},
-                {"front": "청소하다", "back": "To clean", "sentence_ko": "청소 다 했는데 설거지 좀 도와줄까요?", "sentence_en": "I've finished cleaning, shall I help with the dishes?"},
-                {"front": "설거지하다", "back": "To wash the dishes", "sentence_ko": "설거지 끝나면 차 한 잔 같이 마셔요.", "sentence_en": "When the dishes are done, let's have a cup of tea together."},
-                {"front": "쉬다", "back": "To rest", "sentence_ko": "거의 다 했으니까 앉아서 좀 쉬어요.", "sentence_en": "I'm almost done, so please sit and rest a bit."},
-                {"front": "화면이 안 나오다", "back": "The screen isn't working", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
-                {"front": "구입하다", "back": "To purchase", "sentence_ko": "네, 언제 구입하셨지요?", "sentence_en": "Yes, when did you purchase it?"},
-                {"front": "공을 굴리다", "back": "To roll a ball", "sentence_ko": "천천히 걸어가면서 공을 굴려 봐.", "sentence_en": "Try rolling the ball as you walk slowly."},
-                {"front": "마음에 들다", "back": "To like / be to one's liking", "sentence_ko": "손님, 마음에 드는 넥타이 있으세요?", "sentence_en": "Sir, are there any ties that you like?"},
-                {"front": "꺼내다", "back": "To take out", "sentence_ko": "그럼 이걸로 꺼내서 보여 드릴까요?", "sentence_en": "Then shall I take this one out and show you?"},
-                {"front": "깎다", "back": "To peel / to cut (fruit)", "sentence_ko": "그러네요. 하나 더 깎을까요?", "sentence_en": "You're right. Shall I peel one more?"}
+         "Lesson 1": {
+            "퀴즈 및 반의어 쌍 (Quiz & Antonym Pairs)": [
+                {
+                    "front": "꺼내다",
+                    "back": "To take out",
+                    "sentence_ko": "옷장에서 옷을 꺼냈어요.",
+                    "sentence_en": "I took out clothes from the wardrobe."
+                },
+                {
+                    "front": "넣다",
+                    "back": "To put in",
+                    "sentence_ko": "세탁물을 먼저 코스 선택하고 넣으면 되나?",
+                    "sentence_en": "Should I choose a course first and then put in the laundry?"
+                },
+                {
+                    "front": "날씬하다",
+                    "back": "To be slender",
+                    "sentence_ko": "그는 몸이 날씬해서 옷맵시가 좋아요.",
+                    "sentence_en": "He has a slender body, so his clothes fit well."
+                },
+                {
+                    "front": "뚱뚱하다",
+                    "back": "To be fat or chubby",
+                    "sentence_ko": "운동을 안 하면 뚱뚱해질 수 있어요.",
+                    "sentence_en": "If you don't exercise, you can get fat."
+                },
+                {
+                    "front": "낮다",
+                    "back": "To be low",
+                    "sentence_ko": "그 선반은 위치가 너무 낮아요.",
+                    "sentence_en": "That shelf is in a position that's too low."
+                },
+                {
+                    "front": "높다",
+                    "back": "To be high",
+                    "sentence_ko": "산 정상은 높고 경치가 좋아요.",
+                    "sentence_en": "The mountain peak is high and the scenery is nice."
+                },
+                {
+                    "front": "편하다",
+                    "back": "To be comfortable",
+                    "sentence_ko": "편한 신발을 신고 등산했습니다.",
+                    "sentence_en": "I wore comfortable shoes for hiking."
+                },
+                {
+                    "front": "불편하다",
+                    "back": "To be uncomfortable",
+                    "sentence_ko": "이 의자는 앉기 불편합니다.",
+                    "sentence_en": "This chair is uncomfortable to sit on."
+                },
+                {
+                    "front": "증가하다",
+                    "back": "To increase",
+                    "sentence_ko": "물건의 판매량이 점점 증가하고 있다.",
+                    "sentence_en": "The sales volume of the item is gradually increasing."
+                },
+                {
+                    "front": "감소하다",
+                    "back": "To decrease",
+                    "sentence_ko": "점점 감소하는 추세입니다.",
+                    "sentence_en": "It is a gradually decreasing trend."
+                },
+                {
+                    "front": "상승하다",
+                    "back": "To rise, to ascend",
+                    "sentence_ko": "2020년까지 상승하다가 하락하고 있습니다.",
+                    "sentence_en": "It rose until 2020, then started to fall."
+                },
+                {
+                    "front": "하락하다",
+                    "back": "To fall, to decline",
+                    "sentence_ko": "2021년에 하락했다가 상승하고 있다.",
+                    "sentence_en": "It fell in 2021, then is now rising."
+                },
+                {
+                    "front": "최고점",
+                    "back": "Highest point, peak",
+                    "sentence_ko": "2022년에 최고점을 기록했다.",
+                    "sentence_en": "It recorded its highest point in 2022."
+                },
+                {
+                    "front": "최저점",
+                    "back": "Lowest point",
+                    "sentence_ko": "2021년에 최저점을 기록했다.",
+                    "sentence_en": "It recorded its lowest point in 2021."
+                }
             ],
-            "장소 및 사물 관련 어휘 (Place & Object Vocabulary)": [
-                {"front": "분실물 센터 / 유실물 센터", "back": "Lost and Found Center", "sentence_ko": "지갑은 분실물 센터에 맡겨 주세요.", "sentence_en": "Please leave the wallet at the Lost and Found Center."},
-                {"front": "이쪽", "back": "This way / This side", "sentence_ko": "네, 이쪽으로 주세요.", "sentence_en": "Yes, please give it to me this way."},
-                {"front": "병원", "back": "Hospital / Clinic", "sentence_ko": "어디가 아파서 오셨어요?", "sentence_en": "Where does it hurt? (lit. Why did you come because you are sick?)"},
-                {"front": "생년월일", "back": "Date of birth", "sentence_ko": "여기 이름과 생년월일을 쓰시고 잠깐 기다리세요.", "sentence_en": "Please write your name and date of birth here and wait a moment."},
-                {"front": "노트북", "back": "Laptop", "sentence_ko": "노트북 화면이 안 나와서요.", "sentence_en": "The laptop screen isn't working."},
-                {"front": "줄무늬", "back": "Striped pattern", "sentence_ko": "제일 오른쪽에 있는 줄무늬 넥타이가 괜찮아 보이네요.", "sentence_en": "The striped tie on the far right looks good."},
-                {"front": "넥타이", "back": "Necktie", "sentence_ko": "마음에 드는 넥타이 있으세요?", "sentence_en": "Are there any neckties you like?"}
+            "행동 및 동사 (Action & Verbs)": [
+                {
+                    "front": "가리키다",
+                    "back": "To point to, to indicate",
+                    "sentence_ko": "지명들은 마을의 자연이나 문화를 가리킵니다.",
+                    "sentence_en": "The place names indicate the nature or culture of the village."
+                },
+                {
+                    "front": "갖다 주다",
+                    "back": "To bring and give",
+                    "sentence_ko": "동전 교환기에서 동전을 바꿔 갖다 줘.",
+                    "sentence_en": "Go change some banknotes at the coin exchanger and bring me the coins."
+                },
+                {
+                    "front": "걱정하다",
+                    "back": "To worry",
+                    "sentence_ko": "나는 메일이 안 갔나 걱정했어.",
+                    "sentence_en": "I was worried that the mail didn't go through."
+                },
+                {
+                    "front": "결정하다",
+                    "back": "To decide, to determine",
+                    "sentence_ko": "진로를 결정하는 데에도 꽤 도움이 됐어.",
+                    "sentence_en": "It was also quite helpful in deciding my career path."
+                },
+                {
+                    "front": "고민하다",
+                    "back": "To worry, to contemplate deeply",
+                    "sentence_ko": "취업 문제로 고민하고 있어요.",
+                    "sentence_en": "I'm worrying about employment issues."
+                },
+                {
+                    "front": "공부하다",
+                    "back": "To study",
+                    "sentence_ko": "요즘 새벽에 일어나서 공부하는데 집중이 잘되더라.",
+                    "sentence_en": "Lately, I've been waking up at dawn to study, and I can concentrate well."
+                },
+                {
+                    "front": "곧바로",
+                    "back": "Immediately, right away",
+                    "sentence_ko": "구조 요청을 받은 구조대원들은 곧바로 수색 작업을 시작해 두 시간 만에 등산객 모두를 발견했습니다.",
+                    "sentence_en": "Upon receiving the rescue request, the rescue workers immediately started a search operation and found all the hikers within two hours."
+                },
+                {
+                    "front": "구조되다",
+                    "back": "To be rescued",
+                    "sentence_ko": "길을 잃은 등산객 네 명이 구조됐습니다.",
+                    "sentence_en": "Four lost hikers were rescued."
+                },
+                {
+                    "front": "꾸미다",
+                    "back": "To decorate, to embellish",
+                    "sentence_ko": "꾸미지 않은 그런 느낌을 사람들이 좋아해 주는 것 같아요.",
+                    "sentence_en": "I think people like the feeling of not being embellished."
+                },
+                {
+                    "front": "끝나다",
+                    "back": "To finish, to be over",
+                    "sentence_ko": "개회식이 끝나는 대로 예선 경기가 시작되오니 그 자리에서 기다려 주십시오.",
+                    "sentence_en": "As soon as the opening ceremony is over, the preliminary matches will begin, so please wait in your seats."
+                },
+                {
+                    "front": "기다리다",
+                    "back": "To wait",
+                    "sentence_ko": "기다렸는데 받았다는 말이라도 해 주지.",
+                    "sentence_en": "I was waiting, you could have at least told me you received it."
+                },
+                {
+                    "front": "기억하다",
+                    "back": "To remember",
+                    "sentence_ko": "저는 행복했던 어린 시절을 기억하고 싶어서 그림을 그리기 시작했어요.",
+                    "sentence_en": "I started drawing because I wanted to remember my happy childhood."
+                },
+                {
+                    "front": "길을 잃다",
+                    "back": "To get lost",
+                    "sentence_ko": "산을 오르다가 정상에서 길을 잃었습니다.",
+                    "sentence_en": "I got lost at the summit while climbing the mountain."
+                },
+                {
+                    "front": "그리다",
+                    "back": "To draw, to paint",
+                    "sentence_ko": "우리 주변의 흔하고 평범한 소재를 따뜻하게 그리기 때문이 아닐까요?",
+                    "sentence_en": "Perhaps it's because she warmly paints ordinary and common subjects from our surroundings."
+                },
+                {
+                    "front": "날아가다",
+                    "back": "To fly away",
+                    "sentence_ko": "모자도 날아갈 수 있으니까 같이 보관해 드릴게요.",
+                    "sentence_en": "Your hat might also fly away, so I will store it with your bag."
+                },
+                {
+                    "front": "남아있다",
+                    "back": "To remain, to be left",
+                    "sentence_ko": "지명에는 지금은 안 쓰는 옛날 말이 많이 남아 있습니다.",
+                    "sentence_en": "In place names, many old words that are not used now remain."
+                },
+                {
+                    "front": "넣다",
+                    "back": "To put in",
+                    "sentence_ko": "세탁물 넣은 후에 코스 선택하고 동전 넣으래.",
+                    "sentence_en": "The notice says to put the laundry in, then choose a course, and then put in coins."
+                },
+                {
+                    "front": "넘어서다",
+                    "back": "To pass, to exceed",
+                    "sentence_ko": "70세가 넘어서야 그림을 그리기 시작했어요.",
+                    "sentence_en": "She started drawing only after she passed the age of 70."
+                },
+                {
+                    "front": "놀이 기구",
+                    "back": "Amusement ride",
+                    "sentence_ko": "손님, 놀이 기구 타실 거죠? 그러면 가방은 여기에 보관하시겠어요?",
+                    "sentence_en": "Customer, you're going to ride the amusement ride, right? Would you like to store your bag here?"
+                },
+                {
+                    "front": "늘어나다",
+                    "back": "To increase, to expand",
+                    "sentence_ko": "점차 늘어나고 있다.",
+                    "sentence_en": "It is gradually increasing."
+                },
+                {
+                    "front": "닫다",
+                    "back": "To close",
+                    "sentence_ko": "문 좀 닫아 주시겠어요?",
+                    "sentence_en": "Could you please close the door?"
+                },
+                {
+                    "front": "돕다",
+                    "back": "To help",
+                    "sentence_ko": "진로를 결정하는 데에도 꽤 도움이 됐어.",
+                    "sentence_en": "It was also quite helpful in deciding my career path."
+                },
+                {
+                    "front": "뒤를 잇다",
+                    "back": "To follow, to succeed",
+                    "sentence_ko": "다음으로 '사업'과 '친척 방문'이 뒤를 이었는데요.",
+                    "sentence_en": "Next, 'business' and 'visiting relatives' followed."
+                },
+                {
+                    "front": "들어가기",
+                    "back": "Entering",
+                    "sentence_ko": "모자를 벗고 들어가기 바랍니다.",
+                    "sentence_en": "Please take off your hat and enter."
+                },
+                {
+                    "front": "등산",
+                    "back": "Hiking",
+                    "sentence_ko": "산 정상에서 등산객이 구조되었습니다.",
+                    "sentence_en": "A hiker was rescued from the mountain summit."
+                },
+                {
+                    "front": "마중하기",
+                    "back": "Picking up/meeting someone",
+                    "sentence_ko": "공항에 마중하러 가야 합니다.",
+                    "sentence_en": "I need to go to the airport to pick someone up."
+                },
+                {
+                    "front": "맡기다",
+                    "back": "To entrust, to leave something with someone",
+                    "sentence_ko": "세탁소에 옷을 맡기다.",
+                    "sentence_en": "To leave clothes at the laundry shop."
+                },
+                {
+                    "front": "물건",
+                    "back": "Thing, item",
+                    "sentence_ko": "물건들도 제자리에 놓았고요.",
+                    "sentence_en": "I also put the things back in their proper places."
+                },
+                {
+                    "front": "받다",
+                    "back": "To receive",
+                    "sentence_ko": "메일을 받았다는 말이라도 해 주지.",
+                    "sentence_en": "You could have at least told me you received the email."
+                },
+                {
+                    "front": "발견하다",
+                    "back": "To discover, to find",
+                    "sentence_ko": "두 시간 만에 등산객 모두를 발견했습니다.",
+                    "sentence_en": "They found all the hikers in two hours."
+                },
+                {
+                    "front": "배우다",
+                    "back": "To learn",
+                    "sentence_ko": "물론 배운 적도 없고요.",
+                    "sentence_en": "Of course, she had no experience learning it either."
+                },
+                {
+                    "front": "벗다",
+                    "back": "To take off",
+                    "sentence_ko": "모자를 벗고 들어가기 바랍니다.",
+                    "sentence_en": "Please take off your hat and enter."
+                },
+                {
+                    "front": "보관하다",
+                    "back": "To store, to keep",
+                    "sentence_ko": "가방은 여기에 보관하시겠어요?",
+                    "sentence_en": "Would you like to store your bag here?"
+                },
+                {
+                    "front": "분실물",
+                    "back": "Lost item",
+                    "sentence_ko": "분실물 센터에 지갑을 맡기다.",
+                    "sentence_en": "To leave a wallet at the lost and found center."
+                },
+                {
+                    "front": "비행기",
+                    "back": "Airplane",
+                    "sentence_ko": "비행기를 타고 외국에 갑니다.",
+                    "sentence_en": "I am going abroad by airplane."
+                },
+                {
+                    "front": "사무실",
+                    "back": "Office",
+                    "sentence_ko": "사무실을 깨끗하게 치워야 합니다.",
+                    "sentence_en": "We need to clear away the office neatly."
+                },
+                {
+                    "front": "선택하다",
+                    "back": "To choose, to select",
+                    "sentence_ko": "먼저 코스 선택하고 세탁물 넣으면 되나?",
+                    "sentence_en": "Should I choose a course first and then put in the laundry?"
+                },
+                {
+                    "front": "선반",
+                    "back": "Shelf, rack",
+                    "sentence_ko": "책을 책장에 있는 선반에 올려놓다.",
+                    "sentence_en": "To put a book on the shelf in the bookshelf."
+                },
+                {
+                    "front": "세탁",
+                    "back": "Laundry",
+                    "sentence_ko": "오늘은 세탁을 해야 합니다.",
+                    "sentence_en": "I need to do laundry today."
+                },
+                {
+                    "front": "소감",
+                    "back": "Impression, thoughts, feelings",
+                    "sentence_ko": "여행 소감을 이야기하기 바랍니다.",
+                    "sentence_en": "Please talk about your impression of the trip."
+                },
+                {
+                    "front": "수리하다",
+                    "back": "To repair",
+                    "sentence_ko": "고장 난 냉장고를 수리해야 합니다.",
+                    "sentence_en": "I need to repair the broken refrigerator."
+                },
+                {
+                    "front": "숨다",
+                    "back": "To plant",
+                    "sentence_ko": "꽃을 화분에 심었다.",
+                    "sentence_en": "I planted a flower in a pot."
+                },
+                {
+                    "front": "습득하다",
+                    "back": "To pick up, to acquire",
+                    "sentence_ko": "떨어진 지갑을 습득해서 분실물 센터에 맡기다.",
+                    "sentence_en": "To pick up a dropped wallet and leave it at the lost and found center."
+                },
+                {
+                    "front": "시청하다",
+                    "back": "To watch, to view",
+                    "sentence_ko": "드라마를 시청하다.",
+                    "sentence_en": "To watch a drama."
+                },
+                {
+                    "front": "신입 사원",
+                    "back": "New employee",
+                    "sentence_ko": "신입 사원 교육 프로그램이 있습니다.",
+                    "sentence_en": "There is a new employee training program."
+                },
+                {
+                    "front": "싣기",
+                    "back": "Loading, putting on",
+                    "sentence_ko": "짐을 기차에 싣기 바랍니다.",
+                    "sentence_en": "Please load your luggage onto the train."
+                },
+                {
+                    "front": "얼마",
+                    "back": "How much, how many",
+                    "sentence_ko": "동전 교환기에서 지폐를 동전으로 바꿔야 하는데 얼마나 바꿔야 하나?",
+                    "sentence_en": "I need to change banknotes to coins at the coin exchanger, but how much should I change?"
+                },
+                {
+                    "front": "역할",
+                    "back": "Role",
+                    "sentence_ko": "이 프로그램에서 신입생의 역할은 무엇입니까?",
+                    "sentence_en": "What is the role of the new students in this program?"
+                },
+                {
+                    "front": "요청",
+                    "back": "Request",
+                    "sentence_ko": "구조 요청을 받은 구조대원들은 곧바로 수색 작업을 시작해.",
+                    "sentence_en": "Upon receiving the rescue request, the rescue workers immediately started a search operation."
+                },
+                {
+                    "front": "이유",
+                    "back": "Reason",
+                    "sentence_ko": "작가님의 그림이 인기를 얻고 있는 이유는 뭐라고 생각하십니까?",
+                    "sentence_en": "What do you think is the reason the artist's paintings are gaining popularity?"
+                },
+                {
+                    "front": "이야기하기",
+                    "back": "Talking about",
+                    "sentence_ko": "만남 프로그램에서 직업인들과 이야기하기 바랍니다.",
+                    "sentence_en": "Please talk with the professionals at the meeting program."
+                },
+                {
+                    "front": "일정",
+                    "back": "Schedule",
+                    "sentence_ko": "다음 주 일정은 어떻게 돼요?",
+                    "sentence_en": "What is your schedule for next week?"
+                },
+                {
+                    "front": "자연",
+                    "back": "Nature",
+                    "sentence_ko": "지명들은 마을의 자연이나 문화를 가리킵니다.",
+                    "sentence_en": "The place names indicate the nature or culture of the village."
+                },
+                {
+                    "front": "잠시 후",
+                    "back": "A moment later",
+                    "sentence_ko": "잠시 후 두시부터 개회식이 열립니다.",
+                    "sentence_en": "The opening ceremony will begin a little after 2 o'clock."
+                },
+                {
+                    "front": "재료",
+                    "back": "Ingredient, material",
+                    "sentence_ko": "잼을 만들 때 설탕이 재료로 필요합니다.",
+                    "sentence_en": "When making jam, sugar is needed as an ingredient."
+                },
+                {
+                    "front": "점차",
+                    "back": "Gradually, little by little",
+                    "sentence_ko": "점차 늘어나고 있다.",
+                    "sentence_en": "It is gradually increasing."
+                },
+                {
+                    "front": "정류장",
+                    "back": "Bus stop",
+                    "sentence_ko": "정류장에서 고속 버스를 탔습니다.",
+                    "sentence_en": "I took the express bus at the bus stop."
+                },
+                {
+                    "front": "정리하기",
+                    "back": "Organizing, tidying up",
+                    "sentence_ko": "촬영이 끝나면 물건을 정리하기 바랍니다.",
+                    "sentence_en": "Please organize the things when the filming is over."
+                },
+                {
+                    "front": "정상",
+                    "back": "Summit, peak",
+                    "sentence_ko": "산을 오르다 정상에서 길을 잃었습니다.",
+                    "sentence_en": "I got lost at the summit while climbing the mountain."
+                },
+                {
+                    "front": "제일",
+                    "back": "The most, first",
+                    "sentence_ko": "이것이 제일 좋습니다.",
+                    "sentence_en": "This is the best."
+                },
+                {
+                    "front": "직장인",
+                    "back": "Office worker, salaried worker",
+                    "sentence_ko": "저는 직장인입니다.",
+                    "sentence_en": "I am an office worker."
+                },
+                {
+                    "front": "지갑",
+                    "back": "Wallet",
+                    "sentence_ko": "이 지갑, 누가 잃어버린 것 같아요.",
+                    "sentence_en": "I think someone lost this wallet."
+                },
+                {
+                    "front": "지인",
+                    "back": "Acquaintance",
+                    "sentence_ko": "지인과 만나서 이야기했어요.",
+                    "sentence_en": "I met with an acquaintance and we talked."
+                },
+                {
+                    "front": "짐",
+                    "back": "Luggage, baggage",
+                    "sentence_ko": "짐을 여기에 보관하시겠어요?",
+                    "sentence_en": "Would you like to store your luggage here?"
+                },
+                {
+                    "front": "자리",
+                    "back": "Seat, place",
+                    "sentence_ko": "그 자리에서 기다려 주십시오.",
+                    "sentence_en": "Please wait in that seat."
+                },
+                {
+                    "front": "자전거",
+                    "back": "Bicycle",
+                    "sentence_ko": "자전거를 타고 공원에 갔어요.",
+                    "sentence_en": "I rode my bicycle to the park."
+                },
+                {
+                    "front": "절대",
+                    "back": "Absolutely, never",
+                    "sentence_ko": "절대 늦지 마세요.",
+                    "sentence_en": "Don't be late, ever."
+                },
+                {
+                    "front": "점심 시간",
+                    "back": "Lunch time",
+                    "sentence_ko": "점심 시간에 밥을 먹으러 갑니다.",
+                    "sentence_en": "I'm going to eat during lunch time."
+                },
+                {
+                    "front": "정리하다",
+                    "back": "To organize",
+                    "sentence_ko": "촬영이 끝나면 물건을 정리하기 바랍니다.",
+                    "sentence_en": "Please organize the things when the filming is over."
+                },
+                {
+                    "front": "집회",
+                    "back": "Paper money, banknote",
+                    "sentence_ko": "동전 교환기에서 지폐를 동전으로 바꿨습니다.",
+                    "sentence_en": "I used the coin exchange machine to change banknotes into coins."
+                },
+                {
+                    "front": "초과",
+                    "back": "Exceeding, over",
+                    "sentence_ko": "20분 초과하여 사용했습니다.",
+                    "sentence_en": "I used it for more than 20 minutes."
+                },
+                {
+                    "front": "최고점",
+                    "back": "Highest point, peak",
+                    "sentence_ko": "2022년에 최고점을 기록했다.",
+                    "sentence_en": "It recorded its highest point in 2022."
+                },
+                {
+                    "front": "최저점",
+                    "back": "Lowest point",
+                    "sentence_ko": "2021년에 최저점을 기록했다.",
+                    "sentence_en": "It recorded its lowest point in 2021."
+                },
+                {
+                    "front": "추세",
+                    "back": "Trend, tendency",
+                    "sentence_ko": "점점 상승하는 추세입니다.",
+                    "sentence_en": "It is a gradually rising trend."
+                },
+                {
+                    "front": "타기",
+                    "back": "Riding",
+                    "sentence_ko": "놀이 기구에 타기 바랍니다.",
+                    "sentence_en": "Please get on the amusement ride."
+                },
+                {
+                    "front": "탑승장",
+                    "back": "Boarding gate/area",
+                    "sentence_ko": "비행기 탑승장으로 가세요.",
+                    "sentence_en": "Please go to the airplane boarding gate."
+                },
+                {
+                    "front": "페인트칠",
+                    "back": "Painting",
+                    "sentence_ko": "페인트칠은 내가 할 테니까.",
+                    "sentence_en": "I'll do the painting."
+                },
+                {
+                    "front": "피곤하다",
+                    "back": "To be tired",
+                    "sentence_ko": "새벽에 일어나면 많이 피곤할 것 같은데.",
+                    "sentence_en": "If I get up at dawn, I think I'll be very tired."
+                },
+                {
+                    "front": "하락하다",
+                    "back": "To fall, to decline",
+                    "sentence_ko": "2021년에 하락했다가 다시 상승하고 있다.",
+                    "sentence_en": "It fell in 2021, then is now rising."
+                },
+                {
+                    "front": "화장실",
+                    "back": "Restroom",
+                    "sentence_ko": "화장실에 가고 싶어요.",
+                    "sentence_en": "I want to go to the restroom."
+                },
+                {
+                    "front": "회사",
+                    "back": "Company, office",
+                    "sentence_ko": "회사가 집과 가까워요.",
+                    "sentence_en": "My company is close to my house."
+                }
             ],
-            "그래프 및 표현 (Graphs & Expressions)": [
-                {"front": "직장인", "back": "Office worker", "sentence_ko": "직장인들은 점심시간을 어떻게 보낼까요?", "sentence_en": "How do office workers spend their lunch time?"},
-                {"front": "미만", "back": "Less than (but not including)", "sentence_ko": "한 시간 미만은 10%였습니다.", "sentence_en": "Less than one hour was 10%."},
-                {"front": "이상 / 이하", "back": "More than or equal to / Less than or equal to", "sentence_ko": "18세 이상만 입장 가능합니다.", "sentence_en": "Only those 18 years of age or older can enter."},
-                {"front": "증가하다 / 늘어나다", "back": "To increase / to grow", "sentence_ko": "2021년 이후 계속해서 증가하고 있다.", "sentence_en": "It has been continuously increasing since 2021."},
-                {"front": "감소하다 / 줄어들다", "back": "To decrease / to shrink", "sentence_ko": "2022년 이후 계속해서 감소하고 있다.", "sentence_en": "It has been continuously decreasing since 2022."},
-                {"front": "꾸준히", "back": "Steadily / Consistently", "sentence_ko": "2021년부터 꾸준히 늘어나고 있다.", "sentence_en": "It has been steadily increasing since 2021."},
-                {"front": "-다가", "back": "(Grammar) while doing A, B happens", "sentence_ko": "2022년부터 2023년까지 증가하다가 다시 감소하고 있다.", "sentence_en": "It was increasing from 2022 to 2023, and then decreased again."},
-                {"front": "최고점 / 최저점", "back": "Highest point / Lowest point", "sentence_ko": "2023년에 최고점을 기록했다.", "sentence_en": "It recorded its highest point in 2023."},
-                {"front": "상승하다 / 하락하다", "back": "To rise / to fall", "sentence_ko": "2021년까지 하락하다가 상승하고 있다.", "sentence_en": "It was falling until 2021 and then rose."},
-                {"front": "점차", "back": "Gradually / Slowly", "sentence_ko": "2021년에 가장 낮았다가 점차 늘어나고 있다.", "sentence_en": "It was lowest in 2021 and has been gradually increasing."}
+            "사람 관련 (People Related)": [
+                {
+                    "front": "감독님",
+                    "back": "Director (honorific)",
+                    "sentence_ko": "감독님, 촬영 준비 다 됐습니다.",
+                    "sentence_en": "Director, all filming preparations are complete."
+                },
+                {
+                    "front": "등산객",
+                    "back": "Hiker",
+                    "sentence_ko": "등산객 네 명이 구조됐습니다.",
+                    "sentence_en": "Four hikers were rescued."
+                },
+                {
+                    "front": "구조대원",
+                    "back": "Rescue worker",
+                    "sentence_ko": "구조 요청을 받은 구조대원들은 곧바로 수색 작업을 시작해.",
+                    "sentence_en": "Upon receiving the rescue request, the rescue workers immediately started a search operation."
+                },
+                {
+                    "front": "작가님",
+                    "back": "Writer, artist (honorific)",
+                    "sentence_ko": "작가님의 그림이 인기를 얻고 있는 이유는 뭐라고 생각하십니까?",
+                    "sentence_en": "What do you think is the reason the artist's paintings are gaining popularity?"
+                },
+                {
+                    "front": "신입 사원",
+                    "back": "New employee",
+                    "sentence_ko": "신입 사원 교육 프로그램이 있습니다.",
+                    "sentence_en": "There is a new employee training program."
+                },
+                {
+                    "front": "신입생",
+                    "back": "New student, freshman",
+                    "sentence_ko": "신입생 여러분께 안내드립니다.",
+                    "sentence_en": "Information for all new students."
+                },
+                {
+                    "front": "직장인",
+                    "back": "Office worker, salaried worker",
+                    "sentence_ko": "저는 직장인입니다.",
+                    "sentence_en": "I am an office worker."
+                },
+                {
+                    "front": "지인",
+                    "back": "Acquaintance",
+                    "sentence_ko": "지인과 만나서 이야기했어요.",
+                    "sentence_en": "I met with an acquaintance and we talked."
+                },
+                {
+                    "front": "참가자",
+                    "back": "Participant",
+                    "sentence_ko": "대기실에 계신 참가자들은 대회장으로 오시기 바랍니다.",
+                    "sentence_en": "Participants in the waiting room, please come to the competition venue."
+                },
+                {
+                    "front": "동료",
+                    "back": "Colleague, co-worker",
+                    "sentence_ko": "동료들과 함께 점심을 먹습니다.",
+                    "sentence_en": "I'm having lunch with my colleagues."
+                }
+            ],
+            "형용사 및 상태 관련 (Adjective & State Related)": [
+                {
+                    "front": "늦다",
+                    "back": "To be late",
+                    "sentence_ko": "늦어서 죄송합니다.",
+                    "sentence_en": "I'm sorry for being late."
+                },
+                {
+                    "front": "밝다",
+                    "back": "To be bright",
+                    "sentence_ko": "날이 밝아서 기분이 좋아요.",
+                    "sentence_en": "I feel good because it's bright."
+                },
+                {
+                    "front": "어둡다",
+                    "back": "To be dark",
+                    "sentence_ko": "날이 어두워져서 앞이 잘 보이지 않아요.",
+                    "sentence_en": "It got dark, so I can't see well in front of me."
+                },
+                {
+                    "front": "어린 시절",
+                    "back": "Childhood",
+                    "sentence_ko": "저는 행복했던 어린 시절을 기억하고 싶어요.",
+                    "sentence_en": "I want to remember my happy childhood."
+                },
+                {
+                    "front": "아름답다",
+                    "back": "To be beautiful",
+                    "sentence_ko": "지명에는 아름다운 표현들이 많습니다.",
+                    "sentence_en": "There are many beautiful expressions in place names."
+                },
+                {
+                    "front": "따뜻하다",
+                    "back": "To be warm",
+                    "sentence_ko": "따뜻하게 그림을 그리기 때문이 아닐까요?",
+                    "sentence_en": "Perhaps it's because she draws warmly?"
+                },
+                {
+                    "front": "평범하다",
+                    "back": "To be ordinary, to be common",
+                    "sentence_ko": "평범한 소재를 따뜻하게 그리기 때문이 아닐까요?",
+                    "sentence_en": "Perhaps it's because she draws ordinary subjects warmly?"
+                },
+                {
+                    "front": "피곤하다",
+                    "back": "To be tired",
+                    "sentence_ko": "새벽에 일어나면 많이 피곤할 것 같은데.",
+                    "sentence_en": "If I get up at dawn, I think I'll be very tired."
+                },
+                {
+                    "front": "화려하다",
+                    "back": "To be fancy, splendid",
+                    "sentence_ko": "화려하게 꾸미지 않아도 그림이 아름답습니다.",
+                    "sentence_en": "The painting is beautiful even without being decorated splendidly."
+                }
+            ],
+            "문법 및 표현 (Grammar & Expressions)": [
+                {
+                    "front": "~느라고",
+                    "back": "Because (negative outcome)",
+                    "sentence_ko": "어떻게 쓸까 생각하느라고 아직 답장을 못 보냈어.",
+                    "sentence_en": "Because I was thinking about how to write it, I couldn't send a reply yet."
+                }
             ]
         },
         "Lecture 2": {
