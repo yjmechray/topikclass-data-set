@@ -2397,6 +2397,375 @@
                 {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"},
                 {"front": "-는 대로", "back": "As soon as...", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."}
             ]
+
+            "주제 어휘 (Topic Vocabulary)": [
+                {
+                    "front": "분실하다",
+                    "back": "to lose, misplace (same as 잃어버리다)",
+                    "sentence_ko": "지갑을 분실했습니다.",
+                    "sentence_en": "I lost my wallet. (same as 잃어버리다)"
+                },
+                {
+                    "front": "잃어버리다",
+                    "back": "to lose (same as 분실하다)",
+                    "sentence_ko": "지갑을 잃어버렸습니다.",
+                    "sentence_en": "I lost my wallet. (same as 분실하다)"
+                },
+                {
+                    "front": "복사하다",
+                    "back": "to photocopy",
+                    "sentence_ko": "서류 복사 좀 부탁드립니다.",
+                    "sentence_en": "Please photocopy the documents for me."
+                },
+                {
+                    "front": "방문하다",
+                    "back": "to visit",
+                    "sentence_ko": "거래처 직원이 회사에 방문했습니다.",
+                    "sentence_en": "A staff member from a client company visited our company."
+                },
+                {
+                    "front": "요청하다",
+                    "back": "to request",
+                    "sentence_ko": "사무실 수리를 요청해야 합니다.",
+                    "sentence_en": "I need to request repairs for the office."
+                },
+                {
+                    "front": "수리하다",
+                    "back": "to repair (same as 고치다)",
+                    "sentence_ko": "고장 난 복사기를 수리해야 합니다.",
+                    "sentence_en": "The broken copier needs to be repaired. (same as 고치다)"
+                },
+                {
+                    "front": "고치다",
+                    "back": "to fix, repair (same as 수리하다)",
+                    "sentence_ko": "세탁기 고쳐서 세탁을 해야 합니다.",
+                    "sentence_en": "I have to fix the washing machine and do laundry. (same as 수리하다)"
+                },
+                {
+                    "front": "고장",
+                    "back": "breakdown, malfunction",
+                    "sentence_ko": "복사기에 고장이 생겼습니다.",
+                    "sentence_en": "The copier has broken down."
+                },
+                {
+                    "front": "위치",
+                    "back": "location",
+                    "sentence_ko": "화장실 위치를 물어보러 왔습니다.",
+                    "sentence_en": "I came to ask for the location of the restroom."
+                },
+                {
+                    "front": "신입사원",
+                    "back": "new employee",
+                    "sentence_ko": "새로 온 신입사원입니다.",
+                    "sentence_en": "This is our new employee."
+                },
+                {
+                    "front": "신입생",
+                    "back": "new student",
+                    "sentence_ko": "신입생 여러분께 안내 드립니다.",
+                    "sentence_en": "An announcement for all new students."
+                },
+                {
+                    "front": "들다",
+                    "back": "to hold, carry",
+                    "sentence_ko": "가방이 너무 무거워서 들기 힘들어요.",
+                    "sentence_en": "My bag is too heavy to carry."
+                },
+                {
+                    "front": "놓다",
+                    "back": "to place, put down",
+                    "sentence_ko": "책상 위에 놓아 주세요.",
+                    "sentence_en": "Please place it on the desk."
+                },
+                {
+                    "front": "옮기다",
+                    "back": "to move",
+                    "sentence_ko": "저 무거운 책상을 같이 옮겨 주세요.",
+                    "sentence_en": "Please help me move that heavy desk."
+                },
+                {
+                    "front": "시청하다",
+                    "back": "to watch, view (TV/video) (same as 텔레비전 보기)",
+                    "sentence_ko": "텔레비전 시청하기.",
+                    "sentence_en": "To watch TV. (same as 텔레비전 보기)"
+                },
+                {
+                    "front": "파티하다",
+                    "back": "to have a party",
+                    "sentence_ko": "친구들과 집에서 파티를 합니다.",
+                    "sentence_en": "I am having a party at home with my friends."
+                },
+                {
+                    "front": "집들이하다",
+                    "back": "to have a housewarming party",
+                    "sentence_ko": "새집으로 이사하고 집들이를 할 거예요.",
+                    "sentence_en": "I'm moving to a new house and will have a housewarming party."
+                },
+                {
+                    "front": "액자",
+                    "back": "picture frame",
+                    "sentence_ko": "액자를 벽에 걸어 주세요.",
+                    "sentence_en": "Please hang the picture frame on the wall."
+                },
+                {
+                    "front": "걸다",
+                    "back": "to hang",
+                    "sentence_ko": "벽에 시계를 걸었습니다.",
+                    "sentence_en": "I hung a clock on the wall."
+                },
+                {
+                    "front": "옷장",
+                    "back": "wardrobe",
+                    "sentence_ko": "계절이 바뀌어서 옷장을 정리해야 합니다.",
+                    "sentence_en": "I have to organize my wardrobe because the season has changed."
+                },
+                {
+                    "front": "책장",
+                    "back": "bookshelf",
+                    "sentence_ko": "책을 책장에 정리하다.",
+                    "sentence_en": "To organize books on a bookshelf."
+                },
+                {
+                    "front": "냉장고",
+                    "back": "refrigerator",
+                    "sentence_ko": "냉장고 청소를 도와줄까요?",
+                    "sentence_en": "Shall I help you clean the refrigerator?"
+                },
+                {
+                    "front": "심다",
+                    "back": "to plant",
+                    "sentence_ko": "화분에 예쁜 꽃을 심었습니다.",
+                    "sentence_en": "I planted a beautiful flower in the flowerpot."
+                },
+                {
+                    "front": "꽃",
+                    "back": "flower",
+                    "sentence_ko": "꽃을 심다.",
+                    "sentence_en": "To plant a flower."
+                },
+                {
+                    "front": "나무",
+                    "back": "tree",
+                    "sentence_ko": "나무를 심었어요.",
+                    "sentence_en": "I planted a tree."
+                },
+                {
+                    "front": "전구",
+                    "back": "light bulb",
+                    "sentence_ko": "전구가 나갔습니다. 갈아 끼워야 합니다.",
+                    "sentence_en": "The light bulb went out. I have to change it."
+                },
+                {
+                    "front": "갈다",
+                    "back": "to change, replace (same as 바꾸다)",
+                    "sentence_ko": "망가진 전구를 갈아 끼우다.",
+                    "sentence_en": "To change the broken light bulb. (same as 바꾸다)"
+                },
+                {
+                    "front": "세탁하다",
+                    "back": "to do laundry (same as 옷을 씻다, 빨래하다)",
+                    "sentence_ko": "세탁기 고쳐서 세탁을 해야 합니다.",
+                    "sentence_en": "I have to fix the washing machine and do laundry. (same as 옷을 씻다, 빨래하다)"
+                },
+                {
+                    "front": "페인트칠",
+                    "back": "painting",
+                    "sentence_ko": "집에 페인트칠을 해야 합니다.",
+                    "sentence_en": "I have to paint the house."
+                },
+                {
+                    "front": "청소",
+                    "back": "cleaning",
+                    "sentence_ko": "집안일은 청소, 설거지, 빨래 등입니다.",
+                    "sentence_en": "Housework includes cleaning, washing dishes, doing laundry, etc."
+                },
+                {
+                    "front": "주문하다",
+                    "back": "to order",
+                    "sentence_ko": "음료수를 주문하고 싶습니다.",
+                    "sentence_en": "I would like to order a drink."
+                },
+                {
+                    "front": "포장하다",
+                    "back": "to pack, wrap",
+                    "sentence_ko": "남은 음식 포장 좀 부탁드릴게요.",
+                    "sentence_en": "Please pack the leftover food for me."
+                },
+                {
+                    "front": "입원하다",
+                    "back": "to be hospitalized",
+                    "sentence_ko": "친구가 병원에 입원해서 병문안을 가야 합니다.",
+                    "sentence_en": "My friend is hospitalized, so I have to go visit."
+                },
+                {
+                    "front": "재활",
+                    "back": "rehabilitation",
+                    "sentence_ko": "다리가 아파서 재활 치료를 받고 있어요.",
+                    "sentence_en": "My leg hurts, so I'm receiving rehabilitation treatment."
+                },
+                {
+                    "front": "진찰하다",
+                    "back": "to examine a patient",
+                    "sentence_ko": "의사가 환자를 진찰합니다.",
+                    "sentence_en": "The doctor examines the patient."
+                },
+                {
+                    "front": "접수하다",
+                    "back": "to register, receive",
+                    "sentence_ko": "병원에서 진료를 접수하다.",
+                    "sentence_en": "To register for medical treatment at the hospital."
+                },
+                {
+                    "front": "환승하다",
+                    "back": "to transfer (transportation) (same as 갈아타다)",
+                    "sentence_ko": "지하철역에서 다른 노선으로 환승해야 합니다.",
+                    "sentence_en": "I have to transfer to another line at the subway station. (same as 갈아타다)"
+                },
+                {
+                    "front": "기차역",
+                    "back": "train station",
+                    "sentence_ko": "기차역에 도착해서 친구를 만났습니다.",
+                    "sentence_en": "I arrived at the train station and met my friend."
+                },
+                {
+                    "front": "수영장",
+                    "back": "swimming pool",
+                    "sentence_ko": "여름에는 수영장에서 수영을 합니다.",
+                    "sentence_en": "In the summer, I swim in the swimming pool."
+                },
+                {
+                    "front": "직위",
+                    "back": "Position / Rank",
+                    "sentence_ko": "회사에는 사장, 부장, 과장, 대리, 신입 사원 등의 직위가 있습니다.",
+                    "sentence_en": "In a company, there are positions like president, department head, manager, assistant manager, and new employee."
+                },
+                {
+                    "front": "상사",
+                    "back": "superior, boss",
+                    "sentence_ko": "상사에게 보고서를 제출했습니다.",
+                    "sentence_en": "I submitted the report to my superior."
+                },
+                {
+                    "front": "부하직원",
+                    "back": "subordinate",
+                    "sentence_ko": "부하직원들과 함께 회식했습니다.",
+                    "sentence_en": "I had a company dinner with my subordinates."
+                },
+                {
+                    "front": "동료",
+                    "back": "colleague",
+                    "sentence_ko": "동료들과 점심을 먹었습니다.",
+                    "sentence_en": "I had lunch with my colleagues."
+                },
+                {
+                    "front": "출근하다",
+                    "back": "to go to work",
+                    "sentence_ko": "아침 일찍 출근해서 업무를 시작했어요.",
+                    "sentence_en": "I went to work early in the morning and started my tasks."
+                },
+                {
+                    "front": "퇴근하다",
+                    "back": "to leave work",
+                    "sentence_ko": "오늘 저녁에 야근해서 늦게 퇴근합니다.",
+                    "sentence_en": "I'm working overtime tonight, so I will leave work late."
+                },
+                {
+                    "front": "일하다",
+                    "back": "to work",
+                    "sentence_ko": "이 일을 끝내고 퇴근해야 합니다.",
+                    "sentence_en": "I have to finish this work and then leave."
+                },
+                {
+                    "front": "야근하다",
+                    "back": "to work overtime",
+                    "sentence_ko": "오늘 야근해서 많이 피곤해요.",
+                    "sentence_en": "I'm very tired because I worked overtime today."
+                },
+                {
+                    "front": "회의하다",
+                    "back": "to have a meeting",
+                    "sentence_ko": "지금 회의하고 있습니다.",
+                    "sentence_en": "We are having a meeting now."
+                },
+                {
+                    "front": "참석하다",
+                    "back": "to attend",
+                    "sentence_ko": "다음 회의에 꼭 참석해 주세요.",
+                    "sentence_en": "Please be sure to attend the next meeting."
+                },
+                {
+                    "front": "발표하다",
+                    "back": "to present, announce",
+                    "sentence_ko": "회의에서 프로젝트 계획을 발표했습니다.",
+                    "sentence_en": "I presented the project plan in the meeting."
+                },
+                {
+                    "front": "보고서",
+                    "back": "report",
+                    "sentence_ko": "보고서를 작성해서 제출해야 합니다.",
+                    "sentence_en": "I have to write and submit the report."
+                },
+                {
+                    "front": "작성하다",
+                    "back": "to write, compose (same as 쓰다)",
+                    "sentence_ko": "설문지 작성 부탁드립니다.",
+                    "sentence_en": "Please fill out this questionnaire. (same as 쓰다)"
+                },
+                {
+                    "front": "수정하다",
+                    "back": "to revise, correct (same as 고치다, 바꾸다)",
+                    "sentence_ko": "보고서의 내용을 수정했습니다.",
+                    "sentence_en": "I corrected the content of the report. (same as 고치다, 바꾸다)"
+                },
+                {
+                    "front": "제출하다",
+                    "back": "to submit (same as 내다)",
+                    "sentence_ko": "기획안을 상사에게 제출했습니다.",
+                    "sentence_en": "I submitted the project proposal to my superior. (same as 내다)"
+                },
+                {
+                    "front": "정리하다",
+                    "back": "to organize, arrange",
+                    "sentence_ko": "자료를 정리해서 보고서를 만들었습니다.",
+                    "sentence_en": "I organized the data and made a report."
+                },
+                {
+                    "front": "출력하다",
+                    "back": "to print out (same as 프린트하다)",
+                    "sentence_ko": "파일을 출력해서 가져다 주세요.",
+                    "sentence_en": "Please print out the file and bring it to me. (same as 프린트하다)"
+                },
+                {
+                    "front": "종이가 걸리다",
+                    "back": "paper gets jammed",
+                    "sentence_ko": "복사기에 종이가 걸렸어요.",
+                    "sentence_en": "Paper got jammed in the copier."
+                },
+                {
+                    "front": "빼다",
+                    "back": "to take out, remove",
+                    "sentence_ko": "걸린 종이를 빼 주시면 됩니다.",
+                    "sentence_en": "You just need to take out the jammed paper."
+                },
+                {
+                    "front": "보내다",
+                    "back": "to send",
+                    "sentence_ko": "거래처에 이메일을 보냈습니다.",
+                    "sentence_en": "I sent an email to the client company."
+                },
+                {
+                    "front": "신제품",
+                    "back": "new product",
+                    "sentence_ko": "우리 회사에서 신제품을 출시했습니다.",
+                    "sentence_en": "Our company launched a new product."
+                },
+                {
+                    "front": "홍보하다",
+                    "back": "to promote (same as 광고하다)",
+                    "sentence_ko": "새로운 제품을 홍보해야 합니다.",
+                    "sentence_en": "We need to promote the new product. (same as 광고하다)"
+                }
+            ]
         },
         "Lecture 2": {
             "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
