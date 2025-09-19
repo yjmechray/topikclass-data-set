@@ -2365,38 +2365,414 @@
     },
      "Week 3": {
         "Lecture 1": {
-            "회사 관련 어휘 (Company-Related Vocabulary)": [
-                {"front": "직위", "back": "Position / Rank", "sentence_ko": "회사에는 사장, 부장, 과장, 대리, 신입 사원 등의 직위가 있습니다.", "sentence_en": "In a company, there are positions like president, department head, manager, assistant manager, and new employee."},
-                {"front": "신입 사원", "back": "New employee", "sentence_ko": "신입사원에게 업무를 전달합니다.", "sentence_en": "I am passing on the work to the new employee."},
-                {"front": "상사 / 부하 직원", "back": "Superior / Subordinate", "sentence_ko": "상사는 부하 직원에게 업무를 지시합니다.", "sentence_en": "The superior gives instructions to the subordinate."},
-                {"front": "동료", "back": "Colleague / Coworker", "sentence_ko": "주말에 동료들과 같이 등산을 갔어요.", "sentence_en": "I went hiking with my colleagues over the weekend."},
-                {"front": "거래처", "back": "Client / Business partner", "sentence_ko": "오후에 거래처와 회의가 있습니다.", "sentence_en": "I have a meeting with a client in the afternoon."},
-                {"front": "출장", "back": "Business trip", "sentence_ko": "김 과장님, 다음 주 출장 일정 나왔습니다.", "sentence_en": "Manager Kim, the schedule for next week's business trip is out."},
-                {"front": "야근하다", "back": "To work overtime", "sentence_ko": "오늘 일이 많아서 야근해야 할 것 같아요.", "sentence_en": "I have a lot of work today, so I think I have to work overtime."},
-                {"front": "서류", "back": "Documents / Papers", "sentence_ko": "이 서류들만 정리하고 퇴근합시다.", "sentence_en": "Let's just organize these documents and then leave work."},
-                {"front": "연기되다", "back": "To be postponed / delayed", "sentence_ko": "비행기 표는 어떻게 하지요? 출장이 연기됐는데...", "sentence_en": "What should I do about the plane ticket? The business trip was postponed..."},
-                {"front": "보고서", "back": "Report", "sentence_ko": "보고서는 다 써 갑니다.", "sentence_en": "I'm almost finished writing the report."},
-                {"front": "완성하다", "back": "To complete", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."},
-                {"front": "분실물", "back": "Lost item", "sentence_ko": "회사에서 분실물을 찾고 있어요.", "sentence_en": "I am looking for a lost item at the company."},
-                {"front": "복사하기", "back": "To copy / make a copy", "sentence_ko": "회의 전에 자료를 복사해야 해요.", "sentence_en": "I need to copy the materials before the meeting."},
-                {"front": "수리 요청", "back": "Repair request", "sentence_ko": "에어컨이 고장나서 사무실 수리 요청을 했어요.", "sentence_en": "The air conditioner broke down, so I made an office repair request."},
-                {"front": "물건을 옮기다", "back": "To move an object/things", "sentence_ko": "이 상자들을 다른 사무실로 옮겨야 해요.", "sentence_en": "I need to move these boxes to the other office."}
-            ],
-            "일상 생활 어휘 (Daily Life Vocabulary)": [
-                {"front": "소포를 부치다", "back": "To send a parcel", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
-                {"front": "우체국", "back": "Post office", "sentence_ko": "우체국에 소포 부치러 가는데 뭐 필요한 거 있어요?", "sentence_en": "I'm going to the post office to mail a parcel, do you need anything?"},
-                {"front": "편지", "back": "Letter", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
-                {"front": "화분", "back": "Flowerpot", "sentence_ko": "정원에 놓을 예쁜 화분을 샀어요.", "sentence_en": "I bought a pretty flowerpot to put in the garden."},
-                {"front": "치우다", "back": "To tidy up / clear away", "sentence_ko": "식사 후에 책상을 치워 주세요.", "sentence_en": "Please clear the desk after the meal."},
-                {"front": "세탁하다 / 빨래하다", "back": "To do laundry", "sentence_ko": "주말에는 보통 밀린 빨래를 해요.", "sentence_en": "On weekends, I usually do the piled-up laundry."},
-                {"front": "썰다", "back": "To chop / slice", "sentence_ko": "요리하려면 먼저 채소를 썰어야 해요.", "sentence_en": "To cook, you first need to chop the vegetables."},
-                {"front": "삶다", "back": "To boil (something in water)", "sentence_ko": "달걀을 삶는 데 10분이 걸립니다.", "sentence_en": "It takes 10 minutes to boil an egg."}
-            ],
-            "문법 및 표현 (Grammar & Expressions)": [
-                {"front": "-(으)ㄴ/는 김에", "back": "While one is at it / Since one is doing...", "sentence_ko": "우체국에 가는 김에 이 편지도 좀 부쳐 줄래?", "sentence_en": "Since you're going to the post office, could you mail this letter for me too?"},
-                {"front": "-(으)ㄹ 겸", "back": "To do two things at once", "sentence_ko": "산책할 겸 이야기도 할 겸 같이 걸을까요?", "sentence_en": "Shall we walk together to get some fresh air and also to talk?"},
-                {"front": "-는 대로", "back": "As soon as...", "sentence_ko": "그럼 완성되는 대로 바로 보내 주세요.", "sentence_en": "Then, as soon as it's complete, please send it to me right away."}
-            ]
+"주제 관련 어휘 (Topic-Related Vocabulary)": [
+{
+"front": "회사",
+"back": "Company",
+"sentence_ko": "회사에서는 다양한 업무와 관련된 대화를 나눕니다.",
+"sentence_en": "At a company, various conversations related to work take place."
+},
+{
+"front": "학교",
+"back": "School",
+"sentence_ko": "학교에서는 캠퍼스를 걷거나 수업에 대해 이야기하는 등 대화 주제가 많습니다.",
+"sentence_en": "At school, there are many conversation topics like walking around the campus or talking about classes."
+},
+{
+"front": "집",
+"back": "Home",
+"sentence_ko": "집에서는 가족과 함께 텔레비전을 보거나 집안일을 합니다.",
+"sentence_en": "At home, people watch television with family or do household chores."
+},
+{
+"front": "식당",
+"back": "Restaurant",
+"sentence_ko": "식당에서는 주문하거나 음식을 포장하는 등의 대화를 합니다.",
+"sentence_en": "At a restaurant, people talk about ordering or packing food to go."
+},
+{
+"front": "병원",
+"back": "Hospital",
+"sentence_ko": "병원에서는 진료 접수나 병문안과 관련된 대화를 나눕니다.",
+"sentence_en": "At a hospital, conversations are related to registering for treatment or visiting a sick person."
+},
+{
+"front": "세탁소",
+"back": "Laundry / Dry cleaner's",
+"sentence_ko": "세탁소에서는 세탁물을 맡기거나 찾아오는 대화를 합니다.",
+"sentence_en": "At the dry cleaner's, people talk about dropping off or picking up laundry."
+},
+{
+"front": "서비스센터",
+"back": "Service center",
+"sentence_ko": "서비스센터에서는 고장 난 물건의 수리를 요청합니다.",
+"sentence_en": "At a service center, people request repairs for broken items."
+},
+{
+"front": "개인적인 이야기",
+"back": "Personal talk",
+"sentence_ko": "친구와 만나서 소소한 개인적인 이야기를 합니다.",
+"sentence_en": "I meet a friend and we have a small personal talk."
+},
+{
+"front": "안부 묻기",
+"back": "To ask about someone's well-being",
+"sentence_ko": "오랜만에 만난 친구에게 안부를 물었습니다.",
+"sentence_en": "I asked my friend, whom I hadn't seen in a long time, how they were doing."
+},
+{
+"front": "약속하기",
+"back": "To make an appointment/promise",
+"sentence_ko": "다음 주에 친구와 약속을 정했습니다.",
+"sentence_en": "I made an appointment with my friend for next week."
+},
+{
+"front": "초대와 방문",
+"back": "Invitation and visit",
+"sentence_ko": "집들이에 친구를 초대하거나 친구의 집을 방문하는 것에 대한 이야기입니다.",
+"sentence_en": "This is a story about inviting a friend to a housewarming party or visiting a friend's house."
+},
+{
+"front": "이사 관련 이야기",
+"back": "Talk related to moving",
+"sentence_ko": "새로운 집으로 이사하는 것에 대해 친구와 이야기를 나누고 있어요.",
+"sentence_en": "I'm talking to my friend about moving to a new house."
+},
+{
+"front": "취업 관련 이야기",
+"back": "Talk related to getting a job",
+"sentence_ko": "새로 시작한 일이나 면접 경험에 대해 이야기합니다.",
+"sentence_en": "I'm talking about a new job I started or my interview experience."
+},
+{
+"front": "쇼핑 이야기",
+"back": "Shopping talk",
+"sentence_ko": "백화점에서 쇼핑한 경험에 대해 친구에게 이야기했습니다.",
+"sentence_en": "I told my friend about my shopping experience at the department store."
+},
+{
+"front": "여행 이야기",
+"back": "Travel talk",
+"sentence_ko": "여행 계획이나 여행 소감에 대해 친구와 이야기합니다.",
+"sentence_en": "I'm talking to my friend about my travel plans or my impressions of a trip."
+},
+{
+"front": "이동 중 위치 말하기",
+"back": "To talk about your location while moving",
+"sentence_ko": "친구에게 이동 중인 제 위치를 말하고 있습니다.",
+"sentence_en": "I'm telling my friend about my location while I'm on the way."
+},
+{
+"front": "분실물 이야기",
+"back": "Talk about a lost item",
+"sentence_ko": "핸드폰을 잃어버려서 친구에게 분실물에 대해 이야기했습니다.",
+"sentence_en": "I lost my phone, so I talked to my friend about the lost item."
+},
+{
+"front": "문화생활",
+"back": "Cultural life",
+"sentence_ko": "문화생활로는 영화 관람이나 공연 관람이 있습니다.",
+"sentence_en": "Cultural life includes watching movies or plays."
+},
+{
+"front": "행사 관련 이야기",
+"back": "Talk about an event",
+"sentence_ko": "곧 있을 행사 일정에 대해 친구에게 물어봤어요.",
+"sentence_en": "I asked my friend about the schedule for an upcoming event."
+}
+],
+"회사 관련 어휘 (Company-Related Vocabulary)": [
+{
+"front": "직위",
+"back": "Position / Rank",
+"sentence_ko": "회사에는 사장, 부장, 과장, 대리, 신입 사원 등의 직위가 있습니다.",
+"sentence_en": "In a company, there are positions like president, department head, manager, assistant manager, and new employee."
+},
+{
+"front": "신입 사원",
+"back": "New employee",
+"sentence_ko": "신입사원에게 업무를 전달합니다.",
+"sentence_en": "I am passing on the work to the new employee."
+},
+{
+"front": "상사",
+"back": "Superior / Senior staff",
+"sentence_ko": "상사는 부하 직원에게 업무를 지시합니다.",
+"sentence_en": "The superior gives instructions to the subordinate."
+},
+{
+"front": "부하 직원",
+"back": "Subordinate / Junior staff",
+"sentence_ko": "부하 직원이 상사에게 업무 보고를 합니다.",
+"sentence_en": "The subordinate reports on the work to the superior."
+},
+{
+"front": "동료",
+"back": "Colleague / Coworker",
+"sentence_ko": "주말에 동료들과 같이 등산을 갔어요.",
+"sentence_en": "I went hiking with my colleagues over the weekend."
+},
+{
+"front": "거래처",
+"back": "Client / Business partner",
+"sentence_ko": "오후에 거래처와 회의가 있습니다.",
+"sentence_en": "I have a meeting with a client in the afternoon."
+},
+{
+"front": "출근하다",
+"back": "To go to work",
+"sentence_ko": "아침 9시에 출근해서 일을 시작합니다.",
+"sentence_en": "I go to work at 9 a.m. and start working."
+},
+{
+"front": "퇴근하다",
+"back": "To leave work",
+"sentence_ko": "오늘은 일이 없어서 일찍 퇴근했습니다.",
+"sentence_en": "I finished early today, so I left work early."
+},
+{
+"front": "일하다",
+"back": "To work",
+"sentence_ko": "일하는 동안에는 개인적인 전화를 자제해야 합니다.",
+"sentence_en": "You should refrain from making personal calls while working."
+},
+{
+"front": "근무하다",
+"back": "To work / to be on duty",
+"sentence_ko": "저는 주말에도 근무할 때가 있습니다.",
+"sentence_en": "There are times when I work on weekends."
+},
+{
+"front": "야근하다",
+"back": "To work overtime",
+"sentence_ko": "오늘 일이 많아서 야근해야 할 것 같아요.",
+"sentence_en": "I have a lot of work today, so I think I have to work overtime."
+},
+{
+"front": "업무를 전달하다",
+"back": "To deliver work/tasks",
+"sentence_ko": "팀장님이 저에게 중요한 업무를 전달했습니다.",
+"sentence_en": "The team leader gave me an important task."
+},
+{
+"front": "명령하다",
+"back": "To order / to command",
+"sentence_ko": "상사의 명령에 따라 보고서를 다시 수정했습니다.",
+"sentence_en": "According to my superior's order, I revised the report again."
+},
+{
+"front": "지시하다",
+"back": "To instruct",
+"sentence_ko": "팀장님께서 프로젝트 방향에 대해 지시하셨습니다.",
+"sentence_en": "The team leader gave instructions on the project's direction."
+},
+{
+"front": "부탁하다",
+"back": "To ask for a favor",
+"sentence_ko": "회의 자료 복사를 동료에게 부탁했습니다.",
+"sentence_en": "I asked a colleague to copy the meeting materials."
+},
+{
+"front": "처리하다",
+"back": "To handle / to process",
+"sentence_ko": "밀린 업무를 오늘까지 모두 처리해야 합니다.",
+"sentence_en": "I have to handle all the pending work by today."
+},
+{
+"front": "통역하다",
+"back": "To interpret",
+"sentence_ko": "해외 거래처 직원을 위해 제가 통역을 했습니다.",
+"sentence_en": "I interpreted for the staff of an overseas client."
+},
+{
+"front": "지급하다",
+"back": "To pay / provide",
+"sentence_ko": "회사는 매달 직원들에게 월급을 지급합니다.",
+"sentence_en": "The company pays salaries to its employees every month."
+},
+{
+"front": "해외 파견 근무자",
+"back": "Overseas dispatched worker",
+"sentence_ko": "저는 내년부터 해외 파견 근무자로 일하게 됩니다.",
+"sentence_en": "Starting next year, I will work as an overseas dispatched worker."
+},
+{
+"front": "회의",
+"back": "Meeting",
+"sentence_ko": "오전 10시에 회의가 있을 예정입니다.",
+"sentence_en": "A meeting is scheduled for 10 a.m."
+},
+{
+"front": "참석하다",
+"back": "To attend",
+"sentence_ko": "모든 직원은 회의에 참석해야 합니다.",
+"sentence_en": "All employees must attend the meeting."
+},
+{
+"front": "발표하다",
+"back": "To present",
+"sentence_ko": "다음 주 회의에서 제가 발표를 맡았습니다.",
+"sentence_en": "I am in charge of the presentation at next week's meeting."
+},
+{
+"front": "보고서",
+"back": "Report",
+"sentence_ko": "보고서는 다 써 갑니다.",
+"sentence_en": "I'm almost finished writing the report."
+},
+{
+"front": "작성하다",
+"back": "To write / to draft",
+"sentence_ko": "기획안을 작성하는 데 시간이 오래 걸렸습니다.",
+"sentence_en": "It took a long time to draft the proposal."
+},
+{
+"front": "수정하다",
+"back": "To revise / to correct",
+"sentence_ko": "보고서 내용에 오류가 있어서 수정했습니다.",
+"sentence_en": "There was an error in the report, so I revised it."
+},
+{
+"front": "제출하다",
+"back": "To submit",
+"sentence_ko": "마감일까지 보고서를 제출해야 합니다.",
+"sentence_en": "I have to submit the report by the deadline."
+},
+{
+"front": "확인하다",
+"back": "To check / confirm",
+"sentence_ko": "자료를 출력한 후 오타가 없는지 확인해야 합니다.",
+"sentence_en": "After printing the documents, you need to check for any typos."
+},
+{
+"front": "검토하다",
+"back": "To review / examine",
+"sentence_ko": "제출 전에 상사에게 보고서를 검토해달라고 부탁했어요.",
+"sentence_en": "I asked my superior to review the report before submitting it."
+},
+{
+"front": "출력하다",
+"back": "To print",
+"sentence_ko": "이메일로 받은 자료를 출력해서 보겠습니다.",
+"sentence_en": "I will print the materials I received via email and look at them."
+},
+{
+"front": "승진",
+"back": "Promotion",
+"sentence_ko": "축하해! 이번에 승진했다고 들었어.",
+"sentence_en": "Congratulations! I heard you got a promotion this time."
+}
+],
+"일상 생활 어휘 (Daily Life Vocabulary)": [
+{
+"front": "텔레비전 보기",
+"back": "To watch TV",
+"sentence_ko": "저는 보통 저녁 식사 후에 텔레비전을 봅니다.",
+"sentence_en": "I usually watch television after dinner."
+},
+{
+"front": "파티하기",
+"back": "To have a party",
+"sentence_ko": "주말에 친구들과 우리 집에서 파티하기로 했어요.",
+"sentence_en": "My friends and I decided to have a party at my place on the weekend."
+},
+{
+"front": "액자 걸기",
+"back": "To hang a picture frame",
+"sentence_ko": "벽에 가족 사진을 넣은 액자를 걸었습니다.",
+"sentence_en": "I hung a family photo in a picture frame on the wall."
+},
+{
+"front": "냉장고 정리하기",
+"back": "To organize the refrigerator",
+"sentence_ko": "냉장고에 유통기한이 지난 음식들을 정리했습니다.",
+"sentence_en": "I organized the refrigerator by removing expired food."
+},
+{
+"front": "정원 가꾸기",
+"back": "To garden",
+"sentence_ko": "주말에 취미로 정원 가꾸기를 합니다.",
+"sentence_en": "I enjoy gardening as a hobby on the weekends."
+},
+{
+"front": "전자제품 고장에 대해 물어보기",
+"back": "To ask about a broken electronic device",
+"sentence_ko": "텔레비전이 고장 나서 서비스센터에 전자제품 고장에 대해 물어봤어요.",
+"sentence_en": "The television broke, so I asked the service center about the broken electronic device."
+},
+{
+"front": "세탁 부탁하기",
+"back": "To ask for laundry to be done",
+"sentence_ko": "엄마에게 빨래를 세탁 부탁하기로 했어요.",
+"sentence_en": "I asked my mom to do the laundry for me."
+},
+{
+"front": "집 공사하기",
+"back": "To do home construction",
+"sentence_ko": "집이 낡아서 인테리어를 위해 집 공사를 했습니다.",
+"sentence_en": "The house was old, so I did some construction for the interior."
+},
+{
+"front": "집안일하기",
+"back": "To do chores",
+"sentence_ko": "주말에 밀린 집안일을 해야 해서 외출을 못 했습니다.",
+"sentence_en": "I couldn't go out because I had to do all the pending chores over the weekend."
+},
+{
+"front": "선물 들고 방문하기",
+"back": "To visit with a gift",
+"sentence_ko": "친구 생일이라서 선물을 들고 방문했습니다.",
+"sentence_en": "It was my friend's birthday, so I visited with a gift."
+},
+{
+"front": "요리한 후에 맛보기",
+"back": "To taste after cooking",
+"sentence_ko": "요리가 다 된 후에 맛을 보았습니다.",
+"sentence_en": "After the dish was finished, I tasted it."
+},
+{
+"front": "주문하기",
+"back": "To order",
+"sentence_ko": "식당에 가서 김치찌개 하나 주문했습니다.",
+"sentence_en": "I went to a restaurant and ordered one kimchi stew."
+},
+{
+"front": "남은 음식 포장 부탁하기",
+"back": "To ask for leftovers to be packed",
+"sentence_ko": "음식이 너무 많이 남아서 포장 부탁했습니다.",
+"sentence_en": "I had too many leftovers, so I asked to have them packed."
+},
+{
+"front": "개업식 축하하기",
+"back": "To congratulate on a grand opening",
+"sentence_ko": "친구가 카페를 개업해서 개업식 축하하기 위해 찾아갔습니다.",
+"sentence_en": "My friend opened a cafe, so I went to congratulate them on the grand opening."
+},
+{
+"front": "병문안 가기",
+"back": "To visit a sick person",
+"sentence_ko": "친구가 병원에 입원해서 병문안을 갔어요.",
+"sentence_en": "My friend was hospitalized, so I went to visit them."
+},
+{
+"front": "진찰받기",
+"back": "To get a medical examination",
+"sentence_ko": "배가 아파서 병원에서 진찰을 받았습니다.",
+"sentence_en": "My stomach hurt, so I went to the hospital to get a medical examination."
+},
+{
+"front": "진료 접수하기",
+"back": "To register for a medical examination",
+"sentence_ko": "병실에 들어가기 전에 진료 접수를 먼저 했습니다.",
+"sentence_en": "Before going into the hospital room, I registered for the examination first."
+},
+{
+"front": "세탁물 맡기기",
+"back": "To drop off laundry",
+"sentence_ko": "세탁할 옷이 많아서 세탁소에 세탁물을 맡겼습니다.",
+"sentence_en": "I had a lot of clothes to wash, so I dropped them off at the laundry."
+}
+]
         },
         "Lecture 2": {
             "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
