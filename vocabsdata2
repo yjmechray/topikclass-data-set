@@ -3280,7 +3280,7 @@
 }
     },
     "Week 4": {
-        ""Lecture 1": {
+        "Lecture 1": {
 "일상 관련 어휘 (Daily Life Related Vocabulary)": [
 {
 "front": "예약하다",
@@ -3891,7 +3891,7 @@
 "sentence_en": "Yes. I will do it that way."
 }
 ]
-        },
+},
         "Lecture 2": {
             "상황 및 행동 관련 어휘 (Situation & Action Vocabulary)": [
                 {"front": "판매하다", "back": "To sell", "sentence_ko": "판매도 한다니까 우리 하나 사 가요.", "sentence_en": "They said they sell them too, so let's buy one."},
