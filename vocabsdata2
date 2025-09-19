@@ -3280,7 +3280,7 @@
 }
     },
     "Week 4": {
-        "Lecture 1": {
+       "Lecture 1": {
 "일상 관련 어휘 (Daily Life Related Vocabulary)": [
 {
 "front": "예약하다",
@@ -3488,7 +3488,7 @@
 },
 {
 "front": "환불하기",
-"back": "To refund",
+"back": "To get a refund",
 "sentence_ko": "환불하기.",
 "sentence_en": "To refund."
 },
@@ -3679,6 +3679,12 @@
 "back": "Carefully/Prudently",
 "sentence_ko": "한번 더 신중하게 생각해 보는게 어때요?",
 "sentence_en": "How about thinking about it more carefully one more time?"
+},
+{
+"front": "혼나다",
+"back": "To be scolded",
+"sentence_ko": "일이 몰려서 늦어졌다고 팀장님께 혼났어요.",
+"sentence_en": "I got scolded by the team leader for being late due to a pile-up of work."
 }
 ],
 "문제 해결 관련 어휘 (Problem Solving Related Vocabulary)": [
@@ -3821,6 +3827,24 @@
 "back": "To pass/elapse",
 "sentence_ko": "회의 시간이 벌써 20분이나 지났는데 왜 아무도 안 오죠?",
 "sentence_en": "The meeting time has already passed by 20 minutes, why hasn't anyone come?"
+},
+{
+"front": "수선하다",
+"back": "To mend/repair (clothes/shoes)",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today?"
+},
+{
+"front": "줄이다",
+"back": "To reduce/Shorten",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today?"
+},
+{
+"front": "싱겁다",
+"back": "To be bland/Insipid (Opposite of salty)",
+"sentence_ko": "음, 조금 싱거운 것 같은데요.",
+"sentence_en": "Hmm, it seems a little bland."
 }
 ],
 "주요 패턴 및 표현 (Key Patterns and Expressions)": [
@@ -3889,8 +3913,179 @@
 "back": "Yes. I will do it that way.",
 "sentence_ko": "네. 그렇게 할게요.",
 "sentence_en": "Yes. I will do it that way."
+},
+{
+"front": "~았/었으면 좋겠다",
+"back": "I wish/hope that...",
+"sentence_ko": "발표가 끝나니 후련하다. 빨리 졸업했으면 좋겠다.",
+"sentence_en": "The presentation is over, so I feel relieved. I hope I can graduate quickly."
+},
+{
+"front": "V-(으)ㄹ까 하다",
+"back": "I'm thinking of doing...",
+"sentence_ko": "방학 때 외국어 공부를 좀 할까 해요.",
+"sentence_en": "I'm thinking of studying a foreign language during vacation."
+},
+{
+"front": "V-더라",
+"back": "I saw/experienced that... (Recollection of past experience)",
+"sentence_ko": "이번에 새로 시작한 드라마 말이야. 진짜 재미있더라.",
+"sentence_en": "That new drama that started recently. It was really interesting."
+},
+{
+"front": "V-(으)ㄴ/는 것 같다",
+"back": "It seems/looks like...",
+"sentence_ko": "질문 수가 좀 많은 것 같네요.",
+"sentence_en": "It seems like there are quite a few questions."
+},
+{
+"front": "~어야지요",
+"back": "You should have done...",
+"sentence_ko": "그러면 미리 연락을 주셨어야지요.",
+"sentence_en": "Then you should have contacted me in advance."
+}
+],
+"반의어 (Antonyms)": [
+{
+"front": "국내",
+"back": "Domestic",
+"sentence_ko": "국내의 반대말은 해외이다.",
+"sentence_en": "The antonym of domestic is overseas."
+},
+{
+"front": "해외",
+"back": "Overseas/Foreign",
+"sentence_ko": "해외의 반대말은 국내이다.",
+"sentence_en": "The antonym of overseas is domestic."
+},
+{
+"front": "긍정적",
+"back": "Positive",
+"sentence_ko": "긍정적의 반대말은 부정적이다.",
+"sentence_en": "The antonym of positive is negative."
+},
+{
+"front": "부정적",
+"back": "Negative",
+"sentence_ko": "부정적의 반대말은 긍정적이다.",
+"sentence_en": "The antonym of negative is positive."
+},
+{
+"front": "빨리",
+"back": "Quickly",
+"sentence_ko": "빨리의 반대말은 천천히이다.",
+"sentence_en": "The antonym of quickly is slowly."
+},
+{
+"front": "천천히",
+"back": "Slowly",
+"sentence_ko": "천천히의 반대말은 빨리이다.",
+"sentence_en": "The antonym of slowly is quickly."
+},
+{
+"front": "빌리다",
+"back": "To borrow",
+"sentence_ko": "빌리다의 반대말은 갚다 또는 돌려주다이다.",
+"sentence_en": "The antonym of to borrow is to pay back or to return."
+},
+{
+"front": "갚다",
+"back": "To pay back",
+"sentence_ko": "빌린 돈을 갚다.",
+"sentence_en": "To pay back the borrowed money."
+},
+{
+"front": "돌려주다",
+"back": "To return",
+"sentence_ko": "빌린 책을 돌려주다.",
+"sentence_en": "To return the borrowed book."
+},
+{
+"front": "출국",
+"back": "Departure from a country",
+"sentence_ko": "출국의 반대말은 입국이다.",
+"sentence_en": "The antonym of departure is entry (to a country)."
+},
+{
+"front": "입국",
+"back": "Entry to a country",
+"sentence_ko": "입국의 반대말은 출국이다.",
+"sentence_en": "The antonym of entry is departure."
+},
+{
+"front": "외향적",
+"back": "Extroverted",
+"sentence_ko": "외향적의 반대말은 내성적이다.",
+"sentence_en": "The antonym of extroverted is introverted."
+},
+{
+"front": "내성적",
+"back": "Introverted",
+"sentence_ko": "내성적의 반대말은 외향적이다.",
+"sentence_en": "The antonym of introverted is extroverted."
+},
+{
+"front": "이기다",
+"back": "To win",
+"sentence_ko": "이기다의 반대말은 지다이다.",
+"sentence_en": "The antonym of to win is to lose."
+},
+{
+"front": "지다",
+"back": "To lose",
+"sentence_ko": "이기다의 반대말은 지다이다.",
+"sentence_en": "The antonym of to win is to lose."
+},
+{
+"front": "희망",
+"back": "Hope",
+"sentence_ko": "희망의 반대말은 절망이다.",
+"sentence_en": "The antonym of hope is despair."
+},
+{
+"front": "절망",
+"back": "Despair",
+"sentence_ko": "절망의 반대말은 희망이다.",
+"sentence_en": "The antonym of despair is hope."
+},
+{
+"front": "맵다",
+"back": "To be spicy",
+"sentence_ko": "음식이 너무 매워서 물을 마셨다.",
+"sentence_en": "The food was too spicy, so I drank water."
+},
+{
+"front": "짜다",
+"back": "To be salty",
+"sentence_ko": "음식이 너무 짜서 물을 마셨다.",
+"sentence_en": "The food was too salty, so I drank water."
+},
+{
+"front": "싱겁다",
+"back": "To be bland",
+"sentence_ko": "국이 싱거워서 소금을 더 넣었다.",
+"sentence_en": "The soup was bland, so I added more salt."
+},
+{
+"front": "시다",
+"back": "To be sour",
+"sentence_ko": "레몬은 시다.",
+"sentence_en": "A lemon is sour."
+},
+{
+"front": "달다",
+"back": "To be sweet",
+"sentence_ko": "사탕은 달다.",
+"sentence_en": "Candy is sweet."
+},
+{
+"front": "쓰다",
+"back": "To be bitter",
+"sentence_ko": "약은 쓰다.",
+"sentence_en": "Medicine is bitter."
 }
 ]
+}
 },
         "Lecture 2": {
             "상황 및 행동 관련 어휘 (Situation & Action Vocabulary)": [
