@@ -2773,8 +2773,512 @@
 "sentence_en": "I had a lot of clothes to wash, so I dropped them off at the laundry."
 }
 ]
-      }
-
+      },
+"Lecture 2": {
+"장소 관련 어휘 (Place-Related Vocabulary)": [
+{
+"front": "장소",
+"back": "Place/Location",
+"sentence_ko": "민수 씨, 이번 주 모임 장소가 바뀌었대요.",
+"sentence_en": "Minsu, I heard the meeting place has changed."
+},
+{
+"front": "정문",
+"back": "Main gate/Entrance",
+"sentence_ko": "정문 옆에 있는 식당이에요.",
+"sentence_en": "It's the restaurant next to the main gate."
+},
+{
+"front": "대기실",
+"back": "Waiting room",
+"sentence_ko": "잠시 후 대기실에 계신 참가자들은 대회장으로 오시기 바랍니다.",
+"sentence_en": "Participants in the waiting room, please come to the venue shortly."
+},
+{
+"front": "대회장",
+"back": "Competition venue",
+"sentence_ko": "개회식은 대회장에서 열립니다.",
+"sentence_en": "The opening ceremony will be held at the competition venue."
+},
+{
+"front": "산 정상",
+"back": "Mountain summit",
+"sentence_ko": "등산객들은 산 정상에서 내려오던 중 길을 잃었습니다.",
+"sentence_en": "The hikers got lost while descending from the mountain summit."
+},
+{
+"front": "지명",
+"back": "Place name",
+"sentence_ko": "마을 이름이나 지명에는 옛말이 많이 남아 있습니다.",
+"sentence_en": "Many old words remain in village names and place names."
+},
+{
+"front": "외부",
+"back": "Outside",
+"sentence_ko": "건물 외부를 새로 페인트칠했습니다.",
+"sentence_en": "The exterior of the building was newly painted."
+},
+{
+"front": "계산대",
+"back": "Checkout counter",
+"sentence_ko": "저쪽 계산대에서 계산하시면 됩니다.",
+"sentence_en": "You can do it at the checkout counter over there."
+},
+{
+"front": "식당",
+"back": "Restaurant",
+"sentence_ko": "정문 옆에 있는 식당이에요.",
+"sentence_en": "It's the restaurant next to the main gate."
+},
+{
+"front": "시골",
+"back": "Countryside",
+"sentence_ko": "아, 그 시골에서 할머니랑 사는 아이 이야기?",
+"sentence_en": "Oh, the story about the child living with their grandmother in the countryside?"
+},
+{
+"front": "국내",
+"back": "Domestic",
+"sentence_ko": "국내의 반대말은 해외이다.",
+"sentence_en": "The antonym of domestic is overseas."
+},
+{
+"front": "해외",
+"back": "Overseas/Foreign",
+"sentence_ko": "국내의 반대말은 해외이다.",
+"sentence_en": "The antonym of domestic is overseas."
+},
+{
+"front": "입국",
+"back": "Entry to a country",
+"sentence_ko": "출국의 반대말은 입국이다.",
+"sentence_en": "The antonym of departure is entry (to a country)."
+}
+],
+"사물 관련 어휘 (Object-Related Vocabulary)": [
+{
+"front": "모형",
+"back": "Model",
+"sentence_ko": "이것은 실제 배와 똑같은 모형입니다.",
+"sentence_en": "This is a model that looks exactly like a real ship."
+},
+{
+"front": "가죽",
+"back": "Leather",
+"sentence_ko": "모형 배는 가죽으로 만들어졌다고 해요.",
+"sentence_en": "The model ship was said to be made of leather."
+},
+{
+"front": "쓰레기",
+"back": "Trash",
+"sentence_ko": "쓰레기는 쓰레기통에 버려 주세요.",
+"sentence_en": "Please throw the trash in the trash can."
+},
+{
+"front": "수화물",
+"back": "Baggage / Luggage",
+"sentence_ko": "짐이 너무 많아서 비행기 수화물을 미리 보냈습니다.",
+"sentence_en": "I had too much luggage, so I sent my checked bags in advance."
+},
+{
+"front": "소금",
+"back": "Salt",
+"sentence_ko": "그럼, 소금을 더 넣을까요?",
+"sentence_en": "Then, should I add more salt?"
+},
+{
+"front": "길이",
+"back": "Length",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today?"
+},
+{
+"front": "수리",
+"back": "Repair/Maintenance (for machines)",
+"sentence_ko": "에어컨 수리를 신청했는데, 연락이 없어서 전화했어요.",
+"sentence_en": "I applied for air conditioner repair, but I haven't heard back, so I called."
+},
+{
+"front": "계산",
+"back": "Payment/Check",
+"sentence_ko": "네, 계산은 어디서 하지요?",
+"sentence_en": "Yes, where do I make the payment?"
+},
+{
+"front": "발표",
+"back": "Presentation",
+"sentence_ko": "내일 발표만 끝나면 이제 이번 학기도 끝나네요.",
+"sentence_en": "Once the presentation is over tomorrow, this semester will be over."
+},
+{
+"front": "학기",
+"back": "Semester",
+"sentence_ko": "내일 발표만 끝나면 이제 이번 학기도 끝나네요.",
+"sentence_en": "Once the presentation is over tomorrow, this semester will be over."
+},
+{
+"front": "계획",
+"back": "Plan",
+"sentence_ko": "수미 씨, 방학 계획은 세웠어요?",
+"sentence_en": "Sumi, did you make summer break plans?"
+},
+{
+"front": "만족도",
+"back": "Degree of satisfaction",
+"sentence_ko": "팀장님, 프로그램 만족도 설문 조사를 만들어 봤는데요.",
+"sentence_en": "Team Leader, I made the program satisfaction survey."
+},
+{
+"front": "설문 조사",
+"back": "Survey/Questionnaire",
+"sentence_ko": "팀장님, 프로그램 만족도 설문 조사를 만들어 봤는데요.",
+"sentence_en": "Team Leader, I made the program satisfaction survey."
+},
+{
+"front": "결과",
+"back": "Result",
+"sentence_ko": "최선을 다했으면 좋은 결과가 있을 거야.",
+"sentence_en": "If you did your best, you will have a good result."
+},
+{
+"front": "희망",
+"back": "Hope",
+"sentence_ko": "희망의 반대말은 절망이다.",
+"sentence_en": "The antonym of hope is despair."
+}
+],
+"행동 및 동사 관련 (Action & Verb Related)": [
+{
+"front": "바뀌다",
+"back": "To be changed",
+"sentence_ko": "모임 장소가 어디로 바뀌었나요?",
+"sentence_en": "Where was the meeting place changed to?"
+},
+{
+"front": "만들다",
+"back": "To make",
+"sentence_ko": "그 배 모형은 가죽으로 만들어졌습니다.",
+"sentence_en": "That model ship was made of leather."
+},
+{
+"front": "배우다",
+"back": "To learn",
+"sentence_ko": "여러 분야의 사람을 만나면 배울 것이 많습니다.",
+"sentence_en": "When you meet people from various fields, there is a lot to learn."
+},
+{
+"front": "출력하다",
+"back": "To print",
+"sentence_ko": "자료를 출력한 후 오타가 없는지 확인해야 합니다.",
+"sentence_en": "After printing the documents, you need to check for any typos."
+},
+{
+"front": "줄이다",
+"back": "To shorten",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있나요?",
+"sentence_en": "I want to shorten my pants; can you do it by today?"
+},
+{
+"front": "맡기다",
+"back": "To entrust",
+"sentence_ko": "세탁할 옷이 많아서 세탁소에 세탁물을 맡겼습니다.",
+"sentence_en": "I had a lot of clothes to wash, so I entrusted them to the laundry."
+},
+{
+"front": "고치다",
+"back": "To fix / to repair",
+"sentence_ko": "에어컨 수리를 신청했는데 연락이 없어서 전화했어요.",
+"sentence_en": "I applied for an air conditioner repair, but since there was no response, I called them."
+},
+{
+"front": "집중하다",
+"back": "To concentrate",
+"sentence_ko": "새벽에 일어나서 공부하는데 집중이 잘 되더라고요.",
+"sentence_en": "I woke up early and studied, and I found I could concentrate well."
+},
+{
+"front": "추천하다",
+"back": "To recommend",
+"sentence_ko": "맛있는 식당 있으면 추천해 주세요.",
+"sentence_en": "If you know any good restaurants, please recommend them."
+},
+{
+"front": "환승하다",
+"back": "To transfer (transportation)",
+"sentence_ko": "지하철역에서 버스로 환승해야 합니다.",
+"sentence_en": "You have to transfer from the subway station to the bus."
+},
+{
+"front": "알아보다",
+"back": "To find out/Check/Look up",
+"sentence_ko": "기차표 알아봤는데 금요일 오후 표는 없는 것 같아.",
+"sentence_en": "I checked the train tickets, and it seems there are no Friday afternoon tickets."
+},
+{
+"front": "취소하다",
+"back": "To cancel",
+"sentence_ko": "금요일 오후 표는 취소하자.",
+"sentence_en": "Let's cancel the Friday afternoon ticket."
+},
+{
+"front": "계획을 세우다",
+"back": "To make a plan/Establish a plan",
+"sentence_ko": "수미 씨, 방학 계획은 세웠어요?",
+"sentence_en": "Sumi, did you make summer break plans?"
+},
+{
+"front": "졸다",
+"back": "To doze off / fall asleep",
+"sentence_ko": "영화가 너무 재미없어서 졸았어요.",
+"sentence_en": "The movie was so boring that I dozed off."
+},
+{
+"front": "정리하다",
+"back": "To organize/Arrange",
+"sentence_ko": "질문을 다시 정리해 보겠습니다.",
+"sentence_en": "I will reorganize the questions."
+},
+{
+"front": "최선을 다하다",
+"back": "To do one's best",
+"sentence_ko": "최선을 다했으면 좋은 결과가 있을 거야.",
+"sentence_en": "If you did your best, you will have a good result."
+},
+{
+"front": "뵈다 (뵙다)",
+"back": "To meet (Honorific)",
+"sentence_ko": "김 과장님을 좀 뵈러 왔는데요.",
+"sentence_en": "I came to meet Manager Kim."
+},
+{
+"front": "계시다",
+"back": "To be/Exist (Honorific)",
+"sentence_ko": "지금 자리에 안 계신데 곧 오실 거예요.",
+"sentence_en": "He is not here right now, but he will come soon."
+},
+{
+"front": "작성하다",
+"back": "To write/Prepare (a document)",
+"sentence_ko": "보고서 작성을 끝내셨으면 퇴근하세요.",
+"sentence_en": "If you finished writing the report, please leave work."
+},
+{
+"front": "끓다",
+"back": "To boil",
+"sentence_ko": "여보, 국이 다 끓었는데 맛이 어떤지 봐 주세요.",
+"sentence_en": "Honey, the soup has boiled, please check the taste."
+},
+{
+"front": "넣다",
+"back": "To put in/Add",
+"sentence_ko": "그럼, 소금을 더 넣을까요?",
+"sentence_en": "Then, should I add more salt?"
+},
+{
+"front": "계산",
+"back": "Payment/Check",
+"sentence_ko": "네, 계산은 어디서 하지요?",
+"sentence_en": "Yes, where do I make the payment?"
+},
+{
+"front": "빨다",
+"back": "To wash (clothes)",
+"sentence_ko": "깨끗하게 빨아 드릴게요.",
+"sentence_en": "I will wash it cleanly for you."
+},
+{
+"front": "몰리다",
+"back": "To pile up/Gather (used for work)",
+"sentence_ko": "죄송합니다. 일이 갑자기 몰려서 늦어졌습니다.",
+"sentence_en": "I apologize. Work suddenly piled up, so it got delayed."
+},
+{
+"front": "예약하다",
+"back": "To reserve/Book",
+"sentence_ko": "역시 예약하고 오길 잘했어요.",
+"sentence_en": "It was a good thing I came after reserving (in advance)."
+},
+{
+"front": "줄이다",
+"back": "To reduce/Shorten",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today?"
+},
+{
+"front": "수선하다",
+"back": "To mend/Repair (clothes/shoes)",
+"sentence_ko": "죄송하지만 오늘은 수선해야 할 게 많아서 안 되겠는데요.",
+"sentence_en": "I'm sorry, but I have too many things to mend today, so I can't."
+},
+{
+"front": "출국",
+"back": "Departure from a country",
+"sentence_ko": "출국의 반대말은 입국이다.",
+"sentence_en": "The antonym of departure is entry (to a country)."
+},
+{
+"front": "입국",
+"back": "Entry to a country",
+"sentence_ko": "출국의 반대말은 입국이다.",
+"sentence_en": "The antonym of departure is entry (to a country)."
+}
+],
+"형용사 관련 어휘 (Adjective-Related Vocabulary)": [
+{
+"front": "맛있다",
+"back": "To be delicious",
+"sentence_ko": "저 식당은 음식이 맛있나 봐요. 사람이 많네요.",
+"sentence_en": "It seems the food at that restaurant is delicious. There are many people."
+},
+{
+"front": "재미있다",
+"back": "To be interesting / fun",
+"sentence_ko": "새로 시작한 드라마가 진짜 재미있었어요.",
+"sentence_en": "The new drama that started was really interesting."
+},
+{
+"front": "심심하다",
+"back": "To be bored",
+"sentence_ko": "드라마를 볼 시간이 없어서 너무 심심했어요.",
+"sentence_en": "I didn't have time to watch a drama, so I was really bored."
+},
+{
+"front": "싱겁다",
+"back": "To be bland / not salty enough",
+"sentence_ko": "이 국은 맛이 좀 싱거운 것 같아요.",
+"sentence_en": "I think this soup is a bit bland."
+},
+{
+"front": "짜다",
+"back": "To be salty",
+"sentence_ko": "소금을 너무 많이 넣어서 음식이 짜요.",
+"sentence_en": "The food is too salty because I put in too much salt."
+},
+{
+"front": "지루하다",
+"back": "To be boring/Tedious",
+"sentence_ko": "아니. 너무 지루해서 졸았어.",
+"sentence_en": "No. It was too boring, so I dozed off."
+},
+{
+"front": "긍정적",
+"back": "Positive",
+"sentence_ko": "긍정적의 반대말은 부정적이다.",
+"sentence_en": "The antonym of positive is negative."
+},
+{
+"front": "부정적",
+"back": "Negative",
+"sentence_ko": "긍정적의 반대말은 부정적이다.",
+"sentence_en": "The antonym of positive is negative."
+},
+{
+"front": "외향적",
+"back": "Extroverted",
+"sentence_ko": "외향적의 반대말은 내성적이다.",
+"sentence_en": "The antonym of extroverted is introverted."
+},
+{
+"front": "내성적",
+"back": "Introverted",
+"sentence_ko": "외향적의 반대말은 내성적이다.",
+"sentence_en": "The antonym of extroverted is introverted."
+}
+],
+"문법 및 표현 (Grammar & Expressions)": [
+{
+"front": "잘하다",
+"back": "To do something well",
+"sentence_ko": "역시 예약하고 오길 잘했어요.",
+"sentence_en": "It was indeed a good idea to make a reservation and come."
+},
+{
+"front": "잘 못 보다",
+"back": "To not do well (on a test)",
+"sentence_ko": "시험이 너무 어려워서 잘 못 봤습니다.",
+"sentence_en": "The test was too difficult, so I didn't do well on it."
+},
+{
+"front": "말이다",
+"back": "I mean...",
+"sentence_ko": "이번에 새로 시작한 드라마 말이야.",
+"sentence_en": "I'm talking about the new drama that started."
+},
+{
+"front": "졸다",
+"back": "To doze off / fall asleep",
+"sentence_ko": "영화가 너무 재미없어서 졸았어요.",
+"sentence_en": "The movie was so boring that I dozed off."
+},
+{
+"front": "재미있더라 (패턴)",
+"back": "It was interesting/fun (Recollection of past experience)",
+"sentence_ko": "이번에 새로 시작한 드라마 말이야. 진짜 재미있더라.",
+"sentence_en": "That new drama that started recently. It was really interesting."
+},
+{
+"front": "최선을 다하다 (패턴)",
+"back": "To do one's best",
+"sentence_ko": "최선을 다했으면 좋은 결과가 있을 거야.",
+"sentence_en": "If you did your best, you will have a good result."
+},
+{
+"front": "뵈다 (뵙다)",
+"back": "To meet (Honorific)",
+"sentence_ko": "김 과장님을 좀 뵈러 왔는데요.",
+"sentence_en": "I came to meet Manager Kim."
+},
+{
+"front": "계시다",
+"back": "To be/Exist (Honorific)",
+"sentence_ko": "지금 자리에 안 계신데 곧 오실 거예요.",
+"sentence_en": "He is not here right now, but he will come soon."
+},
+{
+"front": "~까지 (패턴)",
+"back": "By/Until (a time)",
+"sentence_ko": "그럼 내일까지 해 주세요.",
+"sentence_en": "Then please do it by tomorrow."
+},
+{
+"front": "~았/었어야지요 (패턴)",
+"back": "You should have done...",
+"sentence_ko": "그러면 미리 연락을 주셨어야지요.",
+"sentence_en": "Then you should have contacted me in advance."
+},
+{
+"front": "~을까 해요 (패턴)",
+"back": "I'm thinking of doing...",
+"sentence_ko": "외국어 공부를 좀 할까 해요.",
+"sentence_en": "I'm thinking of studying a foreign language."
+},
+{
+"front": "빨리",
+"back": "Quickly",
+"sentence_ko": "'빨리'의 반대말은 '천천히'이다.",
+"sentence_en": "The antonym of quickly is slowly."
+},
+{
+"front": "천천히",
+"back": "Slowly",
+"sentence_ko": "'빨리'의 반대말은 '천천히'이다.",
+"sentence_en": "The antonym of quickly is slowly."
+},
+{
+"front": "빌리다",
+"back": "To borrow",
+"sentence_ko": "빌리다의 반대말은 갚다/돌려주다이다.",
+"sentence_en": "The antonym of to borrow is to pay back/to return."
+},
+{
+"front": "이기다",
+"back": "To win",
+"sentence_ko": "이기다의 반대말은 지다이다.",
+"sentence_en": "The antonym of to win is to lose."
+}
+]
+}
+}
     },
     "Week 4": {
         "Lecture 1": {
