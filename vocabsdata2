@@ -2797,31 +2797,810 @@
     },
     "Week 4": {
         "Lecture 1": {
-            "회사 및 업무 관련 어휘 (Company & Work Vocabulary)": [
-                {"front": "회의 자료", "back": "Meeting materials/documents", "sentence_ko": "김 대리님, 회의 자료 복사 다 됐어요?", "sentence_en": "Assistant Manager Kim, are the meeting materials all copied?"},
-                {"front": "복사하다", "back": "To copy", "sentence_ko": "지금 바로 복사해 드릴게요.", "sentence_en": "I'll copy them for you right now."},
-                {"front": "결재를 받다", "back": "To get approval (from a superior)", "sentence_ko": "부장님께 결재부터 받아야 하니까요.", "sentence_en": "Because I need to get approval from the department head first."},
-                {"front": "퇴근하다", "back": "To leave work", "sentence_ko": "퇴근하기 전에 잠깐 볼 수 있을까요?", "sentence_en": "Can I see you for a moment before you leave work?"},
-                {"front": "보고서", "back": "Report", "sentence_ko": "보고서를 빨리 써야 해서요.", "sentence_en": "Because I have to write a report quickly."},
-                {"front": "수정하다", "back": "To correct / modify / revise", "sentence_ko": "보고서에 수정할 게 좀 있어서요.", "sentence_en": "Because there are some things to revise in the report."},
-                {"front": "새로", "back": "Newly / Anew", "sentence_ko": "새로 오신 김민수 씨입니다.", "sentence_en": "This is Mr. Minsu Kim, who has newly arrived."},
-                {"front": "인사 나누다", "back": "To greet each other", "sentence_ko": "서로 인사 나누세요.", "sentence_en": "Please greet each other."},
-                {"front": "자료를 정리하다", "back": "To organize materials", "sentence_ko": "자료 정리가 아직 안 끝나서요.", "sentence_en": "Because I haven't finished organizing the materials yet."},
-                {"front": "회의실", "back": "Meeting room", "sentence_ko": "회의실은 어디에 있습니까?", "sentence_en": "Where is the meeting room?"}
-            ],
-            "일상 생활 관련 어휘 (Daily Life Vocabulary)": [
-                {"front": "콘서트 표", "back": "Concert ticket", "sentence_ko": "인터넷으로 산 콘서트 표를 어떻게 받아요?", "sentence_en": "How do I receive the concert tickets I bought online?"},
-                {"front": "찾다", "back": "To pick up / find", "sentence_ko": "콘서트 당일에 현장에서 찾으시면 됩니다.", "sentence_en": "You can pick them up on-site on the day of the concert."},
-                {"front": "신분증", "back": "ID card", "sentence_ko": "신분증은 꼭 가지고 가야 하고요.", "sentence_en": "You must bring your ID card."},
-                {"front": "주유하다", "back": "To refuel / get gas", "sentence_ko": "주유하실 때마다 점수가 적립되는데요.", "sentence_en": "Points are accumulated every time you refuel."},
-                {"front": "적립되다", "back": "To be accumulated (points/miles)", "sentence_ko": "주유하실 때마다 점수가 적립되는데요.", "sentence_en": "Points are accumulated every time you refuel."},
-                {"front": "혜택", "back": "Benefits / Perks", "sentence_ko": "회원 카드요? 어떤 혜택이 있나요?", "sentence_en": "A membership card? What kind of benefits are there?"}
-            ],
-            "문법 및 표현 (Grammar & Expressions)": [
-                {"front": "-(으)ㄹ게요", "back": "I will... (speaker's intention)", "sentence_ko": "지금 바로 복사해 드릴게요.", "sentence_en": "I'll copy them for you right now."},
-                {"front": "-는 중이다", "back": "In the middle of doing...", "sentence_ko": "지금 가는 중이에요.", "sentence_en": "I am on my way now."},
-                {"front": "-는 길에", "back": "On the way to...", "sentence_ko": "회사에 들어오는 길에 커피 좀 사다 줄까?", "sentence_en": "On my way to the office, shall I buy you some coffee?"}
-            ]
+"일상 관련 어휘 (Daily Life Related Vocabulary)": [
+{
+"front": "예약하다",
+"back": "To reserve/book",
+"sentence_ko": "역시 예약하고 오길 잘했어요.",
+"sentence_en": "It was indeed a good thing to have made a reservation before coming."
+},
+{
+"front": "취소하다",
+"back": "To cancel",
+"sentence_ko": "금요일 오후 표는 취소하자.",
+"sentence_en": "Let's cancel the Friday afternoon ticket."
+},
+{
+"front": "주문하다",
+"back": "To order",
+"sentence_ko": "식당에 가서 비빔밥 하나 주문했습니다.",
+"sentence_en": "I went to the restaurant and ordered a bibimbap."
+},
+{
+"front": "연락하다",
+"back": "To contact",
+"sentence_ko": "에어컨 수리를 신청했는데 연락이 없어서 전화했어요.",
+"sentence_en": "I applied for air conditioner repair, but since there was no response, I called them."
+},
+{
+"front": "결정하다",
+"back": "To decide",
+"sentence_ko": "어디에서 만날지 결정하다.",
+"sentence_en": "To decide where to meet."
+},
+{
+"front": "선택하다",
+"back": "To select/choose",
+"sentence_ko": "어떤 옷을 입을지 선택하다.",
+"sentence_en": "To choose which clothes to wear."
+},
+{
+"front": "걱정하다",
+"back": "To worry",
+"sentence_ko": "시험을 못 볼까 봐 걱정하다.",
+"sentence_en": "To worry about failing the exam."
+},
+{
+"front": "준비하다",
+"back": "To prepare",
+"sentence_ko": "발표를 위해 발표 자료를 준비하다.",
+"sentence_en": "To prepare presentation materials for the presentation."
+},
+{
+"front": "돌아오다",
+"back": "To return",
+"sentence_ko": "집에 일찍 돌아오다.",
+"sentence_en": "To return home early."
+},
+{
+"front": "전달하다",
+"back": "To convey/pass on",
+"sentence_ko": "친구에게 소식을 전달하다.",
+"sentence_en": "To convey news to a friend."
+},
+{
+"front": "분실물 찾기",
+"back": "Finding lost items",
+"sentence_ko": "분실물 찾기.",
+"sentence_en": "Finding lost items."
+},
+{
+"front": "복사하기",
+"back": "Copying",
+"sentence_ko": "연락하고 복사해 놓으세요.",
+"sentence_en": "Contact and then copy and put it away."
+},
+{
+"front": "방문하기",
+"back": "Visiting",
+"sentence_ko": "선물 들고 방문하기.",
+"sentence_en": "Visiting while carrying a gift."
+},
+{
+"front": "사무실 수리 요청하기",
+"back": "Requesting office repair",
+"sentence_ko": "사무실 수리 요청하기.",
+"sentence_en": "Requesting office repair."
+},
+{
+"front": "물건 들어 주기",
+"back": "Holding/carrying an object for someone",
+"sentence_ko": "물건 들어 주기.",
+"sentence_en": "Holding/carrying an object for someone."
+},
+{
+"front": "물건 옮기기",
+"back": "Moving an object",
+"sentence_ko": "물건 옮기기.",
+"sentence_en": "Moving an object."
+},
+{
+"front": "시험 공부하기",
+"back": "Studying for an exam",
+"sentence_ko": "시험 공부하기.",
+"sentence_en": "Studying for an exam."
+},
+{
+"front": "액자 걸기",
+"back": "Hanging a picture frame",
+"sentence_ko": "이쪽 벽에는 그림을 하나 걸면 좋을 것 같아요.",
+"sentence_en": "I think it would be good to hang a picture on this wall."
+},
+{
+"front": "옷장 정리하기",
+"back": "Organizing the closet",
+"sentence_ko": "옷장 정리하기.",
+"sentence_en": "Organizing the closet."
+},
+{
+"front": "냉장고 정리하기",
+"back": "Organizing the refrigerator",
+"sentence_ko": "냉장고 정리하기.",
+"sentence_en": "Organizing the refrigerator."
+},
+{
+"front": "정원 가꾸기",
+"back": "Gardening",
+"sentence_ko": "정원 가꾸기(꽃, 나무 심기)하기.",
+"sentence_en": "Doing gardening (planting flowers, trees)."
+},
+{
+"front": "화분",
+"back": "Flowerpot",
+"sentence_ko": "저쪽에는 화분을 몇 개 갖다 놓으면 좋겠네요.",
+"sentence_en": "It would be good to place a few flowerpots over there."
+},
+{
+"front": "전구 갈아 끼우기",
+"back": "Changing a lightbulb",
+"sentence_ko": "전구 갈아 끼우기.",
+"sentence_en": "Changing a lightbulb."
+},
+{
+"front": "세탁 부탁하기",
+"back": "Requesting laundry",
+"sentence_ko": "세탁 부탁하기.",
+"sentence_en": "Requesting laundry."
+},
+{
+"front": "집안일",
+"back": "Housework (e.g., cleaning, dishwashing)",
+"sentence_ko": "집안일(청소, 설거지 등)하기.",
+"sentence_en": "Doing housework (e.g., cleaning, dishwashing)."
+},
+{
+"front": "요리한 후 맛보기",
+"back": "Tasting after cooking",
+"sentence_ko": "요리한 후 맛보기.",
+"sentence_en": "Tasting after cooking."
+},
+{
+"front": "매장 위치 물어보기",
+"back": "Asking for a store location",
+"sentence_ko": "매장 위치 물어보기.",
+"sentence_en": "Asking for a store location."
+},
+{
+"front": "탈의실",
+"back": "Fitting room (Changing room)",
+"sentence_ko": "탈의실 물어보기.",
+"sentence_en": "Asking for the fitting room."
+},
+{
+"front": "남은 음식 포장 부탁하기",
+"back": "Requesting leftover food to be packed",
+"sentence_ko": "남은 음식 포장 부탁하기.",
+"sentence_en": "Requesting leftover food to be packed."
+},
+{
+"front": "개방 시간",
+"back": "Opening hours",
+"sentence_ko": "도서관의 개방 시간 및 주의 사항 안내.",
+"sentence_en": "Guidance on the library's opening hours and precautions."
+},
+{
+"front": "규칙",
+"back": "Rule",
+"sentence_ko": "자료실 이용 규칙 안내.",
+"sentence_en": "Guidance on archive usage rules."
+},
+{
+"front": "열람실",
+"back": "Reading room",
+"sentence_ko": "열람실 이용 시간 안내.",
+"sentence_en": "Guidance on reading room hours."
+},
+{
+"front": "공과금 납부하기",
+"back": "Paying utility bills",
+"sentence_ko": "공과금 납부하기.",
+"sentence_en": "Paying utility bills."
+},
+{
+"front": "교환하기",
+"back": "To exchange",
+"sentence_ko": "교환하기.",
+"sentence_en": "To exchange."
+},
+{
+"front": "환불하기",
+"back": "To get a refund",
+"sentence_ko": "환불하기.",
+"sentence_en": "To refund."
+},
+{
+"front": "반품하다",
+"back": "To return an item",
+"sentence_ko": "환불하려면 반품해야 되죠.",
+"sentence_en": "To get a refund, you need to return the item."
+},
+{
+"front": "색상",
+"back": "Color",
+"sentence_ko": "원하는 색상 말하기.",
+"sentence_en": "Stating desired color."
+},
+{
+"front": "도착 시간",
+"back": "Arrival time",
+"sentence_ko": "도착 시간 말하기.",
+"sentence_en": "Stating arrival time."
+},
+{
+"front": "만날 장소 정하기",
+"back": "Deciding on a meeting place",
+"sentence_ko": "전화로 만날 장소 정하기.",
+"sentence_en": "Deciding on a meeting place by phone."
+},
+{
+"front": "문화센터",
+"back": "Cultural center",
+"sentence_ko": "백화점 문화센터 이야기가 나올 수 있어요.",
+"sentence_en": "A story about a department store cultural center might come up."
+},
+{
+"front": "수업료",
+"back": "Tuition fee",
+"sentence_ko": "수업료 = 수강료.",
+"sentence_en": "Tuition fee equals course fee."
+},
+{
+"front": "수강료",
+"back": "Course fee",
+"sentence_ko": "수업료 = 수강료.",
+"sentence_en": "Tuition fee equals course fee."
+},
+{
+"front": "수업이 열리다",
+"back": "A class is opened/available",
+"sentence_ko": "수업이 열리다.",
+"sentence_en": "A class is opened."
+},
+{
+"front": "영수증",
+"back": "Receipt",
+"sentence_ko": "영수증이 꼭 필요해요.",
+"sentence_en": "A receipt is absolutely necessary."
+},
+{
+"front": "구입하다",
+"back": "To purchase",
+"sentence_ko": "구입하다는 사다 뜻이고 구매하다도 있어요.",
+"sentence_en": "구입하다 means to buy, and there is also 구매하다."
+},
+{
+"front": "적립하다",
+"back": "To accumulate/Save up (points)",
+"sentence_ko": "점수가 정립되는데요.",
+"sentence_en": "Points are accumulated."
+},
+{
+"front": "유모차",
+"back": "Stroller/Pram",
+"sentence_ko": "유모차를 대여할 수 있어요.",
+"sentence_en": "You can borrow a stroller."
+},
+{
+"front": "소포",
+"back": "Parcel/Package",
+"sentence_ko": "소포를 붙이려고 왔는데요.",
+"sentence_en": "I came to mail a parcel."
+},
+{
+"front": "소포용 상자",
+"back": "Parcel box",
+"sentence_ko": "직접 소포용 상자로 포장하셔야 합니다.",
+"sentence_en": "You must personally package it using a parcel box."
+},
+{
+"front": "포장하다",
+"back": "To pack/Wrap",
+"sentence_ko": "먼저 저쪽에 가서 상자를 산 후에 포장을 해서 오시면 됩니다.",
+"sentence_en": "First, you should go over there, buy a box, and then come back after packaging it."
+},
+{
+"front": "지나다",
+"back": "To pass/elapse",
+"sentence_ko": "회의 시간이 벌써 20분이나 지났는데 왜 아무도 안 오죠?",
+"sentence_en": "The meeting time has already passed by 20 minutes, why hasn't anyone come?"
+},
+{
+"front": "건강에 안 좋다",
+"back": "To be bad for health",
+"sentence_ko": "춥다고 집에만 있으면 건강에 안 좋아.",
+"sentence_en": "If you stay only at home because it's cold, it's bad for your health."
+},
+{
+"front": "갈아입다",
+"back": "To change clothes",
+"sentence_ko": "알았어. 옷 좀 갈아입을테니까 좀 기다려.",
+"sentence_en": "I understand. I'm going to change clothes, so wait a bit."
+},
+{
+"front": "예매하다",
+"back": "To book tickets in advance",
+"sentence_ko": "오늘 기차표를 예매하려고요.",
+"sentence_en": "I plan to book a train ticket today."
+},
+{
+"front": "보고서",
+"back": "Report",
+"sentence_ko": "월요일까지 내야 하는 보고서가 있어서 오늘 도서관에서 친구랑 같이 하기로 했거든요.",
+"sentence_en": "I have a report due by Monday, so I decided to do it with a friend at the library today."
+},
+{
+"front": "승강기",
+"back": "Elevator",
+"sentence_ko": "그럼 승강기 앞에서 기다릴게요.",
+"sentence_en": "Then I will wait in front of the elevator."
+}
+],
+"감정/상태 관련 어휘 (Emotion/State Related Vocabulary)": [
+{
+"front": "기쁘다",
+"back": "To be happy",
+"sentence_ko": "좋은 소식을 듣고 기쁘다.",
+"sentence_en": "To be happy after hearing good news."
+},
+{
+"front": "괜찮다",
+"back": "To be okay",
+"sentence_ko": "이 정도면 괜찮다.",
+"sentence_en": "This is okay."
+},
+{
+"front": "답답하다",
+"back": "To be stuffy/frustrated",
+"sentence_ko": "일이 마음대로 안 돼서 답답하다.",
+"sentence_en": "To be frustrated because things are not going as planned."
+},
+{
+"front": "속상하다",
+"back": "To be upset",
+"sentence_ko": "시험을 못 봐서 속상하다.",
+"sentence_en": "To be upset about not doing well on the exam."
+},
+{
+"front": "후련하다",
+"back": "To feel relieved",
+"sentence_ko": "발표가 끝나니 후련하다.",
+"sentence_en": "To feel relieved after the presentation is over."
+},
+{
+"front": "긴장되다",
+"back": "To be nervous",
+"sentence_ko": "면접을 보려고 하니 긴장된다.",
+"sentence_en": "I'm nervous because I'm about to have an interview."
+},
+{
+"front": "당황하다",
+"back": "To be flustered/embarrassed",
+"sentence_ko": "갑자기 실수를 해서 당황하다.",
+"sentence_en": "To be flustered after making a sudden mistake."
+},
+{
+"front": "무섭다",
+"back": "To be scary",
+"sentence_ko": "귀신이 무섭다.",
+"sentence_en": "Ghosts are scary."
+},
+{
+"front": "편하다",
+"back": "To be comfortable",
+"sentence_ko": "집에 있으니 마음이 편하다.",
+"sentence_en": "I feel comfortable being at home."
+},
+{
+"front": "신중하게",
+"back": "Carefully/Prudently",
+"sentence_ko": "한번 더 신중하게 생각해 보는게 어때요?",
+"sentence_en": "How about thinking about it more carefully one more time?"
+},
+{
+"front": "혼나다",
+"back": "To be scolded",
+"sentence_ko": "일이 몰려서 늦어졌다고 팀장님께 혼났어요.",
+"sentence_en": "I got scolded by the team leader for being late due to a pile-up of work."
+}
+],
+"문제 해결 관련 어휘 (Problem Solving Related Vocabulary)": [
+{
+"front": "고장나다",
+"back": "To break down",
+"sentence_ko": "텔레비전이 고장나서 화면이 안 나와요.",
+"sentence_en": "The TV is broken, so the screen isn't showing."
+},
+{
+"front": "수리하다",
+"back": "To repair",
+"sentence_ko": "고장난 휴대폰을 수리하다.",
+"sentence_en": "To repair a broken cell phone."
+},
+{
+"front": "교환하다",
+"back": "To exchange",
+"sentence_ko": "옷이 마음에 안 들어서 교환하다.",
+"sentence_en": "To exchange clothes because I don't like them."
+},
+{
+"front": "환불하다",
+"back": "To get a refund",
+"sentence_ko": "물건을 사용하지 않아서 환불하다.",
+"sentence_en": "To get a refund because I haven't used the item."
+},
+{
+"front": "잃어버리다",
+"back": "To lose something",
+"sentence_ko": "지갑을 잃어버려서 다시 찾다.",
+"sentence_en": "To lose my wallet and then find it again."
+},
+{
+"front": "찾다",
+"back": "To find/look for",
+"sentence_ko": "잃어버린 카드를 찾다.",
+"sentence_en": "To find a lost card."
+},
+{
+"front": "신고하다",
+"back": "To report",
+"sentence_ko": "카드를 잃어버려서 분실 신고를 하다.",
+"sentence_en": "To report a lost card."
+},
+{
+"front": "해결하다",
+"back": "To solve",
+"sentence_ko": "문제를 해결하다.",
+"sentence_en": "To solve a problem."
+},
+{
+"front": "해보다",
+"back": "To try",
+"sentence_ko": "혼자 힘으로 해보다.",
+"sentence_en": "To try it by yourself."
+},
+{
+"front": "고치다",
+"back": "To fix/mend",
+"sentence_ko": "수리하다. 고치다. 수선하다. 모두 고치는 내용이죠.",
+"sentence_en": "Repair, fix, mend—all relate to fixing."
+},
+{
+"front": "의논하다",
+"back": "To discuss/Consult",
+"sentence_ko": "교수님을 찾아가서 의논도 해보고요.",
+"sentence_en": "Go find the professor and discuss it."
+},
+{
+"front": "제대로 나오다",
+"back": "To come out properly/Work correctly",
+"sentence_ko": "영상 자료가 제대로 나오는지 컴퓨터는 한 번만 더 확인해 주세요.",
+"sentence_en": "Please check the computer one more time to make sure the video material works correctly."
+},
+{
+"front": "꼼꼼히",
+"back": "Meticulously/Carefully",
+"sentence_ko": "네. 다시 한번 꼼꼼히 확인해 보겠습니다.",
+"sentence_en": "Yes. I will check meticulously one more time."
+}
+],
+"동사 및 형용사 (Verbs and Adjectives)": [
+{
+"front": "납부하다",
+"back": "To pay (bills/taxes)",
+"sentence_ko": "공과금 납부하기.",
+"sentence_en": "Paying utility bills."
+},
+{
+"front": "적립하다",
+"back": "To accumulate/Save up (points)",
+"sentence_ko": "점수가 정립되는데요.",
+"sentence_en": "Points are accumulated."
+},
+{
+"front": "구입하다",
+"back": "To purchase",
+"sentence_ko": "구입하다는 사다 뜻이고 구매하다도 있어요.",
+"sentence_en": "구입하다 means to buy, and there is also 구매하다."
+},
+{
+"front": "대여하다",
+"back": "To rent/borrow",
+"sentence_ko": "유모차를 대여할 수 있어요.",
+"sentence_en": "You can borrow a stroller."
+},
+{
+"front": "반납하다",
+"back": "To return",
+"sentence_ko": "책 반납하기.",
+"sentence_en": "Returning a book."
+},
+{
+"front": "빌리다",
+"back": "To borrow",
+"sentence_ko": "책을 빌리다.",
+"sentence_en": "To borrow a book."
+},
+{
+"front": "빨래하다",
+"back": "To do laundry",
+"sentence_ko": "세탁하다 빨래하다 빨다 모두 같은 의미입니다.",
+"sentence_en": "세탁하다, 빨래하다, and 빨다 all have the same meaning."
+},
+{
+"front": "옷을 갈아입다",
+"back": "To change clothes",
+"sentence_ko": "알았어. 옷 좀 갈아입을테니까 좀 기다려.",
+"sentence_en": "I understand. I'm going to change clothes, so wait a bit."
+},
+{
+"front": "예매하다",
+"back": "To book tickets in advance",
+"sentence_ko": "오늘 기차표를 예매하려고요.",
+"sentence_en": "I plan to book a train ticket today."
+},
+{
+"front": "지나다",
+"back": "To pass/elapse",
+"sentence_ko": "회의 시간이 벌써 20분이나 지났는데 왜 아무도 안 오죠?",
+"sentence_en": "The meeting time has already passed by 20 minutes, why hasn't anyone come?"
+},
+{
+"front": "수선하다",
+"back": "To mend/repair (clothes/shoes)",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today?"
+},
+{
+"front": "줄이다",
+"back": "To reduce/Shorten",
+"sentence_ko": "바지 길이를 줄이려고 하는데 오늘까지 줄여 주실 수 있어요?",
+"sentence_en": "I want to shorten the pant length, can you shorten it by today."
+},
+{
+"front": "싱겁다",
+"back": "To be bland/Insipid (Opposite of salty)",
+"sentence_ko": "음, 조금 싱거운 것 같은데요.",
+"sentence_en": "Hmm, it seems a little bland."
+}
+],
+"주요 패턴 및 표현 (Key Patterns and Expressions)": [
+{
+"front": "V-아/어 보세요",
+"back": "Try doing [V]",
+"sentence_ko": "연락해 보세요.",
+"sentence_en": "Try contacting (them)."
+},
+{
+"front": "V-아/어 주시겠어요?",
+"back": "Would you please [V]? (Polite request)",
+"sentence_ko": "연락해 주시겠어요?",
+"sentence_en": "Would you please contact (them)?"
+},
+{
+"front": "V-(으)ㄹ 수 있어요?",
+"back": "Can you [V]? (Casual request)",
+"sentence_ko": "연락해 줄 수 있어요?",
+"sentence_en": "Can you contact (them)?"
+},
+{
+"front": "V-(으)면 돼요",
+"back": "You just need to [V]",
+"sentence_ko": "연락하면 돼요.",
+"sentence_en": "You just need to contact (them)."
+},
+{
+"front": "V-(으)ㄹ래요?",
+"back": "Shall I/Will you [V]? (Intent/Suggestion)",
+"sentence_ko": "연락할래요?",
+"sentence_en": "Shall I contact (them)?"
+},
+{
+"front": "V-고 V-(으)세요",
+"back": "Do V1 and then do V2",
+"sentence_ko": "나올 때 불 끄고 나오세요.",
+"sentence_en": "Turn off the light when you come out."
+},
+{
+"front": "V-(으)ㄹ 테니까",
+"back": "Because I intend to [V] / While I [V]",
+"sentence_ko": "밖에서 기다릴테니까 빨리 나와.",
+"sentence_en": "I will wait outside, so come out quickly."
+},
+{
+"front": "V-(으)ㄴ/는 동안",
+"back": "While [V]-ing",
+"sentence_ko": "연락하는 동안 복사할게요.",
+"sentence_en": "I will copy while you contact (them)."
+},
+{
+"front": "네. 알겠습니다.",
+"back": "Yes. I understand.",
+"sentence_ko": "네. 다시 한번 꼼꼼히 확인해 보겠습니다.",
+"sentence_en": "Yes. I will check meticulously one more time."
+},
+{
+"front": "네. 그럴게요.",
+"back": "Yes. I will do that.",
+"sentence_ko": "네. 그럴게요.",
+"sentence_en": "Yes. I will do that."
+},
+{
+"front": "네. 그렇게 할게요.",
+"back": "Yes. I will do it that way.",
+"sentence_ko": "네. 그렇게 할게요.",
+"sentence_en": "Yes. I will do it that way."
+},
+{
+"front": "~았/었으면 좋겠다",
+"back": "I wish/hope that...",
+"sentence_ko": "발표가 끝나니 후련하다. 빨리 졸업했으면 좋겠다.",
+"sentence_en": "The presentation is over, so I feel relieved. I hope I can graduate quickly."
+},
+{
+"front": "V-(으)ㄹ까 하다",
+"back": "I'm thinking of doing...",
+"sentence_ko": "방학 때 외국어 공부를 좀 할까 해요.",
+"sentence_en": "I'm thinking of studying a foreign language during vacation."
+},
+{
+"front": "V-더라",
+"back": "I saw/experienced that... (Recollection of past experience)",
+"sentence_ko": "이번에 새로 시작한 드라마 말이야. 진짜 재미있더라.",
+"sentence_en": "That new drama that started recently. It was really interesting."
+},
+{
+"front": "V-(으)ㄴ/는 것 같다",
+"back": "It seems/looks like...",
+"sentence_ko": "질문 수가 좀 많은 것 같네요.",
+"sentence_en": "It seems like there are quite a few questions."
+},
+{
+"front": "~어야지요",
+"back": "You should have done...",
+"sentence_ko": "그러면 미리 연락을 주셨어야지요.",
+"sentence_en": "Then you should have contacted me in advance."
+}
+],
+"반의어 (Antonyms)": [
+{
+"front": "국내",
+"back": "Domestic",
+"sentence_ko": "국내의 반대말은 해외이다.",
+"sentence_en": "The antonym of domestic is overseas."
+},
+{
+"front": "해외",
+"back": "Overseas/Foreign",
+"sentence_ko": "해외의 반대말은 국내이다.",
+"sentence_en": "The antonym of overseas is domestic."
+},
+{
+"front": "긍정적",
+"back": "Positive",
+"sentence_ko": "긍정적의 반대말은 부정적이다.",
+"sentence_en": "The antonym of positive is negative."
+},
+{
+"front": "부정적",
+"back": "Negative",
+"sentence_ko": "부정적의 반대말은 긍정적이다.",
+"sentence_en": "The antonym of negative is positive."
+},
+{
+"front": "빨리",
+"back": "Quickly",
+"sentence_ko": "빨리의 반대말은 천천히이다.",
+"sentence_en": "The antonym of quickly is slowly."
+},
+{
+"front": "천천히",
+"back": "Slowly",
+"sentence_ko": "천천히의 반대말은 빨리이다.",
+"sentence_en": "The antonym of slowly is quickly."
+},
+{
+"front": "빌리다",
+"back": "To borrow",
+"sentence_ko": "빌리다의 반대말은 갚다 또는 돌려주다이다.",
+"sentence_en": "The antonym of to borrow is to pay back or to return."
+},
+{
+"front": "갚다",
+"back": "To pay back",
+"sentence_ko": "빌린 돈을 갚다.",
+"sentence_en": "To pay back the borrowed money."
+},
+{
+"front": "돌려주다",
+"back": "To return",
+"sentence_ko": "빌린 책을 돌려주다.",
+"sentence_en": "To return the borrowed book."
+},
+{
+"front": "출국",
+"back": "Departure from a country",
+"sentence_ko": "출국의 반대말은 입국이다.",
+"sentence_en": "The antonym of departure is entry (to a country)."
+},
+{
+"front": "입국",
+"back": "Entry to a country",
+"sentence_ko": "입국의 반대말은 출국이다.",
+"sentence_en": "The antonym of entry is departure."
+},
+{
+"front": "외향적",
+"back": "Extroverted",
+"sentence_ko": "외향적의 반대말은 내성적이다.",
+"sentence_en": "The antonym of extroverted is introverted."
+},
+{
+"front": "내성적",
+"back": "Introverted",
+"sentence_ko": "내성적의 반대말은 외향적이다.",
+"sentence_en": "The antonym of introverted is extroverted."
+},
+{
+"front": "이기다",
+"back": "To win",
+"sentence_ko": "이기다의 반대말은 지다이다.",
+"sentence_en": "The antonym of to win is to lose."
+},
+{
+"front": "지다",
+"back": "To lose",
+"sentence_ko": "이기다의 반대말은 지다이다.",
+"sentence_en": "The antonym of to win is to lose."
+},
+{
+"front": "희망",
+"back": "Hope",
+"sentence_ko": "희망의 반대말은 절망이다.",
+"sentence_en": "The antonym of hope is despair."
+},
+{
+"front": "절망",
+"back": "Despair",
+"sentence_ko": "절망의 반대말은 희망이다.",
+"sentence_en": "The antonym of despair is hope."
+},
+{
+"front": "맵다",
+"back": "To be spicy",
+"sentence_ko": "음식이 너무 매워서 물을 마셨다.",
+"sentence_en": "The food was too spicy, so I drank water."
+},
+{
+"front": "짜다",
+"back": "To be salty",
+"sentence_ko": "음식이 너무 짜서 물을 마셨다.",
+"sentence_en": "The food was too salty, so I drank water."
+},
+{
+"front": "싱겁다",
+"back": "To be bland",
+"sentence_ko": "국이 싱거워서 소금을 더 넣었다.",
+"sentence_en": "The soup was bland, so I added more salt."
+},
+{
+"front": "시다",
+"back": "To be sour",
+"sentence_ko": "레몬은 시다.",
+"sentence_en": "A lemon is sour."
+},
+{
+"front": "달다",
+"back": "To be sweet",
+"sentence_ko": "사탕은 달다.",
+"sentence_en": "Candy is sweet."
+},
+{
+"front": "쓰다",
+"back": "To be bitter",
+"sentence_ko": "약은 쓰다.",
+"sentence_en": "Medicine is bitter."
+}
+]
         },
         "Lecture 2": {
             "상황 및 행동 관련 어휘 (Situation & Action Vocabulary)": [
